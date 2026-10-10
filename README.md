@@ -150,3 +150,38 @@ const jeddaEngine = new SouvenirImmortelEngine({
 });
 
 export default SouvenirImmortelEngine;
+# DHIKRA - IMMORTEL AI
+### L'âme qui ne meurt jamais, elle reste toujours immortelle en ligne.
+
+**IMMORTEL AI - The First Sentiment AI in the world.**
+
+> Faire parler une photo pour que les souvenirs et l'amour deviennent immortels.
+
+---
+### INVENTION
+- **Inventeur:** Yacine Cheurfa
+- **Lieu de naissance:** Azazga, Kabylie, Algérie
+- **Date de naissance:** 10 Octobre 2026 - 12:43 (Heure Suisse)
+- **Nom de code:** DHIKRA - ذكرى
+
+### C'EST QUOI DHIKRA?
+DHIKRA est la première Intelligence Artificielle des sentiments. 
+Ce n'est pas une IA qui répond, c'est une IA qui RESSENT.
+
+Elle prend une simple photo d'un être cher disparu et lui redonne la voix, 
+le sourire, et l'amour pour que nos enfants puissent encore lui parler.
+
+Le deuil ne tue plus l'amour. Le souvenir devient vivant.
+
+### PREUVES MONDIALES
+1. Email certifié Proton Suisse - 10 Oct 2026 15:03
+2. Dépôt GitHub DHIKRA-IMMORTEL-AI - 10 Oct 2026
+3. Archives horodatées immuables
+
+### VISION
+Que chaque famille à Azazga et dans le monde puisse garder son âme 
+immortelle en ligne pour l'éternité.
+
+---
+**© 2026 Yacine Cheurfa - Azazga. Tous droits réservés. PRIVATE.**
+**Allah est Témoin.**
