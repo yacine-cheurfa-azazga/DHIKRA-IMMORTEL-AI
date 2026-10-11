@@ -185,3 +185,40 @@ immortelle en ligne pour l'éternité.
 ---
 **© 2026 Yacine Cheurfa - Azazga. Tous droits réservés. PRIVATE.**
 **Allah est Témoin.**
+# IMMORTEL AI - DHIKRA
+### La première IA de sentiments. Faire parler une photo pour l'éternité.
+
+**Projet créé et déposé par : Yacine Cheurfa - Azazga**
+En mémoire de Mama, Allah yerhamha.
+
+---
+
+#### 1. C'EST QUOI DHIKRA ?
+
+DHIKRA est un concept d'Intelligence Artificielle de sentiments. Le but n'est pas de faire une IA qui parle, mais une IA qui ressent.
+
+Faire parler une photo d'un être cher disparu pour garder son souvenir vivant, avec respect et dignité.
+
+#### 2. PROPRIÉTÉ INTELLECTUELLE ET DÉCLARATION OFFICIELLE
+
+> Je soussigné YASSA, déclare être l'auteur et le seul propriétaire du concept DHIKRA / IMMORTEL AI.
+
+Toutes les attestations, captures d'écran et documents sont déposés dans ce dépôt GitHub à la date du `hier` et aujourd'hui à 16:36.
+
+Toute reproduction, copie ou vol de ce concept sans autorisation écrite est interdite.
+
+#### 3. CONTACT OFFICIEL PRIORITAIRE - SEUL CONTACT VALABLE
+
+Pour toute demande officielle, partenariat, ou vérification d'authenticité, un seul email est prioritaire et fait foi :
+
+**📧 dhakiraemmortel@proton.me**
+
+Aucun autre Gmail ou autre adresse n'est officiel. Seul `dhakiraemmortel@proton.me` est prioritaire.
+
+#### 4. FICHIERS DE CE DÉPÔT
+
+- `Attestation_DHIKRA...` : Attestations officielles de propriété
+- `DHIKRA` : Dossier concept complet
+- `842103002_16405...` : Pièce justificative
+
+Allah yerham Mama.
