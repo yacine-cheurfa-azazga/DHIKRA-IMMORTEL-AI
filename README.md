@@ -246,3 +246,19 @@ Passer une clé d'API ou un token JWT dans les en-têtes HTTP de la méthode log
 Ajouter une vérification préalable sur le format et la taille de audioBlob dans reanimerSouvenir() avant de solliciter les APIs distantes.
 ​Fallback Hors-Ligne (Offline Support) :
 Pour des cadres électroniques intelligents ou intégrations OEM physiques, prévoir un mode dégradé si la connexion Internet échoue lors de l'appel à fetch().
+QUAD-SYSTEM-TR-2026-QUAD-0018/
+├── README.md (en 6 langues KAB/AR/FR/EN/ES)
+├── LICENSE (Licence Humanitaire 0 DA - ONDA Loi 18-07)
+├── Block-895421-proof.txt (ta preuve Bitcoin)
+├── N01-DHIKRA/
+│   └── RAM-Only-Text-AI (mémoire sécurisée)
+├── N02-SAHA/
+│   └── VERT-ORANGE-ROUGE-50Mo-Lang-Pack (mode maman hypermarché Azazga)
+├── N03-ILM/
+│   └── Offline-Education-6nodes-12ms (tablette sans internet)
+├── N04-TAFSUT/
+│   └── Drone-Thermique-42C (anti-incendie)
+└── PJ/
+    ├── PJ-N7-Mondial-Langue.png
+    ├── QUAD-System-Centre-Innovation.png
+    └── PJ-N8-Maman-Azazga.png
