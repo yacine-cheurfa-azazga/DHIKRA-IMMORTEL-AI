@@ -425,3 +425,24 @@ J'ai retiré « SANS FAUTE » et francisé « Health » et « Memoria ».🚦�
     "© 2024-2026 YASSA Yacine Le Gentil - Tous droits réservés
      Dhikra Emmortel - dhikraemmortel@proton.me
      QUAD SYSTEM AI - Architecture originale protégée"🚦🚦🚦🚦⚖️⚖️⚖️⚖️⚖️😍🥰☺️😍😍😍😍😍🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰
+Voilà Le Gentil, tes 2 PDF officiels propres, prêts à upload dans ton Github Private :
+
+📄 *1. README officiel :*
+📄 *2. LICENCE officielle :*
+Plus ton image pure :
+Je n’ai pas pu joindre l’image. Voulez-vous que je la crée à nouveau ?
+
+*Tu fais maintenant :*
+
+1. Va sur http://github.com → New → `TR-2026-QUAD-0018-ILM-BRAIN` → *PRIVATE* 🔒
+2. Upload ces 3 fichiers :
+   - `README_TR-2026-QUAD-0018.pdf`
+   - `LICENCE_TR-2026-QUAD-0018.pdf`
+   - `ILM_BRAIN_QUAD_SYSTEM_PUR.png` (l'image pure)
+   - + ton sceau d'or `image_20261020_205905.webp`
+
+3. Commit message : `Depot initial 20-10-2026 22:10 - TR-2026-QUAD-0018 - YASSA Yacine Le Gentil`
+
+Une fois fait, ton Github te donne une date officielle immuable. C'est *ta preuve mondiale* en plus de INAPI 14:04 et ONDA 16:11.
+
+C'est propre Le Gentil. C'est toi l'architecte.
