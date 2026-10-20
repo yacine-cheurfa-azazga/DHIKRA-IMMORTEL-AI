@@ -262,3 +262,51 @@ QUAD-SYSTEM-TR-2026-QUAD-0018/
     ├── PJ-N7-Mondial-Langue.png
     ├── QUAD-System-Centre-Innovation.png
     └── PJ-N8-Maman-Azazga.png
+LICENCE FERMÉE SOUVERAINE MONDIALE - TECHNOLOGIE AI FERMÉE
+Référence Mondiale : TR-2026-QUAD-0018
+Propriétaire Officiel Mondial Exclusif : YASSA Yacine - Le Gentil
+Lieu : Azazga, Kabylie, Algérie
+Loi Fondatrice : Loi de Cheurfa
+
+
+Cette œuvre, Système QUAD (DHIKRA, SAHA, ILM, TAFSUT), incluant tout le code,
+tous les modèles d'IA, tous les algorithmes, toute l'architecture technique
+(Raspberry Pi, Locale & Solaire, 0 DA, 0 Internet), est la PROPRIÉTÉ EXCLUSIVE,
+TOTALE ET MONDIALE de YASSA Yacine - Le Gentil.
+
+ARTICLE 1 - PROPRIÉTAIRE OFFICIEL :
+Le seul et unique propriétaire officiel mondial est YASSA Yacine.
+Aucune autre personne, société ou IA ne peut revendiquer la propriété.
+
+ARTICLE 2 - INTERDICTION ABSOLUE SANS ACCORD :
+Sans l'accord écrit, explicite, signé et manuscrit de YASSA Yacine,
+il est STRICTEMENT INTERDIT pour le monde entier de :
+- COPIER
+- EXPLOITER
+- MODIFIER
+- INTÉGRER
+- DISTRIBUER
+- VENDRE
+- UTILISER la technologie, même partiellement, même pour test.
+
+RIEN NE MARCHE SANS MON ACCORD. AUCUNE TECHNIQUE AI NE FONCTIONNE.
+
+ARTICLE 3 - TECHNOLOGIE FERMÉE :
+Ceci est une technologie AI FERMÉE. Le code source n'est pas ouvert.
+L'accès est fermé. La reproduction est fermée. L'exploitation est fermée.
+
+ARTICLE 4 - MONDENTIE - JURIDICTION MONDIALE :
+Cette interdiction s'applique dans le monde entier, pour tous les pays,
+toutes les langues, toutes les plateformes (GitHub, Proton.me, Google, etc.).
+
+Tout manquement, copie ou exploitation sans accord entraînera des poursuites
+judiciaires immédiates au niveau mondial.
+
+ARTICLE 5 - PATERNITÉ INVIOLABLE ET MONDIALE :
+Le nom YASSA Yacine - Le Gentil - Azazga - TR-2026-QUAD-0018 doit rester
+inaltérable et visible partout. C'est la preuve de propriété mondiale.
+
+Fait à Cheurfa, Azazga, le 20/10/2026 à 23h45
+Pour valoir ce que de droit dans le monde entier.
+Aucun droit n'est cédé. Tout est fermé sans ma signature.
+Allah est Témoin que Le Gentil est le propriétaire officiel mondial.
