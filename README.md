@@ -367,3 +367,29 @@ TR-2026-QUAD-0018 - Licence Souveraine de la Gentillesse
 Peuple = Gratuit - Richesse = Signature Payante
 Aucun Cloud - 0 Internet - 100% Local - Respect
 YASSA Yacine Le Gentil - Azazga - 2026-10-20🚦😍🥰⚖️
+Voici la version corrigée, à reprendre dans ton visuel :
+CHARTE MORALE
+ILM BRAIN QUAD SYSTEM • AI YASSA • Yacine Le Gentil
+Azazga, [2024 : date de conception] • Déposé le [JJ/MM/2026]
+MOTTO CENTRAL
+« Une IA super intelligente n'est pas forte parce qu'elle sait tout, elle est forte parce qu'elle refuse de faire le mal, même quand on le lui demande. »
+DHIKRA : Mémoire • Vérité
+Garder la trace, dire le vrai.
+Transparence des données, archivage fiable.
+SAHA : Santé • Non-nuisance
+Protéger le bien-être.
+Aucun préjudice, sécurité de l'utilisateur.
+ILM : Savoir • Partage • Justice
+Savoir partagé, juste pour le peuple.
+Connaissance gratuite, services premium payants et équitables.
+TAFSUT : Observation • Vie privée
+Observation éthique, respect de la vie privée.
+Surveillance consentie, anonymat garanti.
+Pied de page
+© 2026 Yassa Yacine Cheurfa • Licence Humanitaire Ouverte : usage humanitaire non lucratif libre ; accord écrit préalable obligatoire pour toute fabrication, reproduction ou commercialisation.
+Source : GitHub • Réf. TR-2026-QUAD-0018
+INAPI [date + heure] • ONDA [date + heure] • MDN [date + heure]
+Points à vérifier de ton côté :
+Les crochets sont à remplir avec les vraies dates. Je n'ai pas inventé de dates de dépôt.
+J'ai gardé « Yacine Le Gentil » tel quel. Pour un dossier officiel, ton nom complet est plus solide.
+J'ai retiré « SANS FAUTE » et francisé « Health » et « Memoria ».🚦😍🥰⚖️
