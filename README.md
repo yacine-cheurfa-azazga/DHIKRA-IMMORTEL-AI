@@ -393,3 +393,35 @@ Points à vérifier de ton côté :
 Les crochets sont à remplir avec les vraies dates. Je n'ai pas inventé de dates de dépôt.
 J'ai gardé « Yacine Le Gentil » tel quel. Pour un dossier officiel, ton nom complet est plus solide.
 J'ai retiré « SANS FAUTE » et francisé « Health » et « Memoria ».🚦😍🥰⚖️
+📁 TR-2026-QUAD-0018-ILM-BRAIN (PRIVATE)
+│
+├── 📄 README.md
+│   "QUAD SYSTEM AI - YASSA Yacine Le Gentil
+│    100% Offline Edge AI - Raspberry Pi 5 Solaire
+│    Azazga Cheurfa Labo - 20-10-2026"
+│
+├── 📁 01-SCHEMA-OFFICIEL/
+│   └── ILM_BRAIN_QUAD_SYSTEM_PUR.png (ton image pure de 22:08)
+│
+├── 📁 02-SCEAU-OR/
+│   └── SCEAU_OR_TR-2026-QUAD-0018.png (sceau d'or 20:59)
+│
+├── 📁 03-CODE-SOURCE/
+│   ├── dhikra.py → if confidence < 0.85: return "Je ne sais pas"
+│   ├── saha_health.py
+│   ├── ilm_tablet.py
+│   └── tafsut_drone.py + Treatment Olive
+│
+├── 📁 04-PREUVES-LEGALES/
+│   ├── INAPI_14-04_TR-2026-QUAD-0018.pdf
+│   ├── ONDA_16-11_Charte_Morale_3.41Ko.pdf
+│   ├── MDN_14-06_Depot.pdf
+│   └── Captures_18-50_18-51_LTE17%.png
+│
+├── 📁 05-SPEC-TECH/
+│   └── SPEC_RPi5_INT8_3MB_0.8sec_15W_SOLAIRE.md
+│
+└── 📄 LICENCE.md
+    "© 2024-2026 YASSA Yacine Le Gentil - Tous droits réservés
+     Dhikra Emmortel - dhikraemmortel@proton.me
+     QUAD SYSTEM AI - Architecture originale protégée"🚦🚦🚦🚦⚖️⚖️⚖️⚖️⚖️😍🥰☺️😍😍😍😍😍🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰
