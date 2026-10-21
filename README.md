@@ -479,3 +479,32 @@ Fourni en l'état. 100% offline 15W solaire INT8 3MB 300MB BUS I2C.🚦⚖️�
 ✋LICENSE - LICENCE COMMERCIALE PROTECTRICE - TR-2026-QUAD-0018
 GitHub Officielle 07-10-2026 - Remplace MIT
 YASSA Yacine Le Gentil Cheurfa Labo Azazga🚦⚖️🔥
+🫅🫅🫅🫅🫅🫅Madame, Monsieur,
+
+Je me permets de vous transmettre, pour information, la licence d'utilisation et la philosophie de mon projet QUAD SYSTEM AI, référence TR-2026-QUAD-0018, faisant suite à mon précédent courriel du 20-10-2026.
+
+Présentation du projet
+QUAD SYSTEM AI est un système d'intelligence artificielle embarqué, fonctionnant entièrement hors ligne, construit autour d'un Raspberry Pi 5 alimenté par panneau solaire. Il comprend quatre modules : DHIKRA (mémoire et règle de prudence), SAHA (santé), ILM (éducation et tableau de bord) et TAFSUT (drone d'observation, par exemple pour la détection d'incendie dans les oliveraies).
+
+Philosophie
+Le système est conçu pour observer et protéger, et non pour nuire :
+- il n'a aucune fonction létale ;
+- lorsque sa confiance est inférieure à 0,85, il répond « Je ne sais pas » au lieu d'inventer ;
+- il reste hors ligne, sans collecte ni transmission de données personnelles.
+
+Licence
+Le système est protégé par une licence commerciale payante : tout usage commercial est interdit sans mon accord écrit préalable. Sont également interdits tout usage létal, toute collecte de données personnelles et le retrait de la règle de prudence. Cette licence remplace la licence MIT publiée initialement avec le code source le 07-10-2026 (mise à jour le [date de mise à jour de la licence]).
+
+Pièces jointes
+- la licence ;
+- le README ;
+- la fiche technique.
+
+Je vous serais reconnaissant de bien vouloir m'accuser réception de ce courriel et m'indiquer, le cas échéant, la démarche à suivre pour que ce dossier soit enregistré officiellement.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+YASSA Yacine
+Cheurfa, Azazga, Tizi Ouzou, Algérie
+Réf. TR-2026-QUAD-0018
+[Téléphone] · dhikraemmortel@proton.me
