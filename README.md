@@ -552,3 +552,45 @@ Réf. TR-2026-QUAD-0018
 ---
 **DOCUMENT OFFICIEL CONFIDENTIEL - USAGE AUTORISÉ UNIQUEMENT AVEC ACCORD ÉCRIT**
 **DHIKRA 0.85 • IA Sentiment - Protocole Protection Halal**
+⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️⚖️🚦⚖️🚦🚦🚦🚦🚦🚦🚦🚦🚦 # QUAD SYSTEM AI
+
+Système d'intelligence artificielle embarqué, 100 % hors ligne.
+
+**Auteur :** YASSA Yacine Cheurfa, Azazga, Tizi Ouzou, Algérie
+**Début du projet sur GitHub :** 07-10-2026
+**Référence :** TR-2026-QUAD-0018
+**Contact :** dhikraemmortel@proton.me
+
+## Description
+
+QUAD SYSTEM AI fonctionne sans Internet sur un Raspberry Pi 5,
+alimenté par un panneau solaire de 15 W. Aucune donnée n'est
+envoyée à l'extérieur.
+
+## Modules
+
+| Module | Fonction |
+|--------|----------|
+| DHIKRA | Mémoire et règle de prudence : si la confiance est inférieure à 0,85, le système répond « Je ne sais pas » |
+| SAHA | Santé : journaux chiffrés en local (AES-256 GCM), conservés 30 jours |
+| ILM | Tablette tableau de bord : carte hors ligne, alerte incendie |
+| TAFSUT | Drone d'observation (conception) |
+
+## Principes
+
+- Observation et protection uniquement, aucun usage létal.
+- Aucune collecte ni transmission de données personnelles.
+- Toute action physique reste sous contrôle d'une personne.
+
+## État du projet
+
+- Code : [à compléter : ce qui fonctionne aujourd'hui]
+- Prototype : [à compléter : oui / non]
+- TAFSUT : en conception
+
+## Licence
+
+© 2026 YASSA Yacine Cheurfa. Tous droits réservés.
+Dépôt privé. Toute copie, modification, distribution ou usage
+commercial est interdit sans accord écrit préalable de l'auteur.
+Pour une licence commerciale, contacter l'adresse ci-dessus.
