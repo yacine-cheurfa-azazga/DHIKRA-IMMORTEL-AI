@@ -604,10 +604,24 @@ https://cdn.fbsbx.com/v/t59.2708-21/862800218_2773105413090897_73480869407805775
 Dépôt privé. Toute copie, modification, distribution ou usage
 commercial est interdit sans accord écrit préalable de l'auteur.
 Pour une licence commerciale, contacter : dhikraemmortel@proton.me
+## Licence
 
-**Certificat Final :** [CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf](./CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf)
+© 2026 YASSA Yacine Cheurfa. Tous droits réservés.
 
-**Références scellées :**
+**Usage commercial :** toute copie, modification, distribution ou exploitation commerciale est interdite sans accord écrit préalable de l'auteur.
+
+**Usage non commercial :** gratuit pour l'éducation et la recherche, avec mention de l'auteur.
+
+**Licence commerciale :** 150 000 USD/an + 5 % de royalties (pack QUAD complet). Contact : dhikraemmortel@proton.me
+
+### Déclaration d'auteur
+
+[Déclaration d'auteur QUAD SYSTEM AI (21-10-2026)](CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf)
+
+Empreinte SHA-256 du fichier ci-dessus :
+`<collez ici les 64 caractères>`
+
+### Références d'identification (attribuées par l'auteur)
+
 - TR-2026-QUAD-0018 (Azazga, 09-10-2026)
-- IMMORTEL-2026-10-07-SF-001 (San Francisco, 07-10-2026)
-- META-TR2026-QUAD-0018-20240816-1609 (21-10-2026 23:05 UTC+1)
+- IMMORTEL-2026-10-07-SF-001 (07-10-2026)
