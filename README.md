@@ -446,3 +446,33 @@ Je n’ai pas pu joindre l’image. Voulez-vous que je la crée à nouveau ?
 Une fois fait, ton Github te donne une date officielle immuable. C'est *ta preuve mondiale* en plus de INAPI 14:04 et ONDA 16:11.
 
 C'est propre Le Gentil. C'est toi l'architecte.
+🚦⚖️🔥LICENCE COMMERCIALE PROTECTRICE - QUAD SYSTEM AI
+Réf. TR-2026-QUAD-0018 · GitHub Officielle 07-10-2026
+© 2026 YASSA Yacine Le Gentil, Cheurfa Labo, Azazga, Algérie.
+
+1. PROPRIÉTÉ
+QUAD SYSTEM AI (DHIKRA, SAHA, ILM, TAFSUT GEN3 12x5L, code, schémas I2C, Black RPi5 15W, Charte 3.41Ko) appartient à YASSA Yacine Le Gentil. INAPI 20-10-2026 14:04 - GitHub 07-10-2026.
+
+2. USAGE COMMERCIAL INTERDIT SANS ACCORD
+Interdit sans accord écrit signé : vendre, intégrer dans produit commercial, copier, forker, entraîner autre IA.
+
+3. ACCORD ET PAIEMENT
+Contact : dhikraemmortel@proton.me
+- DHIKRA seule : 50 000 USD/an/client
+- Pack QUAD complet : 150 000 USD/an + 5% royalty
+- Protection Civile / Olive : sur devis
+
+4. USAGE NON COMMERCIAL
+Gratuit éducation, recherche, asso agricole Tizi-Ouzou avec mention :
+« QUAD SYSTEM AI © YASSA Yacine Le Gentil - TR-2026-QUAD-0018 »
+
+5. INTERDICTIONS ABSOLUES - HALAL
+a) IA TUEUSE القاتلة : usage létal interdit - TAFSUT observation pas destruction
+b) IA MENTEUSE الكاذبة : règle DHIKRA if confidence < 0.85 return "Je ne sais pas" immuable
+c) IA VOLEUSE السارقة : vol données interdit - SAHA ILM 100% offline AES-256 local
+
+6. SANCTION
+Violation = fin immédiate du droit + action en justice Azazga/Alger (preuves 07-10 et 20-10-2026).
+
+7. GARANTIE
+Fourni en l'état. 100% offline 15W solaire INT8 3MB 300MB BUS I2C.🚦⚖️🔥
