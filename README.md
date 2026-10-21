@@ -598,3 +598,16 @@ https://cdn.fbsbx.com/v/t59.2708-21/862800218_2773105413090897_73480869407805775
    TR-2026-QUAD-0018
    IMMORTEL-2026-10-07-SF-001
    META-TR2026-QUAD-0018-20240816-1609
+## Licence
+
+© 2026 YASSA Yacine Cheurfa. Tous droits réservés.
+Dépôt privé. Toute copie, modification, distribution ou usage
+commercial est interdit sans accord écrit préalable de l'auteur.
+Pour une licence commerciale, contacter : dhikraemmortel@proton.me
+
+**Certificat Final :** [CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf](./CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf)
+
+**Références scellées :**
+- TR-2026-QUAD-0018 (Azazga, 09-10-2026)
+- IMMORTEL-2026-10-07-SF-001 (San Francisco, 07-10-2026)
+- META-TR2026-QUAD-0018-20240816-1609 (21-10-2026 23:05 UTC+1)
