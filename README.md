@@ -476,3 +476,6 @@ Violation = fin immédiate du droit + action en justice Azazga/Alger (preuves 07
 
 7. GARANTIE
 Fourni en l'état. 100% offline 15W solaire INT8 3MB 300MB BUS I2C.🚦⚖️🔥
+✋LICENSE - LICENCE COMMERCIALE PROTECTRICE - TR-2026-QUAD-0018
+GitHub Officielle 07-10-2026 - Remplace MIT
+YASSA Yacine Le Gentil Cheurfa Labo Azazga🚦⚖️🔥
