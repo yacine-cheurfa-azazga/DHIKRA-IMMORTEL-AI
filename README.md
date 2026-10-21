@@ -595,3 +595,6 @@ Dépôt privé. Toute copie, modification, distribution ou usage
 commercial est interdit sans accord écrit préalable de l'auteur.
 Pour une licence commerciale, contacter l'adresse ci-dessus.
 https://cdn.fbsbx.com/v/t59.2708-21/862800218_2773105413090897_7348086940780577546_n.pdf/__-CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026-2.pdf?_nc_cat=110&ccb=1-7&_nc_sid=2b0e22&_nc_ohc=Zy5H0mYlTtEQ7kNvwG1f9Wc&_nc_oc=Adr7Ne1LfYLR-ZSCPmcNNJ9P5tiqT0fK10cVZxEeLS-qMDTmQm_JGMxr6Sandwcg-Io&_nc_ad=z-m&_nc_cid=1671&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=0IY6DioIqH26JiC3bv7dsw&_nc_ss=7a338&oh=03_Q7cD6gEsNFEuZyIx8NQDw5wl_3Lrf6GQvx-6S9nPSup1AoagAw&oe=6ADB21AD&dl=1
+   TR-2026-QUAD-0018
+   IMMORTEL-2026-10-07-SF-001
+   META-TR2026-QUAD-0018-20240816-1609
