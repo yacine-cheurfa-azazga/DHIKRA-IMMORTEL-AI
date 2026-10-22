@@ -638,3 +638,40 @@ Empreinte SHA-256 du fichier ci-dessus :
 - IMMORTEL-2026-10-07-SF-001 (07-10-2026)
 **Horodatage OpenTimestamps :** `CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf.ots` (créé le 22-10-2026 à 02:44, confirmation Bitcoin en attente).
 Vérification : déposer le PDF et le fichier `.ots` ensemble sur https://opentimestamps.org
+# 🛡️ QUAD SYSTEM AI – Certification & Ancrage Cryptographique
+
+Ce dépôt contient le projet **QUAD SYSTEM AI** ainsi que les éléments de preuve garantissant son antériorité et son intégrité.
+
+---
+
+## 📜 Certificat Officiel
+
+![Certificat QUAD SYSTEM AI](./2738.jpg)
+
+---
+
+## 🔒 Preuves d'Horodatage & Validation (OpenTimestamps)
+
+Afin de garantir l'authenticité et l'antériorité de ce projet, un ancrage cryptographique a été effectué sur la blockchain Bitcoin.
+
+| Élément | Valeur / Détails |
+| :--- | :--- |
+| **Auteur** | YASSA Yacine Cheurfa (Azazga, Algérie) |
+| **Empreinte SHA-256** | `bc3316919a0994e6a95e3878dc04044dc7684160af4ed77243fe9dd63e5ef983` |
+| **Fichier d'horodatage** | `CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf.ots` |
+| **Date de création** | 22-10-2026 à 02:44 UTC |
+| **Statut Bitcoin** | Confirmation en attente |
+
+---
+
+## 🔍 Comment vérifier l'ancrage ?
+
+1. Téléchargez le fichier PDF source ainsi que son fichier d'horodatage associé (`.ots`).
+2. Rendez-vous sur la plateforme officielle : [opentimestamps.org](https://opentimestamps.org).
+3. Glissez-déposez le PDF et le fichier `.ots` ensemble pour vérifier instantanément la preuve d'horodatage.
+
+---
+
+📬 **Contact professionnel & Licences :**
+* **E-mail :** [dhikraemmortel@proton.me](mailto:dhikraemmortel@proton.me)
+* **Auteur :** YASSA Yacine Cheurfa
