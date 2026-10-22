@@ -613,8 +613,12 @@ Pour une licence commerciale, contacter : dhikraemmortel@proton.me
 **Usage non commercial :** gratuit pour l'éducation et la recherche, avec mention de l'auteur.
 
 **Licence commerciale :** 150 000 USD/an + 5 % de royalties (pack QUAD complet). Contact : dhikraemmortel@proton.me
-Empreinte SHA-256 du fichier ci-dessus :
-`bc3316919a0994e6a95e3878dc04044dc7684160af4ed77243fe9dd63e5ef983`
+
+
+[Déclaration d'auteur QUAD SYSTEM AI (21-10-2026)](CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf)
+
+
+
 
 ### Références d'identification (attribuées par l'auteur)
 
