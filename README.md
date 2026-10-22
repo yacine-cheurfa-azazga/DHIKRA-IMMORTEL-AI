@@ -614,11 +614,18 @@ Pour une licence commerciale, contacter : dhikraemmortel@proton.me
 
 **Licence commerciale :** 150 000 USD/an + 5 % de royalties (pack QUAD complet). Contact : dhikraemmortel@proton.me
 
+## Licence
 
-### Déclaration d'auteur
+© 2026 YASSA Yacine Cheurfa. Tous droits réservés.
 
-[Déclaration d'auteur QUAD SYSTEM AI (21-10-2026)](CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.
-bc3316919a0994e6…ef983.
+**Usage commercial :** toute copie, modification, distribution ou exploitation commerciale est interdite sans accord écrit préalable de l'auteur.
+
+**Usage non commercial :** gratuit pour l'éducation et la recherche, avec mention de l'auteur.
+
+**Licence commerciale :** 150 000 USD/an + 5 % de royalties (pack QUAD complet). Contact : dhikraemmortel@proton.me
+
+
+
 ### Références d'identification (attribuées par l'auteur)
 
 - TR-2026-QUAD-0018 (Azazga, 09-10-2026)
