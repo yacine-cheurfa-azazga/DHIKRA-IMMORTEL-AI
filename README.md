@@ -624,7 +624,7 @@ Pour une licence commerciale, contacter : dhikraemmortel@proton.me
 
 **Licence commerciale :** 150 000 USD/an + 5 % de royalties (pack QUAD complet). Contact : dhikraemmortel@proton.me
 
-    ### Déclaration d'auteur
+### Déclaration d'auteur
 
 [Déclaration d'auteur QUAD SYSTEM AI (21-10-2026)](CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf)
 
