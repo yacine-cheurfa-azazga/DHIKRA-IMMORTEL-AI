@@ -675,3 +675,65 @@ Afin de garantir l'authenticité et l'antériorité de ce projet, un ancrage cry
 📬 **Contact professionnel & Licences :**
 * **E-mail :** [dhikraemmortel@proton.me](mailto:dhikraemmortel@proton.me)
 * **Auteur :** YASSA Yacine Cheurfa
+# 🛡️ QUAD SYSTEM AI – Certification & Ancrage Cryptographique
+
+Ce dépôt contient le projet **QUAD SYSTEM AI** ainsi que les éléments de preuve garantissant son antériorité, son intégrité et sa protection intellectuelle mondiale.
+
+---
+
+## 📜 Certificat Officiel
+
+![Certificat QUAD SYSTEM AI](./2738.jpg)
+
+---
+
+## 🔒 Preuves d'Horodatage & Validation (OpenTimestamps)
+
+Afin de garantir l'authenticité et l'antériorité de ce projet, un ancrage cryptographique a été effectué et validé sur la blockchain Bitcoin.
+
+| Élément | Valeur / Détails |
+| :--- | :--- |
+| **Auteur** | YASSA Yacine (Azazga, Algérie) |
+| **Empreinte SHA-256** | `bc3316919a0994e6a95e3878dc04044dc7684160af4ed77243fe9dd63e5ef983` |
+| **Fichier d'horodatage** | `CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf.ots` |
+| **Date de création** | 22-10-2026 à 02:44 UTC |
+| **Statut Bitcoin** | ✅ **SCELLÉ & CONFIRMÉ** — Bloc Bitcoin |
+| **Preuve** | Vérifiable sur [opentimestamps.org](https://opentimestamps.org) |
+
+---
+
+## 🧭 Charte Morale & Architecture (ILM BRAIN QUAD SYSTEM)
+
+* **Référence mondiale :** `TR-2026-QUAD-0018`
+* **Propriétaire exclusif :** Yassa Yacine (Le Gentil) – Azazga, Kabylie, Algérie
+* **Motto central :** « Une intelligence artificielle super intelligente n'est pas forte parce qu'elle sait tout, elle est forte parce qu'elle refuse de faire le mal, même quand on le lui demande. »
+
+### Les 4 Piliers du Système :
+1. **DHIKRA (Mémoire & Vérité) :** Garder la trace, dire le vrai, transparence des données et archivage fiable.
+2. **SAHA (Santé & Non-nuisance) :** Protéger le bien-être, aucun préjudice, sécurité et confidentialité de l'utilisateur.
+3. **ILM (Savoir, Partage & Justice) :** Connaissance gratuite pour le peuple, services premium payants et équitables.
+4. **TAFSUT (Observation & Vie privée) :** Observation éthique, respect strict de la vie privée et anonymat garanti.
+
+---
+
+## ⚖️ Licence et Propriété Intellectuelle
+
+Cette œuvre, **Système QUAD** (incluant les modules DHIKRA, SAHA, ILM et TAFSUT), l'ensemble du code, des modèles d'intelligence artificielle, des algorithmes et de l'architecture technique (Edge AI, 100 % hors ligne, Raspberry Pi, solaire, 15W), est la **propriété exclusive, totale et mondiale de Yassa Yacine**.
+
+* **Usage non commercial :** Gratuit pour l'éducation, la recherche et les associations à caractère non lucratif, avec la mention obligatoire : 
+  > *« QUAD SYSTEM AI © Yassa Yacine – TR-2026-QUAD-0018 »*
+* **Usage commercial :** Interdit sans accord écrit préalable, signé et manuscrit de l'auteur. Toute exploitation non autorisée constitue une contrefaçon passible de poursuites judiciaires internationales.
+
+---
+
+## 🔍 Comment vérifier l'ancrage ?
+
+1. Téléchargez le fichier PDF source ainsi que son fichier d'horodatage associé (`.ots`).
+2. Rendez-vous sur la plateforme officielle : [opentimestamps.org](https://opentimestamps.org).
+3. Glissez-déposez le PDF et le fichier `.ots` ensemble pour vérifier instantanément la preuve d'horodatage.
+
+---
+
+📬 **Contact professionnel & Licences :**
+* **E-mail officiel :** [dhikraemmortel@proton.me](mailto:dhikraemmortel@proton.me)
+* **Auteur :** YASSA Yacine
