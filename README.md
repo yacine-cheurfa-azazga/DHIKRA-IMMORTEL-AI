@@ -598,31 +598,8 @@ https://cdn.fbsbx.com/v/t59.2708-21/862800218_2773105413090897_73480869407805775
    TR-2026-QUAD-0018
    IMMORTEL-2026-10-07-SF-001
    META-TR2026-QUAD-0018-20240816-1609
-## Licence
 
-© 2026 YASSA Yacine Cheurfa. Tous droits réservés.
-Dépôt privé. Toute copie, modification, distribution ou usage
-commercial est interdit sans accord écrit préalable de l'auteur.
-Pour une licence commerciale, contacter : dhikraemmortel@proton.me
-## Licence
 
-© 2026 YASSA Yacine Cheurfa. Tous droits réservés.
-
-**Usage commercial :** toute copie, modification, distribution ou exploitation commerciale est interdite sans accord écrit préalable de l'auteur.
-
-**Usage non commercial :** gratuit pour l'éducation et la recherche, avec mention de l'auteur.
-
-**Licence commerciale :** 150 000 USD/an + 5 % de royalties (pack QUAD complet). Contact : dhikraemmortel@proton.me
-
-## Licence
-
-© 2026 YASSA Yacine Cheurfa. Tous droits réservés.
-
-**Usage commercial :** toute copie, modification, distribution ou exploitation commerciale est interdite sans accord écrit préalable de l'auteur.
-
-**Usage non commercial :** gratuit pour l'éducation et la recherche, avec mention de l'auteur.
-
-**Licence commerciale :** 150 000 USD/an + 5 % de royalties (pack QUAD complet). Contact : dhikraemmortel@proton.me
 
 ### Déclaration d'auteur
 
@@ -644,31 +621,6 @@ Ce dépôt contient le projet **QUAD SYSTEM AI** ainsi que les éléments de pre
 
 ---
 
-## 📜 Certificat Officiel
-
-![Certificat QUAD SYSTEM AI](./2738.jpg)
-
----
-
-## 🔒 Preuves d'Horodatage & Validation (OpenTimestamps)
-
-Afin de garantir l'authenticité et l'antériorité de ce projet, un ancrage cryptographique a été effectué sur la blockchain Bitcoin.
-
-| Élément | Valeur / Détails |
-| :--- | :--- |
-| **Auteur** | YASSA Yacine Cheurfa (Azazga, Algérie) |
-| **Empreinte SHA-256** | `bc3316919a0994e6a95e3878dc04044dc7684160af4ed77243fe9dd63e5ef983` |
-| **Fichier d'horodatage** | `CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf.ots` |
-| **Date de création** | 22-10-2026 à 02:44 UTC |
-| **Statut Bitcoin** | Confirmation en attente |
-
----
-
-## 🔍 Comment vérifier l'ancrage ?
-
-1. Téléchargez le fichier PDF source ainsi que son fichier d'horodatage associé (`.ots`).
-2. Rendez-vous sur la plateforme officielle : [opentimestamps.org](https://opentimestamps.org).
-3. Glissez-déposez le PDF et le fichier `.ots` ensemble pour vérifier instantanément la preuve d'horodatage.
 
 ---
 
