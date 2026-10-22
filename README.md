@@ -636,3 +636,5 @@ Empreinte SHA-256 du fichier ci-dessus :
 
 - TR-2026-QUAD-0018 (Azazga, 09-10-2026)
 - IMMORTEL-2026-10-07-SF-001 (07-10-2026)
+**Horodatage OpenTimestamps :** `CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf.ots` (créé le 22-10-2026 à 02:44, confirmation Bitcoin en attente).
+Vérification : déposer le PDF et le fichier `.ots` ensemble sur https://opentimestamps.org
