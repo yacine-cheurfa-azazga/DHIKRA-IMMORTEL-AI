@@ -617,13 +617,8 @@ Pour une licence commerciale, contacter : dhikraemmortel@proton.me
 
 ### Déclaration d'auteur
 
-[Déclaration d'auteur QUAD SYSTEM AI (21-10-2026)](CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.pdf)
-
-Empreinte SHA-256 du fichier ci-dessus :
-`bc3316919a0994e6a95e3878dc04044dc7684160af4ed77243fe9dd63e5ef983`
-
-
-
+[Déclaration d'auteur QUAD SYSTEM AI (21-10-2026)](CERTIFICAT_QUAD_SYSTEM_AI_FINAL_21-10-2026.
+bc3316919a0994e6…ef983.
 ### Références d'identification (attribuées par l'auteur)
 
 - TR-2026-QUAD-0018 (Azazga, 09-10-2026)
