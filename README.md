@@ -689,3 +689,39 @@ Cette œuvre, **Système QUAD** (incluant les modules DHIKRA, SAHA, ILM et TAFSU
 📬 **Contact professionnel & Licences :**
 * **E-mail officiel :** [dhikraemmortel@proton.me](mailto:dhikraemmortel@proton.me)
 * **Auteur :** YASSA Yacine
+Voici les détails complets de la nouvelle architecture du Quad System — AI Dhikra Immortel (Réf : TR-2026-QUAD-0018), prête à être structurée et publiée sur GitHub :
+​🚀 QUAD SYSTEM — AI DHIKRA IMMORTEL (Réf: TR-2026-QUAD-0018)
+​Architecture Edge AI — 100% Offline — Paisible — Autonome
+​📌 1. Vue d'ensemble du Projet (README.md)
+​Nom du Projet : Solar Kiosk 15W / Quad System
+​Localisation : Azazga, Kabylie (Algérie) — Altitude ~850m
+​Statut : Off-grid autonome, Edge AI, 100% Hors-ligne.
+​Philosophie : Paix, Connaissance, Protection, Sobriété numérique.
+​⚙️ 2. Module Cœur (Hardware & Infrastructure)
+​Processeur : Raspberry Pi 5  
+​CPU : Quad-Core ARM Cortex-A76  
+​RAM : 8 Go LPDDR4X  
+​Stockage : SSD NVMe 128 Go  
+​Connectivité : WiFi / BLE / LoRa (Fonctionnement 100% Offline)  
+​Alimentation : Solaire 15W (Faible consommation)  
+​🧩 3. Les 4 Quad Modules (/modules/)
+​01 • ILM (Éducation)
+​Rôle : Module d'apprentissage local.  
+​Contenu : Cours berbère et sciences, bibliothèque hors-ligne de plus de 2000 fiches.  
+​02 • SAHA (Santé)
+​Rôle : Diagnostic de base hors-ligne.  
+​Fonctions : Suivi santé communautaire, prévention et premiers soins.  
+​03 • TAFSUT (Drone Protection Forêt 85M)
+​Rôle : Surveillance forestière autonome.  
+​Spécificités : Rayon d'action 85m, système d'alerte incendie et cartographie.  
+​04 • DHIKRA (Mémoire 0.85)
+​Rôle : Archivage mémoire locale 0.85.  
+​Fonctions : Conservation du patrimoine oral, rappel culturel et historique.  
+​⚖️ 4. Charte Éthique (ETHICS.md)
+​Le système respecte strictement les principes cardinaux suivants :
+​Pas tueuse  
+​Pas voleuse  
+​Pas menteuse  
+​Pas arrogante  
+​Engagement : Respect, paix, transparence, sobrieté numérique et protection du patrimoine berbère.  
+​🛠️ 5. Structure suggérée pour le dépôt GitHub
