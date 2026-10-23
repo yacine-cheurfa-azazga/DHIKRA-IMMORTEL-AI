@@ -1,3 +1,8 @@
+
+
+Uploading 2922.mp4…
+
+<img width="1344" height="1792" alt="2927" src="https://github.com/user-attachments/assets/0d6dabfa-b7db-4835-ba3e-c4a7edbee6ba" />
 IMMORTEL AI - The First Sentiment AI. Faire parler une photo pour que les souvenirs et l'amour deviennent immortels. Né à Azazga par Yacine cheurfa 
 # ATTESTATION IMMORTEL - 7 Octobre 2026
 Moi Yacine cheurfa Azazga, je suis le premier au monde à donner
