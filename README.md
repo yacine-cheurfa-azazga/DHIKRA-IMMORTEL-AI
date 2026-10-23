@@ -751,3 +751,42 @@ DHIKRA-IMMORTEL-AI/
 │   └── 04-dhikra/          # Mémoire et patrimoine oral (0.85)
 └── assets/
     └── blueprint.jpg       # Schéma architectural (Réf: TR-2026-QUAD-0018)
+# 🚀 QUAD SYSTEM — AI DHIKRA IMMORTEL
+**Référence :** `TR-2026-QUAD-0018`  
+**Auteur :** Yassa Yacine (Né le 25 septembre 1981 à Azazga, Kabylie, Algérie)  
+
+---
+
+## 📌 Vue d'ensemble du Projet
+* **Projet :** Solar Kiosk 15W
+* **Localisation :** Azazga, Kabylie (Algérie) — Altitude ~850m
+* **Statut :** Off-grid autonome, Edge AI, 100% Hors-ligne.
+* **Philosophie :** Paix, Connaissance, Protection, Sobriété numérique et protection du patrimoine berbère.
+
+---
+
+## ⚙️ Module Cœur (Hardware & Infrastructure)
+* **Processeur :** Raspberry Pi 5
+  * CPU : Quad-Core ARM Cortex-A76
+  * RAM : 8 Go LPDDR4X
+* **Stockage :** SSD NVMe 128 Go
+* **Connectivité :** WiFi / BLE / LoRa (Fonctionnement 100% Offline)
+* **Alimentation :** Solaire 15W (Faible consommation)
+
+---
+
+## 🧩 Les 4 Quad Modules
+1. **01 • ILM (Éducation) :** Module d'apprentissage local, cours berbère et sciences, bibliothèque hors-ligne de plus de 2000 fiches.
+2. **02 • SAHA (Santé) :** Diagnostic de base hors-ligne, suivi santé communautaire, prévention et premiers soins.
+3. **03 • TAFSUT (Drone Protection Forêt 85M) :** Surveillance forestière autonome, rayon d'action 85m, système d'alerte incendie et cartographie.
+4. **04 • DHIKRA (Mémoire 0.85) :** Archivage mémoire locale 0.85, conservation du patrimoine oral, rappel culturel et historique.
+
+---
+
+## ⚖️ Charte Éthique — Quad System
+Le système respecte strictement les principes cardinaux suivants :
+* **Pas tueuse**
+* **Pas voleuse**
+* **Pas menteuse**
+* **Pas arrogante**
+* **Engagement :** Respect, paix, transparence, sobriété numérique et protection du patrimoine berbère.
