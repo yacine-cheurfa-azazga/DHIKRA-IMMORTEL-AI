@@ -790,3 +790,20 @@ Le système respecte strictement les principes cardinaux suivants :
 * **Pas menteuse**
 * **Pas arrogante**
 * **Engagement :** Respect, paix, transparence, sobriété numérique et protection du patrimoine berbère.
+⚖️ Licence et Propriété Intellectuelle
+
+Cette œuvre, Système QUAD (incluant les modules DHIKRA, SAHA, ILM et TAFSUT), l'ensemble du code, des modèles d'intelligence artificielle, des algorithmes et de l'architecture technique (Edge AI, 100% hors ligne, Raspberry Pi, solaire, 15W), est la propriété exclusive, totale et mondiale de Yassa Yacine.
+
+- Usage non commercial : Gratuit pour l'éducation, la recherche et les associations à caractère non lucratif, avec la mention obligatoire :
+  « QUAD SYSTEM AI © Yassa Yacine – TR-2026-QUAD-0018 »
+
+- Usage commercial : Interdit sans accord écrit préalable, signé et manuscrit de l'auteur. Toute exploitation non autorisée constitue une contrefaçon passible de poursuites judiciaires.
+⚖️ Licence et Propriété Intellectuelle
+
+Cette œuvre, Système QUAD (incluant les modules DHIKRA, SAHA, ILM et TAFSUT), l'ensemble du code, des modèles d'intelligence artificielle, des algorithmes et de l'architecture technique (Edge AI, 100% hors ligne, Raspberry Pi, solaire, 15W), est la propriété exclusive, totale et mondiale de Yassa Yacine.
+
+- Usage non commercial : Gratuit pour l'éducation, la recherche et les associations à caractère non lucratif, avec la mention obligatoire :
+  « QUAD SYSTEM AI © Yassa Yacine – TR-2026-QUAD-0018 »
+
+- Usage commercial : Interdit sans accord écrit préalable, signé et manuscrit de l'auteur. Toute exploitation non autorisée constitue une contrefaçon passible de poursuites judiciaires.
+- 
