@@ -725,3 +725,16 @@ Voici les détails complets de la nouvelle architecture du Quad System — AI Dh
 ​Pas arrogante  
 ​Engagement : Respect, paix, transparence, sobrieté numérique et protection du patrimoine berbère.  
 ​🛠️ 5. Structure suggérée pour le dépôt GitHub
+DHIKRA-IMMORTEL-AI/
+├── README.md               # Documentation principale du projet
+├── ETHICS.md               # Charte éthique du Quad System
+├── hardware/
+│   └── raspberry-pi5-config.md # Spécifications du module cœur & solaire 15W
+├── modules/
+│   ├── 01-ilm/             # Éducation & bibliothèque (2000+ fiches)
+│   ├── 02-saha/            # Santé & diagnostic offline
+│   ├── 03-tafsut/          # Surveillance forêt & drone
+│   └── 04-dhikra/          # Mémoire et patrimoine oral (0.85)
+└── assets/
+    └── blueprint.jpg       # Schéma architectural (Réf: TR-2026-QUAD-0018)
+yassa yacine cheurfa Azazga né 25 septembre 1981 technologie fermé sans mon accord pour le mondentie 
