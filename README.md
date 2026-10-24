@@ -819,3 +819,30 @@ Cette œuvre, Système QUAD (incluant les modules DHIKRA, SAHA, ILM et TAFSUT), 
 
 - Usage commercial : Interdit sans accord écrit préalable, signé et manuscrit de l'auteur. Toute exploitation non autorisée constitue une contrefaçon passible de poursuites judiciaires.
 - 
+​📋 Synthèse des Éléments du Fichier PDF
+​Déposant / Titulaire : YASSA Yacine Cheurfa (Ferme Cheurfa n'Bahloul, Azazga, Wilaya de Tizi-Ouzou, Algérie).  
+​Référence & Titre : TR-2026-QUAD-0018 — QUAD SYSTEM AI.  
+​Marques et Dénominations à Protéger (6 éléments) :  
+​QUAD SYSTEM AI (Marque ombrelle, architecture globale)  
+​DHIKRA / DHIKRA SOURCE (Collecte, analyse et mémoire IA hors-ligne)  
+​ILM (Éducation hors-ligne sur tablette / Raspberry Pi)  
+​THUDERT 1 (Décision rapide, assistance d'urgence)  
+​SAHA / SAHA SCAN (Santé, chiffrement local, scan d'allergènes E-XXX)  
+​TAFSUT / TAFSUT DRONE (Exécution, drone d'observation et de secours de 250g)  
+​Classes de Nice Identifiées : Classes 9, 12, 41, 42 et 44.  
+​Architecture Technique (4 Piliers) : IA souveraine offline-first, seuil anti-hallucination 0,85, modèles quantifiés INT8 (3 Mo) sur micro-matériel, chiffrement AES-256 GCM, drone civil de 250g.  
+​✏️ Recommandations & Compléments pour le Fichier PDF (Section 4)
+​Dans le tableau de la Section 4 (Preuves d'antériorité) du PDF, il reste deux balises entre crochets à compléter avant impression ou enregistrement définitif :  
+​Date de la Licence Officielle :
+​Texte actuel : [à confirmer: date réelle]  
+​Valeur à insérer : 25/10/2026 (ou 24/10/2026 selon la date exacte de scellement de la licence).  
+​Empreinte SHA-256 du Certificat d'Antériorité v2 :
+​Texte actuel : [à recopier depuis la commande de hachage: 64 caractères, 0-9 et a-f]  
+​Valeur à insérer : 26f894959e41392970b4ffc855b41ab1d903cec0b58blab292d0c65da648afb6  
+​🏛️ Rappel des Démarches Administratives (INAPI & ONDA)
+​Dépôt des Marques (INAPI) :
+​Utilisez la grille des 5 classes de Nice de votre fiche (9, 12, 41, 42, 44) sur les formulaires de l'INAPI.  
+​Déposez la marque ombrelle ainsi que les sous-marques de modules.  
+​Protection du Code Source et de la Documentation (ONDA) :
+​En complément de l'INAPI (propriété industrielle), déposez le dossier technique et le code source de l'architecture auprès de l'ONDA au titre du Droit d'Auteur.
+​Vos empreintes SHA-256, votre horodatage RFC 3161 (FreeTSA / ProofStamper) et l'ancrage OpenTimestamps sur la Blockchain Bitcoin constituent une preuve incontestable en cas de litige.  
