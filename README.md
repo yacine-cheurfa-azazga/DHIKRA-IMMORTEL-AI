@@ -848,3 +848,53 @@ Cette œuvre, Système QUAD (incluant les modules DHIKRA, SAHA, ILM et TAFSUT), 
 ​En complément de l'INAPI (propriété industrielle), déposez le dossier technique et le code source de l'architecture auprès de l'ONDA au titre du Droit d'Auteur.
 ​Vos empreintes SHA-256, votre horodatage RFC 3161 (FreeTSA / ProofStamper) et l'ancrage OpenTimestamps sur la Blockchain Bitcoin constituent une preuve incontestable en cas de litige.  
 <img width="1120" height="2240" alt="3026" src="https://github.com/user-attachments/assets/f4106426-f01c-4a00-844e-4af6a4d8d594" />
+# QUAD SYSTEM AI
+
+> **Référence technique de l'œuvre :** TR-2026-QUAD-0018[span_0](start_span)[span_0](end_span)  
+> **Auteur & Titulaire :** YASSA Yacine Cheurfa (Ferme Cheurfa n'Bahloul, Azazga, Wilaya de Tizi-Ouzou, Algérie)[span_1](start_span)[span_1](end_span)  
+> **Contact :** [dhikraemmortel@proton.me](mailto:dhikraemmortel@proton.me)[span_2](start_span)[span_2](end_span)
+
+---
+
+## 🛡️ Statut Juridique et Propriété Intellectuelle
+
+**TECHNOLOGIE FERMÉE / PROPRIÉTAIRE**[span_3](start_span)[span_3](end_span)  
+© 2026 YASSA Yacine Cheurfa. Tous droits exclusifs sur le code, les modèles, les algorithmes, l'architecture et les dénominations commerciales[span_4](start_span)[span_4](end_span). 
+
+* **Dépôt officiel (INAPI) :** Marques et dénominations protégées sous la référence `TR-2026-QUAD-0018`[span_5](start_span)[span_5](end_span).
+* **Sécurité cryptographique & Antériorité :** Intégrité scellée par empreintes SHA-256, horodatage officiel RFC 3161 (FreeTSA / ProofStamper) et ancrage blockchain Bitcoin (OpenTimestamps)[span_6](start_span)[span_6](end_span).
+
+### Régime de Licence
+* **Usage non commercial (Gratuit) :** Autorisé pour l'éducation, la recherche, les associations à but non lucratif ainsi que l'usage personnel ou familial, sous réserve de la mention obligatoire :  
+  > *"QUAD SYSTEM AI © Yassa Yacine TR-2026-QUAD-0018"*[span_7](start_span)[span_7](end_span)
+* **Usage commercial :** Strictement interdit sans autorisation écrite préalable auprès de [dhikraemmortel@proton.me](mailto:dhikraemmortel@proton.me) (conditions de référence indicatives : 150 000 USD par an + 5 % de royalties)[span_8](start_span)[span_8](end_span).
+
+---
+
+## 🧠 Présentation du Système
+
+Le **QUAD SYSTEM AI** est une architecture technologique propriétaire fondée sur une intelligence artificielle souveraine et un fonctionnement **offline-first** (autonome hors-ligne, sans dépendance à un cloud commercial)[span_9](start_span)[span_9](end_span).
+
+### Les 4 Piliers Opérationnels :
+
+1. **Pilier 1 – Collecte & Analyse (`DHIKRA SOURCE`)**  
+   Traitement des données en temps réel via une mémoire IA locale versionnée dans Git, dotée d'un système anti-hallucination rigoureux (seuil de validation fixé à **0,85**)[span_10](start_span)[span_10](end_span).
+2. **Pilier 2 – Core AI & Décision (`ILM` & `THUDERT 1`)**  
+   Modules décisionnels compacts, incluant des modèles légers quantifiés en **INT8 (environ 3 Mo)**, exécutés sur micro-matériel (Raspberry Pi 5 alimenté par panneau solaire) pour l'éducation et l'assistance d'urgence critique[span_11](start_span)[span_11](end_span).
+3. **Pilier 3 – Sécurité & Intégrité (`SAHA` / `SAHA SCAN`)**  
+   Protocoles de chiffrement local renforcé (**AES-256 GCM**) garantissant la confidentialité absolue des données de santé et de traçabilité alimentaire (détection d'allergènes par codes E-XXX) sans transmission externe[span_12](start_span)[span_12](end_span).
+4. **Pilier 4 – Interface & Exécution (`TAFSUT` / `TAFSUT DRONE`)**  
+   Déploiement matériel léger et civil (**drone d'observation et de secours de 250 g**) dédié exclusivement à la protection du territoire et des populations[span_13](start_span)[span_13](end_span).
+
+---
+
+## 🏷️ Dénominations Commerciales Revendiquées
+
+| N° | Dénomination | Rôle / Description |
+| :---: | :--- | :--- |
+| **1** | **QUAD SYSTEM AI** | Marque ombrelle / Architecture globale[span_14](start_span)[span_14](end_span) |
+| **2** | **DHIKRA / DHIKRA SOURCE** | Collecte, analyse et mémoire IA hors-ligne[span_15](start_span)[span_15](end_span) |
+| **3** | **ILM** | Éducation hors-ligne sur tablette / Raspberry Pi[span_16](start_span)[span_16](end_span) |
+| **4** | **THUDERT 1** | Décision rapide / Assistance d'urgence critique[span_17](start_span)[span_17](end_span) |
+| **5** | **SAHA / SAHA SCAN** | Santé, chiffrement local AES-256 GCM et scan d'allergènes[span_18](start_span)[span_18](end_span) |
+| **6** | **TAFSUT / TAFSUT DRONE** | Exécution, drone d'observation et de secours de 250g[span_19](start_span)[span_19](end_span) |
