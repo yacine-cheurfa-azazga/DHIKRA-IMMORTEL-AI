@@ -847,3 +847,4 @@ Cette œuvre, Système QUAD (incluant les modules DHIKRA, SAHA, ILM et TAFSUT), 
 ​Protection du Code Source et de la Documentation (ONDA) :
 ​En complément de l'INAPI (propriété industrielle), déposez le dossier technique et le code source de l'architecture auprès de l'ONDA au titre du Droit d'Auteur.
 ​Vos empreintes SHA-256, votre horodatage RFC 3161 (FreeTSA / ProofStamper) et l'ancrage OpenTimestamps sur la Blockchain Bitcoin constituent une preuve incontestable en cas de litige.  
+<img width="1120" height="2240" alt="3026" src="https://github.com/user-attachments/assets/f4106426-f01c-4a00-844e-4af6a4d8d594" />
