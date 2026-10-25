@@ -62,3 +62,12 @@ ILM est une tablette tactile à intelligence artificielle, conçue par Yassa Yac
 **Statut :** concept documenté, antériorité prouvée par horodatage certifié (2026). Le code source n'est pas publié.
 
 **Droits :** © 2026 Yassa Yacine Cheurfa. Tous droits réservés. Usage commercial interdit sans accord écrit.
+## N°4 — TAFSUT AI
+
+TAFSUT AI est un drone de nouvelle génération conçu par Yassa Yacine Cheurfa pour la détection précoce des incendies et l'appui aux usages agricoles et humanitaires.
+
+**Principe :** imagerie thermique et IA embarquée, fonctionnement sans dépendre d'Internet, alimentation solaire, communication avec les tablettes ILM.
+
+**Statut :** concept documenté, antériorité prouvée par horodatage certifié (2026). Le code source et les plans techniques ne sont pas publiés. Ce concept n'est pas un système de sécurité certifié.
+
+**Droits :** © 2026 Yassa Yacine Cheurfa. Tous droits réservés. Usage commercial interdit sans accord écrit.
