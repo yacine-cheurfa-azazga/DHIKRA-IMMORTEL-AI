@@ -22,5 +22,10 @@ Documents horodatés par RFC 3161 (FreeTSA) et ancrés sur Bitcoin via OpenTimes
 
 © 2026 Yassa Yacine Cheurfa. Tous droits réservés.
 
+**Auteur et titulaire des droits :** Yassa Yacine Cheurfa
 
+**Référence :** TR-2026-QUAD-0018
 
+**Contact et licences :** dhikraemmortel@proton.me
+
+Architecture d'IA embarquée de nouvelle génération, 100 % hors ligne, conçue et rédigée par Yassa Yacine Cheurfa. Antériorité prouvée par horodatage certifié.
