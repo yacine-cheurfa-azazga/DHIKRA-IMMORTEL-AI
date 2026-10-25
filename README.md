@@ -40,3 +40,14 @@ DHIKRA SOURCE est un protocole éthique d'intelligence artificielle, conçu par 
 **Statut :** concept et philosophie documentés, antériorité prouvée par horodatage certifié (2026). Le code source n'est pas publié.
 
 **Droits :** © 2026 Yassa Yacine Cheurfa. Tous droits réservés. Usage commercial interdit sans accord écrit.
+## N°2 — SAHA SCAN
+
+SAHA SCAN est une application 100 % IA, conçue par Yassa Yacine Cheurfa. Elle permet à chacun de consulter librement la composition d'un produit alimentaire en temps réel, via Bluetooth, pour faire un choix conscient.
+
+**Principe :** pas de punition, juste la vérité pour choisir.
+
+**Statut :** concept documenté, antériorité prouvée par horodatage certifié (2026). Le code source n'est pas publié.
+
+**Avertissement :** outil d'information uniquement, il ne remplace pas l'avis d'un professionnel de santé.
+
+**Droits :** © 2026 Yassa Yacine Cheurfa. Tous droits réservés. Usage commercial interdit sans accord écrit.
