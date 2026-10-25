@@ -1,3 +1,4 @@
+<img width="1008" height="2128" alt="3427" src="https://github.com/user-attachments/assets/a7951f5c-efa8-49e1-96b8-6d830f93e193" />
 # DHIKRA SOURCE — IA mémorielle éthique
 
 **Auteur et titulaire des droits :** Yassa Yacine Cheurfa
