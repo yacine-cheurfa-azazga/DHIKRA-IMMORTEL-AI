@@ -1,6 +1,6 @@
 
-# QUAD SYSTEM AI
 
+# QUAD SYSTÈME AI TR-2026-Quad-0018
 Architecture d'IA embarquée de nouvelle génération, conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa. Antériorité prouvée par horodatage certifié.
 
 **Auteur et titulaire des droits :** Yassa Yacine Cheurfa
