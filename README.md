@@ -1,4 +1,35 @@
+# DHIKRA SOURCE — IA mémorielle éthique
 
+**Auteur et titulaire des droits :** Yassa Yacine Cheurfa
+
+**Référence :** TR-2026-QUAD-0018
+
+**Contact :** dhikraemmortel@proton.me
+
+## Vision
+
+DHIKRA SOURCE n'est pas un deepfake : c'est un système de préservation de la mémoire, conçu pour fonctionner localement, sans dépendre d'Internet.
+
+## Principe : le respect
+
+Un indicateur de respect à trois états évalue chaque action :
+
+- **Vert, respecté** : l'action est autorisée.
+- **Orange, vigilance** : une vérification humaine est requise.
+- **Rouge, inactif** : l'action est bloquée.
+
+L'IA ne décide jamais seule : l'humain valide.
+
+## Charte éthique
+
+1. Préserver la dignité avant la technologie.
+2. Animation limitée au naturel : clignement et mouvement des lèvres.
+3. Maintien du caractère serein du portrait.
+4. Aucun propos non validé par l'humain.
+
+Les spécifications techniques ne sont pas publiées.
+
+© 2026 Yassa Yacine Cheurfa. Tous droits réservés.
 
 # QUAD SYSTÈME AI TR-2026-Quad-0018
 Architecture d'IA embarquée de nouvelle génération, conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa. Antériorité prouvée par horodatage certifié.
