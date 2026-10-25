@@ -2,24 +2,6 @@
 
 
 
-📬 **Contact professionnel & Licences :**
-* **E-mail officiel :** [dhikraemmortel@proton.me](mailto:dhikraemmortel@proton.me)
-* **Auteur :** YASSA Yacine
-Voici les détails complets de la nouvelle architecture du Quad System — AI Dhikra Immortel (Réf : TR-2026-QUAD-0018), prête à être structurée et publiée sur GitHub :
-​🚀 QUAD SYSTEM — AI DHIKRA IMMORTEL (Réf: TR-2026-QUAD-0018)
-​Architecture Edge AI — 100% Offline — Paisible — Autonome
-​📌 1. Vue d'ensemble du Projet (README.md)
-​Nom du Projet : Solar Kiosk 15W / Quad Syste
-
-
-
-### Régime de Licence
-* **Usage non commercial (Gratuit) :** Autorisé pour l'éducation, la recherche, les associations à but non lucratif ainsi que l'usage personnel ou familial, sous réserve de la mention obligatoire :  
-  > *"QUAD SYSTEM AI © Yassa Yacine TR-2026-QUAD-0018"*[span_7](start_span)[span_7](end_span)
-* **Usage commercial :** Strictement interdit sans autorisation écrite préalable auprès de [dhikraemmortel@proton.me](mailto:dhikraemmortel@proton.me) (conditions de référence indicatives : 150 000 USD par an + 5 % de royalties)[span_8](start_span)[span_8](end_span).
-
----
-
 ## 🧠 Présentation du Système
 
 Le **QUAD SYSTEM AI** est une architecture technologique propriétaire fondée sur une intelligence artificielle souveraine et un fonctionnement **offline-first** (autonome hors-ligne, sans dépendance à un cloud commercial)[span_9](start_span)[span_9](end_span).
@@ -88,8 +70,5 @@ Prise de contact directe et de haut niveau (C-Suite / Direction R&D) auprès des
 * Horodatage RFC 3161
 * Ancrage Bitcoin OpenTimestamps
 
----
 
-## 📈 Phase Actuelle
-* **Statut :** Phase de suivi et d'évaluation exécutive (Fenêtre de 48h à 72h).
-* **Prochaine étape :** Transmission des NDA (accords de confidentialité) et accès aux benchmarks techniques dès manifestation d'intérêt.
+
