@@ -202,3 +202,15 @@ Toute utilisation non autorisée pourra faire l'objet de poursuites.
 © 2026 Yassa Yacine Cheurfa. Tous droits réservés.
 # TR-2026-QUAD-0018       
 00213 58 41 13 WhatsApp 
+Objet : Proposition de partenariat — tablette éducative ILM sous licence
+
+Bonjour,
+
+Je suis l'auteur d'ILM, un concept de tablette tactile à IA à fonction unique, destinée aux institutions éducatives : pas de boutique d'applications, pas de réseaux sociaux, fonctionnement sur le réseau local de l'institution.
+
+Je recherche un partenaire de fabrication sous licence. Le concept est documenté, avec une antériorité prouvée par horodatage certifié (2026, référence TR-2026-QUAD-0018). Je peux présenter le détail technique après signature d'un accord de confidentialité.
+
+Si cela vous intéresse : dhikraemmortel@proton.me
+
+Yassa Yacine Cheurfa
+© 2026 Yassa Yacine Cheurfa. Tous droits réservés.
