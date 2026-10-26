@@ -233,10 +233,7 @@ Même feu que DHIKRA SOURCE 🚦 VERT / ORANGE / ROUGE. L'éleveur ne décide ja
 
 
 **Référence :** TR-2026-QUAD-0018, module 5
-
-**Licence :** voir la section Licence de ce dépôt.
-## Technique fermée
-
+**Licence :** voir la section « Technique fermée » ci-dessous.
 La technique du système QUAD SYSTEM AI (DHIKRA SOURCE, SAHA SCAN, ILM, TAFSUT AI et TUDERT YIWEN) est propriétaire et fermée. Aucun détail technique n'est publié.
 
 Sans l'accord écrit préalable de l'auteur, il est interdit de copier, reproduire, adapter, fabriquer, distribuer, commercialiser, extraire ou soumettre à une ingénierie inverse tout ou partie de ces modules.
