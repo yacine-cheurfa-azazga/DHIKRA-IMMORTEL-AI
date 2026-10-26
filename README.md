@@ -1,3 +1,6 @@
+<img width="2048" height="1152" alt="2985" src="https://github.com/user-attachments/assets/79b9a28f-5e37-43e6-a56a-8657fd42635f" />
+<img width="2048" height="1152" alt="2997" src="https://github.com/user-attachments/assets/19204c13-3aec-4cd1-8aaa-1294e217fdd9" />
+<img width="1920" height="1280" alt="3031" src="https://github.com/user-attachments/assets/4a5d5387-c0d7-4122-8902-17e0df1ffebf" />
 # QUAD SYSTEM AI
 
 Architecture d'IA embarquée de nouvelle génération, conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa. Antériorité prouvée par horodatage certifié.
@@ -230,3 +233,9 @@ Même feu que DHIKRA SOURCE 🚦 VERT / ORANGE / ROUGE. L'éleveur ne décide ja
 
 Référence : TR-2026-QUAD-0018 — Module 5
 Licence : Identique QUAD SYSTEM AI — Usage non-commercial gratuit, commercial sur accord écrit.
+git status
+sha256sum -c HASHES.txt
+git ls-files -z | xargs -0 sha256sum > HASHES_2026-10-26.txt
+git add HASHES_2026-10-26.txt
+git add <vos autres nouveaux fichiers>
+git commit -m "TR-2026-QUAD-0018 Module 5 - TUDERT YIWEN"
