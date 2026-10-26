@@ -211,34 +211,22 @@ Je suis l'auteur d'ILM, un concept de tablette tactile à IA à fonction unique,
 Je recherche un partenaire de fabrication sous licence. Le concept est documenté, avec une antériorité prouvée par horodatage certifié (2026, référence TR-2026-QUAD-0018). Je peux présenter le détail technique après signature d'un accord de confidentialité.
 
 Si cela vous intéresse : dhikraemmortel@proton.me
+#### N°5 : TUDERT YIWEN — Vie
+Outil d'aide au suivi de la santé du bétail, conçu par Yassa Yacine Cheurfa pour les éleveurs.
 
-Yassa Yacine Cheurfa
-© 2026 Yassa Yacine Cheurfa. Tous droits réservés.
-# Tablette Éducative ILM — Concept Sous Licence
+**TUDERT = Vie en kabyle. YIWEN = Une. Une seule vie à protéger.**
 
-> **Avis d'interdiction officielle et de protection intellectuelle**
+Fiche technique :
+- **Mesures simples :** Température, comportement, prise alimentaire
+- **Imagerie thermique :** Détection sans contact, sans stress pour l'animal
+- **IA embarquée QUAD :** Signalement clair et immédiat
+- **Feu tricolore :** VERT = Tout va bien / ORANGE = À surveiller / ROUGE = Appeler
 
-Le concept, la documentation, l'architecture et les spécifications techniques de la tablette tactile à IA **ILM** sont la propriété exclusive de **Yassa Yacine Cheurfa**.
+**Philosophie QUAD :**
+Même feu que DHIKRA SOURCE 🚦 VERT / ORANGE / ROUGE. L'éleveur ne décide jamais seul, l'IA signale, l'humain valide.
 
----
+> Outil d'information uniquement, il ne remplace pas l'avis d'un vétérinaire.
+> Usage rural, offline-first, sans dépendre d'Internet — Conçu à Azazga pour les éleveurs de Cheurfa n'Bahloul et d'ailleurs.
 
-### 🛡️ Mentions Légales & Droits d'Auteur
-
-* **Copyright :** © 2026 Yassa Yacine Cheurfa. Tous droits réservés.
-* **Antériorité :** Preuve d'antériorité certifiée sous l'horodatage **TR-2026-QUAD-0018**.
-* **Statut de licence :** **AUCUNE LICENCE OPEN-SOURCE N'EST ACCORDÉE.**
-
-### ⛔ Interdictions sur tout le système quad système sans mon accord 
-
-Toute reproduction, copie, modification, distribution, exploitation commerciale ou industrielle, partielle ou totale de ce projet sans un accord écrit préalable et signé avec l'auteur est **strictement interdite**. 
-
-La présence de ce projet sur GitHub permet sa consultation publique à des fins d'information et d'évaluation par de futurs partenaires, mais ne concède aucun droit d'utilisation ou de fabrication.
-
----
-
-### 🤝 Partenariat & Contact
-
-La documentation technique détaillée ainsi que les spécifications complètes de fabrication ne sont divulguées qu'après signature d'un **accord de confidentialité (NDA)**.
-
-Pour toute demande de partenariat industriel, de licence ou d'information :
-📩 **Contact :** `dhikraemmortel@proton.me`
+Référence : TR-2026-QUAD-0018 — Module 5
+Licence : Identique QUAD SYSTEM AI — Usage non-commercial gratuit, commercial sur accord écrit.
