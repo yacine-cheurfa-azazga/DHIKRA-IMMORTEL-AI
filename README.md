@@ -214,3 +214,31 @@ Si cela vous intéresse : dhikraemmortel@proton.me
 
 Yassa Yacine Cheurfa
 © 2026 Yassa Yacine Cheurfa. Tous droits réservés.
+# Tablette Éducative ILM — Concept Sous Licence
+
+> **Avis d'interdiction officielle et de protection intellectuelle**
+
+Le concept, la documentation, l'architecture et les spécifications techniques de la tablette tactile à IA **ILM** sont la propriété exclusive de **Yassa Yacine Cheurfa**.
+
+---
+
+### 🛡️ Mentions Légales & Droits d'Auteur
+
+* **Copyright :** © 2026 Yassa Yacine Cheurfa. Tous droits réservés.
+* **Antériorité :** Preuve d'antériorité certifiée sous l'horodatage **TR-2026-QUAD-0018**.
+* **Statut de licence :** **AUCUNE LICENCE OPEN-SOURCE N'EST ACCORDÉE.**
+
+### ⛔ Interdictions sur tout le système quad système sans mon accord 
+
+Toute reproduction, copie, modification, distribution, exploitation commerciale ou industrielle, partielle ou totale de ce projet sans un accord écrit préalable et signé avec l'auteur est **strictement interdite**. 
+
+La présence de ce projet sur GitHub permet sa consultation publique à des fins d'information et d'évaluation par de futurs partenaires, mais ne concède aucun droit d'utilisation ou de fabrication.
+
+---
+
+### 🤝 Partenariat & Contact
+
+La documentation technique détaillée ainsi que les spécifications complètes de fabrication ne sont divulguées qu'après signature d'un **accord de confidentialité (NDA)**.
+
+Pour toute demande de partenariat industriel, de licence ou d'information :
+📩 **Contact :** `dhikraemmortel@proton.me`
