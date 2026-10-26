@@ -241,3 +241,5 @@ Sans l'accord écrit préalable de l'auteur, il est interdit de copier, reprodui
 Toute demande d'autorisation : dhikraemmortel@proton.me
 
 © 2026 Yassa Yacine Cheurfa. Tous droits réservés.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23671063.svg)](https://doi.org/10.5281/zenodo.23671063)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23671063.svg)](https://doi.org/10.5281/zenodo.23671063)
