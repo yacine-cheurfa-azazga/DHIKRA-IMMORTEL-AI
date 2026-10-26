@@ -189,3 +189,14 @@ La technologie QUAD SYSTEM AI est propriétaire et fermée. Toute reproduction, 
 Documents horodatés par RFC 3161 (FreeTSA), avec ancrage Bitcoin via OpenTimestamps. Le travail de développement est consigné dans un dépôt privé depuis le 6 octobre 2026.
 
 © 2026 Yassa Yacine Cheurfa. Tous droits réservés.
+## Interdiction de copie
+
+Les quatre modules du système QUAD SYSTEM AI (DHIKRA SOURCE, SAHA SCAN, ILM et TAFSUT AI), ainsi que leurs concepts documentés, textes, schémas, visuels et logiciels, sont l'œuvre de Yassa Yacine Cheurfa (référence TR-2026-QUAD-0018).
+
+Sans l'accord écrit préalable de l'auteur, il est interdit de les copier, reproduire, adapter, modifier, traduire, fabriquer, distribuer, commercialiser, extraire ou soumettre à une ingénierie inverse, en tout ou en partie.
+
+Toute demande d'autorisation doit être adressée à : dhikraemmortel@proton.me
+
+Toute utilisation non autorisée pourra faire l'objet de poursuites.
+
+© 2026 Yassa Yacine Cheurfa. Tous droits réservés.
