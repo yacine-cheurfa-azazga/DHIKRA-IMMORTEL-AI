@@ -231,11 +231,16 @@ Même feu que DHIKRA SOURCE 🚦 VERT / ORANGE / ROUGE. L'éleveur ne décide ja
 > Outil d'information uniquement, il ne remplace pas l'avis d'un vétérinaire.
 > Usage rural, offline-first, sans dépendre d'Internet — Conçu à Azazga pour les éleveurs de Cheurfa n'Bahloul et d'ailleurs.
 
-Référence : TR-2026-QUAD-0018 — Module 5
-Licence : Identique QUAD SYSTEM AI — Usage non-commercial gratuit, commercial sur accord écrit.
-git status
-sha256sum -c HASHES.txt
-git ls-files -z | xargs -0 sha256sum > HASHES_2026-10-26.txt
-git add HASHES_2026-10-26.txt
-git add <vos autres nouveaux fichiers>
-git commit -m "TR-2026-QUAD-0018 Module 5 - TUDERT YIWEN"
+
+**Référence :** TR-2026-QUAD-0018, module 5
+
+**Licence :** voir la section Licence de ce dépôt.
+## Technique fermée
+
+La technique du système QUAD SYSTEM AI (DHIKRA SOURCE, SAHA SCAN, ILM, TAFSUT AI et TUDERT YIWEN) est propriétaire et fermée. Aucun détail technique n'est publié.
+
+Sans l'accord écrit préalable de l'auteur, il est interdit de copier, reproduire, adapter, fabriquer, distribuer, commercialiser, extraire ou soumettre à une ingénierie inverse tout ou partie de ces modules.
+
+Toute demande d'autorisation : dhikraemmortel@proton.me
+
+© 2026 Yassa Yacine Cheurfa. Tous droits réservés.
