@@ -200,3 +200,5 @@ Toute demande d'autorisation doit être adressée à : dhikraemmortel@proton.me
 Toute utilisation non autorisée pourra faire l'objet de poursuites.
 
 © 2026 Yassa Yacine Cheurfa. Tous droits réservés.
+# TR-2026-QUAD-0018       
+00213 58 41 13 WhatsApp 
