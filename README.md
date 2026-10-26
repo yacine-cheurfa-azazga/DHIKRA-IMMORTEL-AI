@@ -243,3 +243,14 @@ Toute demande d'autorisation : dhikraemmortel@proton.me
 © 2026 Yassa Yacine Cheurfa. Tous droits réservés.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23671063.svg)](https://doi.org/10.5281/zenodo.23671063)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23671063.svg)](https://doi.org/10.5281/zenodo.23671063)
+# DHIKRA-IMMORTEL-AI — TR-2026-QUAD-0018
+[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23671063.svg)](https://doi.org/10.5281/zenodo.23671063)
+
+**QUAD SYSTEM AI par Yassa Yacine Cheurfa — Azazga — © 2026 Tous droits réservés — v1.0 cb63e53**
+
+DHIKRA IMMORTEL AI : 5 modules - DHIKRA SOURCE (mémoire) - SAHA SCAN (santé maternelle, info seulement) - ILM (savoir) - TAFSUT AI (terre/feu) - TUDERT YIWEN (bétail, info seulement).
+
+**Preuve d'antériorité QUAD:**
+- Réf: TR-2026-QUAD-0018
+- DOI Zenodo: 10.5281/zenodo.23671063
+- Date: 26-10-2026 13:08 (UTC+1)
