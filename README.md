@@ -255,3 +255,52 @@ DHIKRA IMMORTEL AI : 5 modules - DHIKRA SOURCE (mémoire) - SAHA SCAN (santé ma
 - Réf: TR-2026-QUAD-0018
 - DOI Zenodo: 10.5281/zenodo.23671063
 - Date: 26-10-2026 13:08 (UTC+1)
+================================================================================
+AVIS DE PROPRIÉTÉ INTELLECTUELLE ET RESTRICTIONS D'UTILISATION (LICENSE)
+================================================================================
+
+Auteur / Titulaire des droits : Yassa Yacine Cheurfa
+Projet / Architecture : QUAD SYSTEM AI & Systèmes Associés
+Référence de traçabilité : TR-2026-QUAD-0018
+DOI Zenodo d'antériorité : 10.5281/zenodo.23671063
+
+--------------------------------------------------------------------------------
+1. STATUT DU DÉPÔT (VITRINE PUBLIQUE)
+--------------------------------------------------------------------------------
+Ce dépôt GitHub est mis à disposition du public STRICTEMENT À TITRE DE VITRINE 
+ET DE DOCUMENTATION DESCRIPTIVE. Aucun code source exécutable, aucun algorithme 
+propriétaire, aucun schéma de conception technique détaillé et aucun secret 
+industriel ne sont contenus ou concédés dans ce dépôt.
+
+--------------------------------------------------------------------------------
+2. INTERDICTIONS FORMELLES (ALL RIGHTS RESERVED)
+--------------------------------------------------------------------------------
+Sauf autorisation écrite, préalable et explicite de l'auteur (Yassa Yacine Cheurfa), 
+il est formellement INTERDIT de :
+
+  • COPIER, reproduire, dupliquer ou republier tout ou partie des textes, des 
+    concepts architecturaux, des spécifications et des descriptions présentés 
+    dans ce dépôt à des fins commerciales ou de réutilisation publique.
+  • UTILISER, adapter, exploiter ou s'approprier les idées, les logiques de 
+    fonctionnement, les dénominations (QUAD SYSTEM AI, DHIKRA SOURCE, SAHA SCAN, 
+    ILM TABLET, TAFSUT AI, TUDERT YIWEN) pour concevoir, entraîner, ou commercialiser 
+    des produits, logiciels, services ou intelligences artificielles concurrents.
+  • TRADUIRE ou modifier ces documentations pour en revendiquer la paternité.
+
+--------------------------------------------------------------------------------
+3. PROTECTION ET PREUVES D'ANTÉRIORITÉ
+--------------------------------------------------------------------------------
+Les concepts, dénominations et structures décrits dans ce dépôt font l'objet 
+d'un horodatage cryptographique certifié et d'un enregistrement d'antériorité 
+officiel (DOI Zenodo : 10.5281/zenodo.23671063, ainsi que les identifiants de 
+traçabilité TR-2026-QUAD-0018, TR-2026-TRIPLE-0017, DL-2026-DHIKRA-SAHA-0017 et 
+associés). 
+
+Toute tentative de plagiat, de vol d'propriété intellectuelle ou de revendication 
+frauduleuse de paternité fera l'objet de poursuites judiciaires immédiates devant 
+les juridictions compétentes, en s'appuyant sur ces preuves d'antériorité 
+incontestables.
+
+--------------------------------------------------------------------------------
+TOUS DROITS RÉSERVÉS © 2026 Yassa Yacine Cheurfa.
+================================================================================
