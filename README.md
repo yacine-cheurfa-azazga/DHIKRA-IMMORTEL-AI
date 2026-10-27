@@ -1,4 +1,10 @@
-# QUAD SYSTEM AI
+Synthèse du Dépôt
+​Titre du projet : Confident Guide AI / Mentor Guide AI
+​Référence de suivi : 2026-QUAD-0018
+​Cadre technique : Code Système AI (Quad Système)
+​Licence de protection : CC BY-NC-ND 4.0 (Attribution - Pas d'Utilisation Commerciale - Pas de Modification
+
+quad système AI 
 
 Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par **Yassa Yacine Cheurfa** (Azazga, Algérie).
 
