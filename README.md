@@ -56,3 +56,10 @@ Documents horodatés par RFC 3161 (FreeTSA), avec ancrage Bitcoin via OpenTimest
 Cheurfa, Y. Y. (2026). *QUAD SYSTEM AI*. Zenodo. https://doi.org/10.5281/zenodo.23671062
 
 © 2026 Yassa Yacine Cheurfa. Tous droits réservés.
+mise à jour MD5
+## Archive officielle et intégrité (v1.1)
+
+* **Nom de l'archive :** `Yacine-cheurfa-azazga/DHIKRA-IMMORTEL-AI-v1.1.zip`
+* **Empreinte MD5 :** `58643463cb5638859b6778a12869b863`
+
+Cette empreinte cryptographique garantit l'intégrité et l'authenticité de l'archive officielle du projet.
