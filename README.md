@@ -1,3 +1,68 @@
+# DHIKRA-IMMORTEL-AI
+
+## Projet : QUAD SYSTEM AI v2.0
+
+**Propriétaire officiel :** Yassa Yacine Cheurfa (Azazga, Algérie)  
+**Référence d'enregistrement :** TR-2026-QUAD-0018  
+**Dépôt académique officiel :** [
+
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23717622.svg)
+
+](https://doi.org/10.5281/zenodo.23717622)
+
+---
+
+## 📝 Présentation du projet
+
+**QUAD SYSTEM AI v2.0** (déployé sous le nom de dépôt *DHIKRA-IMMORTEL-AI*) est une technologie d'intelligence artificielle propriétaire, développée et structurée par Yassa Yacine Cheurfa.
+
+Ce dépôt est une **vitrine publique, sans code source**. Il est archivé sur la plateforme scientifique **Zenodo** (opérée par le CERN), qui atteste le contenu publié et sa date, et constitue ainsi une preuve d'antériorité sous le DOI **10.5281/zenodo.23717622**.
+
+---
+
+## 🔒 Statut juridique et licence
+
+> ⚠️ **TECHNOLOGIE FERMÉE : ACCÈS RESTREINT**
+
+Le présent logiciel, ses algorithmes, ses poids de modèle, ses configurations et sa documentation associée (ci-après « la Technologie ») sont protégés par les lois internationales sur le droit d'auteur et la propriété intellectuelle.
+
+* **Licence de la documentation publique :** le contenu public de ce dépôt (cette vitrine) est sous licence CC BY-NC-ND 4.0. La Technologie elle-même reste fermée.
+* **Usage interdit sans autorisation :** aucune licence d'utilisation, de modification, de reproduction, de distribution ou de commercialisation de la Technologie n'est accordée, de manière implicite ou autre.
+* **Accord écrit requis :** toute exploitation de la Technologie (académique, privée, de recherche ou commerciale) requiert un accord écrit préalable et signé de l'auteur.
+* **Contact officiel :** pour toute demande de partenariat, de licence ou d'autorisation, envoyez un dossier décrivant votre projet à : **dhikraimmortel@proton.me**
+
+*Tout usage non autorisé ou plagiat constaté pourra faire l'objet de poursuites devant les juridictions compétentes. Le dépôt Zenodo constitue une preuve d'antériorité.*
+
+---
+
+## ⚖️ Clause de limitation de responsabilité
+
+### 1. Fourniture « en l'état »
+
+La Technologie est fournie par l'auteur « en l'état » (*as is*), sans garantie d'aucune sorte, expresse ou implicite, y compris, sans s'y limiter, les garanties de qualité marchande, de performance ou d'adéquation à un usage particulier.
+
+### 2. Absence de garantie de résultats
+
+L'auteur ne garantit pas que les fonctions de la Technologie répondront aux exigences de l'utilisateur, que son fonctionnement sera ininterrompu ou exempt d'erreurs, ni que les prédictions, analyses ou résultats générés par l'intelligence artificielle seront exacts, fiables ou exempts de biais.
+
+### 3. Exclusion de dommages
+
+En aucun cas l'auteur ne pourra être tenu responsable de tout dommage direct, indirect, accessoire, spécial, exemplaire ou consécutif (y compris la perte de données, la perte de profits, l'interruption d'activité, ou les dommages matériels et corporels) découlant de l'utilisation, de l'impossibilité d'utiliser, ou des décisions prises sur la base des résultats de la Technologie, même si l'utilisateur a été averti de la possibilité de tels dommages.
+
+---
+
+## 🌐 Indexation et traçabilité
+
+* **Archivé sur :** [Zenodo](https://zenodo.org/records/23717622)
+* **Indexé dans :** OpenAIRE (infrastructure européenne de science ouverte)
+* **Identifiant permanent :** https://doi.org/10.5281/zenodo.23717622
+* **DOI de toutes les versions :** https://doi.org/10.5281/zenodo.23671062
+
+---
+
+© 2026 Yassa Yacine Cheurfa. Tous droits réservés sur la Technologie.
+
+
 <img width="1600" height="1600" alt="3786" src="https://github.com/user-attachments/assets/bad699b0-3186-4a66-8c80-eb77f11016ca" />
 # quad système AI 
 
