@@ -1,4 +1,5 @@
-# QUAD SYSTEM AI
+quad système AI 
+v2.0 (28 octobre 2026) : DOI 10.5281/zenodo.23717622
 
 Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa (Azazga, Algérie).
 
