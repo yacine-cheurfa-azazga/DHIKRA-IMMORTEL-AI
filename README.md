@@ -1,3 +1,4 @@
+<img width="1600" height="1600" alt="3786" src="https://github.com/user-attachments/assets/bad699b0-3186-4a66-8c80-eb77f11016ca" />
 # quad système AI 
 
 Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa (Azazga, Algérie).
