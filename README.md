@@ -60,4 +60,4 @@ Archives Zenodo :
 
 Cheurfa, Y. Y. (2026). *QUAD SYSTEM AI*. Zenodo. https://doi.org/10.5281/zenodo.23671062
 
-© 2026 Yassa Yacine Cheurfa.
+© 2026 Yassa Yacine Cheurfa 
