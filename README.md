@@ -88,7 +88,7 @@ Identifiant permanent : https://doi.org/10.5281/zenodo.23717622
 DOI de toutes les versions : https://doi.org/10.5281/zenodo.23671062
 © 2026 Yassa Yacine Cheurfa. Tous droits réservés sur la Technologie.
 
-3786 # quad système AI
+# quad système AI
 Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa (Azazga, Algérie).
 
 Version 2.0 – 28 octobre 2026 Référence : TR-2026-QUAD-0018 Contact et demandes de licence : dhikraemmortel@proton.me
@@ -241,23 +241,7 @@ Dépôt académique officiel : [
 
 DOI
 
-](https://doi.org/10.5281/zenodo.23717622)
-
-📝 Présentation du projet
-QUAD SYSTEM AI v2.0 (déployé sous le nom de dépôt DHIKRA-IMMORTEL-AI) est une technologie d'intelligence artificielle propriétaire, développée et structurée par Yassa Yacine Cheurfa.
-
-Ce dépôt est une vitrine publique, sans code source. Il est archivé sur la plateforme scientifique Zenodo (opérée par le CERN), qui atteste le contenu publié et sa date, et constitue ainsi une preuve d'antériorité sous le DOI 10.5281/zenodo.23717622.
-
-🔒 Statut juridique et licence
-⚠️ TECHNOLOGIE FERMÉE : ACCÈS RESTREINT
-
-Le présent logiciel, ses algorithmes, ses poids de modèle, ses configurations et sa documentation associée (ci-après « la Technologie ») sont protégés par les lois internationales sur le droit d'auteur et la propriété intellectuelle.
-
-Licence de la documentation publique : le contenu public de ce dépôt (cette vitrine) est sous licence CC BY-NC-ND 4.0. La Technologie elle-même reste fermée.
-Usage interdit sans autorisation : aucune licence d'utilisation, de modification, de reproduction, de distribution ou de commercialisation de la Technologie n'est accordée, de manière implicite ou autre.
-Accord écrit requis : toute exploitation de la Technologie (académique, privée, de recherche ou commerciale) requiert un accord écrit préalable et signé de l'auteur.
-Contact officiel : pour toute demande de partenariat, de licence ou d'autorisation, envoyez un dossier décrivant votre projet à : dhikraimmortel@proton.me
-Tout usage non autorisé ou plagiat constaté pourra faire l'objet de poursuites devant les juridictions compétentes. Le dépôt Zenodo constitue une preuve d'antériorité.
+](https://doi.org/10.5281/zenodo.2371762)
 
 ⚖️ Clause de limitation de responsabilité
 1. Fourniture « en l'état »
