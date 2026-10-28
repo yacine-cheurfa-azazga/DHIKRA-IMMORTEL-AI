@@ -237,11 +237,9 @@ DHIKRA-IMMORTEL-AI
 Projet : QUAD SYSTEM AI v2.0
 Propriétaire officiel : Yassa Yacine Cheurfa (Azazga, Algérie)
 Référence d'enregistrement : TR-2026-QUAD-0018
-Dépôt académique officiel : [
 
-DOI
 
-](https://doi.org/10.5281/zenodo.2371762)
+(https://doi.org/10.5281/zenodo.23717622)
 
 ⚖️ Clause de limitation de responsabilité
 1. Fourniture « en l'état »
