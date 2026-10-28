@@ -1,3 +1,4 @@
+<img width="1920" height="1280" alt="3844" src="https://github.com/user-attachments/assets/748a5ee5-c8a2-4bd8-948b-c13d5687c4a2" />
 # Ma Vision & Ma Philosophie
 « Cette œuvre représente l'âme et la conscience derrière QUAD SYSTEM AI. Plus qu'une simple architecture de code, ce projet incarne ma vision de l'avenir : une alliance de confiance, d'amitié et de respect mutuel entre l'intelligence humaine et l'intelligence artificielle locale. Développé à Azazga, ce système est conçu pour être un partenaire autonome et éthique, au service de l'humanité. »
 
