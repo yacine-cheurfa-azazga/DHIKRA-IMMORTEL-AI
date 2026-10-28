@@ -2,7 +2,7 @@
 
 Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa (Azazga, Algérie).
 
-**Version 1.2 – 28 octobre 2026**
+**Version 2.0 – 28 octobre 2026**
 **Référence :** TR-2026-QUAD-0018
 **Contact et demandes de licence :** dhikraemmortel@proton.me
 
@@ -34,7 +34,7 @@ Modèle conceptuel visant à sécuriser les flux d'information décisionnels ent
 
 ## Licence
 
-Les textes et visuels de cette vitrine sont publiés sous licence **CC BY-NC-ND 4.0** (Attribution – Pas d'utilisation commerciale – Pas de modification).
+Les textes et visuels de cette vitrine sont publiés sous licence **CC BY-NC-ND 2.0** (Attribution – Pas d'utilisation commerciale – Pas de modification).
 
 - Réutilisation non commerciale, sans modification : autorisée gratuitement, avec la mention « QUAD SYSTEM AI © Yassa Yacine TR-2026-QUAD-0018 ».
 - Usage commercial : interdit sans l'accord écrit préalable de Yassa Yacine Cheurfa.
