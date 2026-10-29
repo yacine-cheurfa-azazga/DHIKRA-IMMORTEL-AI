@@ -1,3 +1,4 @@
+<img width="1920" height="1280" alt="3865" src="https://github.com/user-attachments/assets/5bc3838c-cce1-4434-a09a-df5a8b0f7c51" />
 
 
 DHIKRA-IMMORTEL-AI
