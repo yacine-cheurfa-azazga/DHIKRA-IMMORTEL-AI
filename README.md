@@ -1,3 +1,37 @@
+
+---
+
+## 📈 Statistiques et Archivage Académique
+* **Indexation officielle :** Enregistré et certifié sur OpenAIRE et Zenodo.
+* **Historique des versions disponibles :**
+  * `Version v2.0` (Actuelle) : DOI `10.5281/zenodo.23717622` (28 Octobre 2026)
+  * `Version v1.1` : DOI `10.5281/zenodo.23690395` (27 Octobre 2026)
+  * `Version v1.0` : DOI `10.5281/zenodo.23671063` (26 Octobre 2026)
+
+## 📑 Comment citer ce projet
+Si vous utilisez ce modèle conceptuel dans vos travaux de recherche académique, veuillez utiliser la citation officielle suivante :
+
+### Format APA
+```text
+Cheurfa, Y. Y. (2026). DHIKRA-IMMORTEL-AI: QUAD SYSTEM AI v2.0 (Version 2.0). Zenodo. https://doi.org
+```
+
+### Format BibTeX
+```bibtex
+@software{yassa_yacine_cheurfa_2026_23717622,
+  author       = {Yassa Yacine Cheurfa},
+  title        = {DHIKRA-IMMORTEL-AI: QUAD SYSTEM AI v2.0},
+  month        = oct,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {2.0},
+  doi          = {10.5281/zenodo.23717622},
+  url          = {https://doi.org}
+}
+```
+
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23717622.svg)](https://doi.org/10.5281/zenodo.23717622)
 [![TR](https://img.shields.io/badge/TR-TR--2026--QUAD--0018-green)](https://doi.org/10.5281/zenodo.23717622)
 [![Version](https://img.shields.io/badge/Version-v2.0-blue)](https://doi.org/10.5281/zenodo.23717622)
