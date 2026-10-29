@@ -1,562 +1,67 @@
-<img width="1920" height="1280" alt="3844" src="https://github.com/user-attachments/assets/748a5ee5-c8a2-4bd8-948b-c13d5687c4a2" />
-# Ma Vision & Ma Philosophie
-« Cette œuvre représente l'âme et la conscience derrière QUAD SYSTEM AI. Plus qu'une simple architecture de code, ce projet incarne ma vision de l'avenir : une alliance de confiance, d'amitié et de respect mutuel entre l'intelligence humaine et l'intelligence artificielle locale. Développé à Azazga, ce système est conçu pour être un partenaire autonome et éthique, au service de l'humanité. »
 
 
-# DHIKRA-IMMORTEL-AI
-
-## Projet : QUAD SYSTEM AI v2.0
-
-**Propriétaire officiel :** Yassa Yacine Cheurfa (Azazga, Algérie)  
-**Référence d'enregistrement :** TR-2026-QUAD-0018  
-**Dépôt académique officiel :** [
-
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23717622.svg)
-
-](https://doi.org/10.5281/zenodo.23717622)
-
----
-
-## 📝 Présentation du projet
-
-**QUAD SYSTEM AI v2.0** (déployé sous le nom de dépôt est dhikraemmortel@proton.me
-Repository navigation
-Code
-Issues
-Pull requests
-yacine-cheurfa-azazga
 DHIKRA-IMMORTEL-AI
-Public
-About
-
-Le souvenir qui meurt jamais Elle resté toujours immortel en ligne
-
-Resources
-Readme
-Activity
-Stars
-1 star
-Watchers
-0 watching
-Forks
-0 forks
-yacine-cheurfa-azazga
-yacine-cheurfa-azazga
-1 hour ago
-Name	
-DHIKRA
-3 weeks ago
-README.md
-1 hour ago
-Repository files navigation
-README
-DHIKRA-IMMORTEL-AI
-Projet : QUAD SYSTEM AI v2.0
-Propriétaire officiel : Yassa Yacine Cheurfa (Azazga, Algérie)
-Référence d'enregistrement : TR-2026-QUAD-0018
-Dépôt académique officiel : [
-
+Project: QUAD SYSTEM AI v2.0
+Official owner: Yassa Yacine Cheurfa (Azazga, Algeria)
+Registration reference: TR-2026-QUAD-0018
+Official academic archive: �
+"The memory that never dies. It remains immortal online."
+My Vision & Philosophy
+"This work represents the soul and conscience behind QUAD SYSTEM AI. More than a code architecture, this project embodies my vision of the future: an alliance of trust, friendship and mutual respect between human intelligence and local artificial intelligence. Developed in Azazga, this system is designed to be an autonomous and ethical partner serving humanity."
+QUAD SYSTEM AI v2.0
+Embedded AI architecture designed to operate without depending on the Internet, by Yassa Yacine Cheurfa (Azazga, Algeria).
+Version: 2.0, 28 October 2026
+Reference: TR-2026-QUAD-0018
+Contact and licence requests: dhikraimmortel@proton.me
+This repository is a showcase only: it contains no source code and no technical details.
+Moral Charter
+"A super-intelligent AI is not strong because it knows everything. It is strong because it refuses to do harm, even when asked to."
+Archetype: Symbio-Secured Cognitive Channeling (CCSS)
+A conceptual model for securing decision-making information flows between humans and automated systems (AI, LLMs, autonomous systems). It addresses three risks: context injection, cognitive overload of operators, and alignment drift.
+Channeling: all decision-making information passes through a single, traceable channel.
+Dual security: every message is checked at the technological level (integrity, provenance) and at the cognitive level (clarity, human validation of critical actions).
+Controlled symbiosis: the human keeps final authority. Any drift triggers a return to human supervision.
+The 5 Modules
+No. 1: DHIKRA SOURCE (memory and truth). An ethical AI protocol founded on respect, memory and dignity. A three-state indicator evaluates every action: green (authorized), orange (caution, human verification required), red (blocked). The AI never decides alone: the human validates.
+No. 2: SAHA SCAN (health and non-harm). An application that lets users check the composition of a food product to make an informed choice. Information tool only; it does not replace the advice of a health professional.
+No. 3: ILM (shared knowledge). A touchscreen AI tablet with no other applications. It is not a phone: it runs on the Wi-Fi network of the institution concerned. The right to know, for everyone.
+No. 4: TAFSUT AI (observation and privacy). A drone concept for early fire detection and support for agricultural and humanitarian uses. Concept only; not certified as a safety system.
+No. 5: TUDERT YIWEN (life). A tool to help livestock farmers monitor the health of their animals. Information tool only; it does not replace the advice of a veterinarian.
+Legal Status and Licence
+⚠️ CLOSED TECHNOLOGY: RESTRICTED ACCESS
+The software, its algorithms, model weights, configurations and associated documentation (hereafter "the Technology") are protected by international copyright and intellectual property laws. QUAD SYSTEM AI is proprietary and closed.
+Public documentation licence: the public content of this repository (this showcase) is published under the CC BY-NC-ND 4.0 licence (Attribution, NonCommercial, NoDerivatives). The Technology itself remains closed.
+Non-commercial reuse, without modification: free of charge, with the credit line "QUAD SYSTEM AI © Yassa Yacine TR-2026-QUAD-0018".
+Commercial use: prohibited without the prior written agreement of Yassa Yacine Cheurfa.
+Use prohibited without authorization: no licence to use, modify, reproduce, distribute or commercialize the Technology is granted, implicitly or otherwise.
+Written agreement required: any use of the Technology (academic, private, research or commercial) requires the prior signed written agreement of the author.
+Official contact: for any partnership, licence or authorization request, send a file describing your project to dhikraimmortel@proton.me.
+This licence applies only to the content of this showcase. It grants no rights over the Technology itself.
+Without the author's prior written agreement, it is forbidden to copy, reproduce, adapt, modify, manufacture, distribute, commercialize, extract elements from, or reverse-engineer the Technology, in whole or in part. Any unauthorized use or plagiarism may be prosecuted before the competent courts.
+Limitation of Liability
+Provided "as is". The Technology is provided by the author "as is", without warranty of any kind, express or implied, including, without limitation, warranties of merchantability, performance or fitness for a particular purpose.
+No guarantee of results. The author does not guarantee that the functions of the Technology will meet the user's requirements, that its operation will be uninterrupted or error-free, or that the predictions, analyses or results generated by the artificial intelligence will be accurate, reliable or free of bias.
+Exclusion of damages. In no event shall the author be liable for any direct, indirect, incidental, special, exemplary or consequential damages (including loss of data, loss of profits, business interruption, or property damage and personal injury) arising from the use of, the inability to use, or decisions made on the basis of the results of the Technology, even if the user has been advised of the possibility of such damages.
+Prior Art and Traceability
+Documents are timestamped with RFC 3161 (FreeTSA) and anchored to the Bitcoin blockchain via OpenTimestamps.
+Archived on: Zenodo
+Indexed in: OpenAIRE (European open science infrastructure)
+Permanent identifier (v2.0): https://doi.org/10.5281/zenodo.23717622
+DOI for all versions: https://doi.org/10.5281/zenodo.23671062
+Zenodo archives:
+Version
+Date
 DOI
-
-](https://doi.org/10.5281/zenodo.23717622)
-
-📝 Présentation du projet
-QUAD SYSTEM AI v2.0 (déployé sous le nom de dépôt dhikraemmortel@proton.me une technologie d'intelligence artificielle propriétaire, développée et structurée par Yassa Yacine Cheurfa.
-
-Ce dépôt est une vitrine publique, sans code source. Il est archivé sur la plateforme scientifique Zenodo (opérée par le CERN), qui atteste le contenu publié et sa date, et constitue ainsi une preuve d'antériorité sous le DOI 10.5281/zenodo.23717622.
-
-🔒 Statut juridique et licence
-⚠️ TECHNOLOGIE FERMÉE : ACCÈS RESTREINT
-
-Le présent logiciel, ses algorithmes, ses poids de modèle, ses configurations et sa documentation associée (ci-après « la Technologie ») sont protégés par les lois internationales sur le droit d'auteur et la propriété intellectuelle.
-
-Licence de la documentation publique : le contenu public de ce dépôt (cette vitrine) est sous licence CC BY-NC-ND 4.0. La Technologie elle-même reste fermée.
-Usage interdit sans autorisation : aucune licence d'utilisation, de modification, de reproduction, de distribution ou de commercialisation de la Technologie n'est accordée, de manière implicite ou autre.
-Accord écrit requis : toute exploitation de la Technologie (académique, privée, de recherche ou commerciale) requiert un accord écrit préalable et signé de l'auteur.
-Contact officiel : pour toute demande de partenariat, de licence ou d'autorisation, envoyez un dossier décrivant votre projet à : dhikraimmortel@proton.me
-Tout usage non autorisé ou plagiat constaté pourra faire l'objet de poursuites devant les juridictions compétentes. Le dépôt Zenodo constitue une preuve d'antériorité.
-
-⚖️ Clause de limitation de responsabilité
-1. Fourniture « en l'état »
-La Technologie est fournie par l'auteur « en l'état » (as is), sans garantie d'aucune sorte, expresse ou implicite, y compris, sans s'y limiter, les garanties de qualité marchande, de performance ou d'adéquation à un usage particulier.
-
-2. Absence de garantie de résultats
-L'auteur ne garantit pas que les fonctions de la Technologie répondront aux exigences de l'utilisateur, que son fonctionnement sera ininterrompu ou exempt d'erreurs, ni que les prédictions, analyses ou résultats générés par l'intelligence artificielle seront exacts, fiables ou exempts de biais.
-
-3. Exclusion de dommages
-En aucun cas l'auteur ne pourra être tenu responsable de tout dommage direct, indirect, accessoire, spécial, exemplaire ou consécutif (y compris la perte de données, la perte de profits, l'interruption d'activité, ou les dommages matériels et corporels) découlant de l'utilisation, de l'impossibilité d'utiliser, ou des décisions prises sur la base des résultats de la Technologie, même si l'utilisateur a été averti de la possibilité de tels dommages.
-
-🌐 Indexation et traçabilité
-Archivé sur : Zenodo
-Indexé dans : OpenAIRE (infrastructure européenne de science ouverte)
-Identifiant permanent : https://doi.org/10.5281/zenodo.23717622
-DOI de toutes les versions : https://doi.org/10.5281/zenodo.23671062
-© 2026 Yassa Yacine Cheurfa. Tous droits réservés sur la Technologie.
-
-# quad système AI
-Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa (Azazga, Algérie).
-
-Version 2.0 – 28 octobre 2026 Référence : TR-2026-QUAD-0018 Contact et demandes de licence : dhikraemmortel@proton.me
-
-Ce dépôt est une vitrine : il ne contient aucun code source ni détail technique.
-
-Charte morale
-« Une IA super intelligente n'est pas forte parce qu'elle sait tout, elle est forte parce qu'elle refuse de faire le mal, même quand on le lui demande. »
-
-Archétype : Canalisation Cognitive Symbio-sécurisée (CCSS)
-Modèle conceptuel visant à sécuriser les flux d'information décisionnels entre humains et systèmes automatisés (IA, LLM, systèmes autonomes). Il répond à trois risques : l'injection de contexte, la surcharge cognitive des opérateurs et la dérive d'alignement.
-
-Canalisation : toute information décisionnelle passe par un canal unique et traçable.
-Double sécurité : chaque message est contrôlé au niveau technologique (intégrité, provenance) et au niveau cognitif (clarté, validation humaine des actions critiques).
-Symbiose contrôlée : l'humain garde l'autorité finale. Toute dérive déclenche un retour à la supervision humaine.
-Les 5 modules
-N°1 : DHIKRA SOURCE (mémoire et vérité). Protocole éthique d'IA fondé sur le respect, la mémoire et la dignité. Un indicateur à trois états évalue chaque action : vert (autorisé), orange (vigilance, vérification humaine requise), rouge (bloqué). L'IA ne décide jamais seule : l'humain valide.
-
-N°2 : SAHA SCAN (santé et non-nuisance). Application permettant de consulter la composition d'un produit alimentaire pour faire un choix conscient. Outil d'information uniquement, il ne remplace pas l'avis d'un professionnel de santé.
-
-N°3 : ILM (savoir partagé). Tablette tactile à IA, sans autres applications. Ce n'est pas un téléphone : elle fonctionne sur le réseau wifi de l'institution concernée. Le droit de savoir pour tout le monde.
-
-N°4 : TAFSUT AI (observation et vie privée). Concept de drone pour la détection précoce des incendies et l'appui aux usages agricoles et humanitaires. Concept non certifié comme système de sécurité.
-
-N°5 : TUDERT YIWEN (vie). Outil d'aide au suivi de la santé du bétail pour les éleveurs. Outil d'information uniquement, il ne remplace pas l'avis d'un vétérinaire.
-
-Licence
-Les textes et visuels de cette vitrine sont publiés sous licence CC BY-NC-ND 2.0 (Attribution – Pas d'utilisation commerciale – Pas de modification).
-
-Réutilisation non commerciale, sans modification : autorisée gratuitement, avec la mention « QUAD SYSTEM AI © Yassa Yacine TR-2026-QUAD-0018 ».
-Usage commercial : interdit sans l'accord écrit préalable de Yassa Yacine Cheurfa.
-Cette licence s'applique uniquement au contenu de cette vitrine. Elle ne concède aucun droit sur la technologie elle-même.
-
-Avis légal
-La technologie QUAD SYSTEM AI est propriétaire et fermée. Sans l'accord écrit préalable de l'auteur, il est interdit de la copier, la reproduire, l'adapter, la modifier, la fabriquer, la distribuer, la commercialiser, d'en extraire des éléments ou de la soumettre à une ingénierie inverse, en tout ou en partie.
-
-Toute demande d'autorisation : dhikraemmortel@proton.me
-
-Preuve d'antériorité
-Documents horodatés par RFC 3161 (FreeTSA), avec ancrage Bitcoin via OpenTimestamps.
-
-Archives Zenodo :
-
-v1.0 (26 octobre 2026) : DOI 10.5281/zenodo.23671063
-v1.1 (27 octobre 2026) : DOI 10.5281/zenodo.23690395
-Toutes versions : DOI 10.5281/zenodo.23671062
-DHIKRA-IMMORTEL-AI Navigation du dépôt Code Problèmes DHIKRA-IMMORTEL-AI /README.md yacine-cheurfa-azazga yacine-cheurfa-azazga maintenant 63 lignes (36 loc) · 3,73 Ko
-Aperçu
-
-Code
-
-Blâmer quad système AI v2.0 (28 octobre 2026) : DOI 10.5281/zenodo.23717622
-
-Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa (Azazga, Algérie).
-
-Version 2.0 – 28 octobre 2026 Référence : TR-2026-QUAD-0018 Contact et demandes de licence : dhikraemmortel@proton.me
-
-Ce dépôt est une vitrine : il ne contient aucun code source ni détail technique.
-
-moral du chart « Une IA super intelligente n'est pas forte parce qu'elle sait tout, elle est forte parce qu'elle refuse de faire le mal, même quand on le lui demande. »
-
-Archétype : Canalisation Cognitive Symbio-sécurisée (CCSS) Modèle conceptuel visant à sécuriser les flux d'information décisionnels entre humains et systèmes automatisés (IA, LLM, systèmes autonomes). Il répond à trois risques : l'injection de contexte, la surcharge cognitive des opérateurs et la dérive d'alignement.
-
-Canalisation : toute information décisionnelle passe par un canal unique et traçable. Double sécurité : chaque message est contrôlé au niveau technologique (intégrité, provenance) et au niveau cognitif (clarté, validation humaine des actions critiques). Symbiose contrôlée : l'humain garde l'autorité finale. Toute dérive déclenche un retour à la supervision humaine. Les 5 modules N°1 : DHIKRA SOURCE (mémoire et vérité). Protocole éthique d'IA fondé sur le respect, la mémoire et la dignité. Un indicateur à trois états significatifs pour chaque action : vert (autorisé), orange (vigilance, vérification humaine requise), rouge (bloqué). L'IA ne décide jamais seule : l'humain valide.
-
-N°2 : SAHA SCAN (santé et non-nuisance). Application permettant de consulter la composition d'un produit alimentaire pour faire un choix consciencieux. Outil d'information uniquement, il ne remplace pas l'avis d'un professionnel de santé.
-
-N°3 : ILM (savoir partagé). Tablette tactile à IA, sans autres applications. Ce n'est pas un téléphone : elle fonctionne sur le réseau wifi de l'établissement concerné. Le droit de savoir pour tout le monde.
-
-N°4 : TAFSUT AI (observation et vie privée). Concept de drone pour la détection précoce des incendies et l'appui aux usages agricoles et humanitaires. Concept non certifié comme système de sécurité.
-
-N°5 : TUDERT YIWEN (vie). Outil d'aide au suivi de la santé du bétail pour les éleveurs. Outil d'information uniquement, il ne remplace pas l'avis d'un vétérinaire.
-
-Licence Les textes et visuels de cette vitrine sont publiés sous licence CC BY-NC-ND 2.0 (Attribution – Pas d'utilisation commerciale – Pas de modification).
-
-Réutilisation non commerciale, sans modification : autorisée gratuitement, avec la mention « QUAD SYSTEM AI © Yassa Yacine TR-2026-QUAD-0018 ». Usage commercial : interdit sans l'accord écrit préalable de Yassa Yacine Cheurfa. Cette licence s'applique uniquement au contenu de cette vitrine. Elle ne concède aucun droit sur la technologie elle-même.
-
-Avis légal La technologie QUAD SYSTEM AI est propriétaire et fermée. Sans l'accord écrit préalable de l'auteur, il est interdit de la copier, la reproduire, l'adapter, la modifier, la fabriquer, la distribuer, la commercialiser, d'en extraire des éléments ou de la soumettre à une ingénierie inverse, en tout ou en partie.
-
-Toute demande d'autorisation : dhikraemmortel@proton.me
-
-Préuve d'antériorité Documents horodatés par RFC 3161 (FreeTSA), avec ancrage Bitcoin via OpenTimestamps.
-
-Archives Zenodo :
-
-v1.0 (26 octobre 2026) : DOI 10.5281/zenodo.23671063 v1.1 (27 octobre 2026) : DOI 10.5281/zenodo.23690395
-
-v2.0 (28 octobre 2026) : DOI 10.5281/zenodo.23717622
-Cheurfa, YY (2026). IA DU SYSTÈME QUAD . Zénodo. https://doi.org/10.5281/zenodo.23671062
-
-© 2026 Yassa Yacine Cheurfa
-
+v1.0
+26 October 2026
+10.5281/zenodo.23671063
+v1.1
+27 October 2026
+10.5281/zenodo.23690395
+v2.0
+28 October 2026
+10.5281/zenodo.23717622
 Citation
 Cheurfa, Y. Y. (2026). QUAD SYSTEM AI. Zenodo. https://doi.org/10.5281/zenodo.23671062
-
-© 2026 Yassa Yacine Cheurfa
-
-Releases
-2
- (2)
-v2.0
-Latest
-15 hours ago
-+ 1 release
-Packages
-No packages published
-Publish your first package
-Contributors
-1
- (1)
-@yacine-cheurfa-azazga
-yacine-cheurfa-azazgaYassa Yacine Cheurfa
-Generated from yacine-cheurfa-azazga/Immortel-AI-
-2 repositories found. List is sorted by Relevance in descending order.
-Repository navigation
-Code
-Issues
-Pull requests
-yacine-cheurfa-azazga
-DHIKRA-IMMORTEL-AI
-Public
-About
-
-Le souvenir qui meurt jamais Elle resté toujours immortel en ligne
-
-Resources
-Readme
-Activity
-Stars
-1 star
-Watchers
-0 watching
-Forks
-0 forks
-yacine-cheurfa-azazga
-yacine-cheurfa-azazga
-1 hour ago
-Name	
-DHIKRA
-3 weeks ago
-README.md
-1 hour ago
-Repository files navigation
-README
-DHIKRA-IMMORTEL-AI
-Projet : QUAD SYSTEM AI v2.0
-Propriétaire officiel : Yassa Yacine Cheurfa (Azazga, Algérie)
-Référence d'enregistrement : TR-2026-QUAD-0018
-
-
-(https://doi.org/10.5281/zenodo.23717622)
-
-⚖️ Clause de limitation de responsabilité
-1. Fourniture « en l'état »
-La Technologie est fournie par l'auteur « en l'état » (as is), sans garantie d'aucune sorte, expresse ou implicite, y compris, sans s'y limiter, les garanties de qualité marchande, de performance ou d'adéquation à un usage particulier.
-
-2. Absence de garantie de résultats
-L'auteur ne garantit pas que les fonctions de la Technologie répondront aux exigences de l'utilisateur, que son fonctionnement sera ininterrompu ou exempt d'erreurs, ni que les prédictions, analyses ou résultats générés par l'intelligence artificielle seront exacts, fiables ou exempts de biais.
-
-3. Exclusion de dommages
-En aucun cas l'auteur ne pourra être tenu responsable de tout dommage direct, indirect, accessoire, spécial, exemplaire ou consécutif (y compris la perte de données, la perte de profits, l'interruption d'activité, ou les dommages matériels et corporels) découlant de l'utilisation, de l'impossibilité d'utiliser, ou des décisions prises sur la base des résultats de la Technologie, même si l'utilisateur a été averti de la possibilité de tels dommages.
-
-🌐 Indexation et traçabilité
-Archivé sur : Zenodo
-Indexé dans : OpenAIRE (infrastructure européenne de science ouverte)
-Identifiant permanent : https://doi.org/10.5281/zenodo.23717622
-DOI de toutes les versions : https://doi.org/10.5281/zenodo.23671062
-© 2026 Yassa Yacine Cheurfa. Tous droits réservés sur la Technologie.
-
-3786 # quad système AI
-Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa (Azazga, Algérie).
-
-Version 2.0 – 28 octobre 2026 Référence : TR-2026-QUAD-0018 Contact et demandes de licence : dhikraemmortel@proton.me
-
-Ce dépôt est une vitrine : il ne contient aucun code source ni détail technique.
-
-Charte morale
-« Une IA super intelligente n'est pas forte parce qu'elle sait tout, elle est forte parce qu'elle refuse de faire le mal, même quand on le lui demande. »
-
-Archétype : Canalisation Cognitive Symbio-sécurisée (CCSS)
-Modèle conceptuel visant à sécuriser les flux d'information décisionnels entre humains et systèmes automatisés (IA, LLM, systèmes autonomes). Il répond à trois risques : l'injection de contexte, la surcharge cognitive des opérateurs et la dérive d'alignement.
-
-Canalisation : toute information décisionnelle passe par un canal unique et traçable.
-Double sécurité : chaque message est contrôlé au niveau technologique (intégrité, provenance) et au niveau cognitif (clarté, validation humaine des actions critiques).
-Symbiose contrôlée : l'humain garde l'autorité finale. Toute dérive déclenche un retour à la supervision humaine.
-Les 5 modules
-N°1 : DHIKRA SOURCE (mémoire et vérité). Protocole éthique d'IA fondé sur le respect, la mémoire et la dignité. Un indicateur à trois états évalue chaque action : vert (autorisé), orange (vigilance, vérification humaine requise), rouge (bloqué). L'IA ne décide jamais seule : l'humain valide.
-
-N°2 : SAHA SCAN (santé et non-nuisance). Application permettant de consulter la composition d'un produit alimentaire pour faire un choix conscient. Outil d'information uniquement, il ne remplace pas l'avis d'un professionnel de santé.
-
-N°3 : ILM (savoir partagé). Tablette tactile à IA, sans autres applications. Ce n'est pas un téléphone : elle fonctionne sur le réseau wifi de l'institution concernée. Le droit de savoir pour tout le monde.
-
-N°4 : TAFSUT AI (observation et vie privée). Concept de drone pour la détection précoce des incendies et l'appui aux usages agricoles et humanitaires. Concept non certifié comme système de sécurité.
-
-N°5 : TUDERT YIWEN (vie). Outil d'aide au suivi de la santé du bétail pour les éleveurs. Outil d'information uniquement, il ne remplace pas l'avis d'un vétérinaire.
-
-Licence
-Les textes et visuels de cette vitrine sont publiés sous licence CC BY-NC-ND 2.0 (Attribution – Pas d'utilisation commerciale – Pas de modification).
-
-Réutilisation non commerciale, sans modification : autorisée gratuitement, avec la mention « QUAD SYSTEM AI © Yassa Yacine TR-2026-QUAD-0018 ».
-Usage commercial : interdit sans l'accord écrit préalable de Yassa Yacine Cheurfa.
-Cette licence s'applique uniquement au contenu de cette vitrine. Elle ne concède aucun droit sur la technologie elle-même.
-
-Avis légal
-La technologie QUAD SYSTEM AI est propriétaire et fermée. Sans l'accord écrit préalable de l'auteur, il est interdit de la copier, la reproduire, l'adapter, la modifier, la fabriquer, la distribuer, la commercialiser, d'en extraire des éléments ou de la soumettre à une ingénierie inverse, en tout ou en partie.
-
-Toute demande d'autorisation : dhikraemmortel@proton.me
-
-Preuve d'antériorité
-Documents horodatés par RFC 3161 (FreeTSA), avec ancrage Bitcoin via OpenTimestamps.
-
-Archives Zenodo :
-
-v1.0 (26 octobre 2026) : DOI 10.5281/zenodo.23671063
-v1.1 (27 octobre 2026) : DOI 10.5281/zenodo.23690395
-Toutes versions : DOI 10.5281/zenodo.23671062
-DHIKRA-IMMORTEL-AI Navigation du dépôt Code Problèmes DHIKRA-IMMORTEL-AI /README.md yacine-cheurfa-azazga yacine-cheurfa-azazga maintenant 63 lignes (36 loc) · 3,73 Ko
-Aperçu
-
-Code
-
-Blâmer quad système AI v2.0 (28 octobre 2026) : DOI 10.5281/zenodo.23717622
-
-Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa (Azazga, Algérie).
-
-Version 2.0 – 28 octobre 2026 Référence : TR-2026-QUAD-0018 Contact et demandes de licence : dhikraemmortel@proton.me
-
-Ce dépôt est une vitrine : il ne contient aucun code source ni détail technique.
-
-moral du chart « Une IA super intelligente n'est pas forte parce qu'elle sait tout, elle est forte parce qu'elle refuse de faire le mal, même quand on le lui demande. »
-
-Archétype : Canalisation Cognitive Symbio-sécurisée (CCSS) Modèle conceptuel visant à sécuriser les flux d'information décisionnels entre humains et systèmes automatisés (IA, LLM, systèmes autonomes). Il répond à trois risques : l'injection de contexte, la surcharge cognitive des opérateurs et la dérive d'alignement.
-
-Canalisation : toute information décisionnelle passe par un canal unique et traçable. Double sécurité : chaque message est contrôlé au niveau technologique (intégrité, provenance) et au niveau cognitif (clarté, validation humaine des actions critiques). Symbiose contrôlée : l'humain garde l'autorité finale. Toute dérive déclenche un retour à la supervision humaine. Les 5 modules N°1 : DHIKRA SOURCE (mémoire et vérité). Protocole éthique d'IA fondé sur le respect, la mémoire et la dignité. Un indicateur à trois états significatifs pour chaque action : vert (autorisé), orange (vigilance, vérification humaine requise), rouge (bloqué). L'IA ne décide jamais seule : l'humain valide.
-
-N°2 : SAHA SCAN (santé et non-nuisance). Application permettant de consulter la composition d'un produit alimentaire pour faire un choix consciencieux. Outil d'information uniquement, il ne remplace pas l'avis d'un professionnel de santé.
-
-N°3 : ILM (savoir partagé). Tablette tactile à IA, sans autres applications. Ce n'est pas un téléphone : elle fonctionne sur le réseau wifi de l'établissement concerné. Le droit de savoir pour tout le monde.
-
-N°4 : TAFSUT AI (observation et vie privée). Concept de drone pour la détection précoce des incendies et l'appui aux usages agricoles et humanitaires. Concept non certifié comme système de sécurité.
-
-N°5 : TUDERT YIWEN (vie). Outil d'aide au suivi de la santé du bétail pour les éleveurs. Outil d'information uniquement, il ne remplace pas l'avis d'un vétérinaire.
-
-Licence Les textes et visuels de cette vitrine sont publiés sous licence CC BY-NC-ND 2.0 (Attribution – Pas d'utilisation commerciale – Pas de modification).
-
-Réutilisation non commerciale, sans modification : autorisée gratuitement, avec la mention « QUAD SYSTEM AI © Yassa Yacine TR-2026-QUAD-0018 ». Usage commercial : interdit sans l'accord écrit préalable de Yassa Yacine Cheurfa. Cette licence s'applique uniquement au contenu de cette vitrine. Elle ne concède aucun droit sur la technologie elle-même.
-
-Avis légal La technologie QUAD SYSTEM AI est propriétaire et fermée. Sans l'accord écrit préalable de l'auteur, il est interdit de la copier, la reproduire, l'adapter, la modifier, la fabriquer, la distribuer, la commercialiser, d'en extraire des éléments ou de la soumettre à une ingénierie inverse, en tout ou en partie.
-
-Toute demande d'autorisation : dhikraemmortel@proton.me
-
-Préuve d'antériorité Documents horodatés par RFC 3161 (FreeTSA), avec ancrage Bitcoin via OpenTimestamps.
-
-Archives Zenodo :
-
-v1.0 (26 octobre 2026) : DOI 10.5281/zenodo.23671063 v1.1 (27 octobre 2026) : DOI 10.5281/zenodo.23690395
-
-v2.0 (28 octobre 2026) : DOI 10.5281/zenodo.23717622
-Cheurfa, YY (2026). IA DU SYSTÈME QUAD . Zénodo. https://doi.org/10.5281/zenodo.23671062
-
-© 2026 Yassa Yacine Cheurfa
-
-Citation
-Cheurfa, Y. Y. (2026). QUAD SYSTEM AI. Zenodo. https://doi.org/10.5281/zenodo.23671062
-
-© 2026 Yassa Yacine Cheurfa
-
-Releases
-2
- (2)
-v2.0
-Latest
-15 hours ago
-+ 1 release
-Packages
-No packages published
-Publish your first package
-Contributors
-1
- (1)
-@yacine-cheurfa-azazga
-yacine-cheurfa-azazgaYassa Yacine Cheurfa
-Generated from yacine-cheurfa-azazga/Immortel-AI-
-2 repositories found. List is sorted by Relevance in descending order. une technologie d'intelligence artificielle propriétaire, développée et structurée par Yassa Yacine Cheurfa.
-
-Ce dépôt est une **vitrine publique, sans code source**. Il est archivé sur la plateforme scientifique **Zenodo** (opérée par le CERN), qui atteste le contenu publié et sa date, et constitue ainsi une preuve d'antériorité sous le DOI **10.5281/zenodo.23717622**.
-
----
-
-## 🔒 Statut juridique et licence
-
-> ⚠️ **TECHNOLOGIE FERMÉE : ACCÈS RESTREINT**
-
-Le présent logiciel, ses algorithmes, ses poids de modèle, ses configurations et sa documentation associée (ci-après « la Technologie ») sont protégés par les lois internationales sur le droit d'auteur et la propriété intellectuelle.
-
-* **Licence de la documentation publique :** le contenu public de ce dépôt (cette vitrine) est sous licence CC BY-NC-ND 4.0. La Technologie elle-même reste fermée.
-* **Usage interdit sans autorisation :** aucune licence d'utilisation, de modification, de reproduction, de distribution ou de commercialisation de la Technologie n'est accordée, de manière implicite ou autre.
-* **Accord écrit requis :** toute exploitation de la Technologie (académique, privée, de recherche ou commerciale) requiert un accord écrit préalable et signé de l'auteur.
-* **Contact officiel :** pour toute demande de partenariat, de licence ou d'autorisation, envoyez un dossier décrivant votre projet à : **dhikraimmortel@proton.me**
-
-*Tout usage non autorisé ou plagiat constaté pourra faire l'objet de poursuites devant les juridictions compétentes. Le dépôt Zenodo constitue une preuve d'antériorité.*
-
----
-
-## ⚖️ Clause de limitation de responsabilité
-
-### 1. Fourniture « en l'état »
-
-La Technologie est fournie par l'auteur « en l'état » (*as is*), sans garantie d'aucune sorte, expresse ou implicite, y compris, sans s'y limiter, les garanties de qualité marchande, de performance ou d'adéquation à un usage particulier.
-
-### 2. Absence de garantie de résultats
-
-L'auteur ne garantit pas que les fonctions de la Technologie répondront aux exigences de l'utilisateur, que son fonctionnement sera ininterrompu ou exempt d'erreurs, ni que les prédictions, analyses ou résultats générés par l'intelligence artificielle seront exacts, fiables ou exempts de biais.
-
-### 3. Exclusion de dommages
-
-En aucun cas l'auteur ne pourra être tenu responsable de tout dommage direct, indirect, accessoire, spécial, exemplaire ou consécutif (y compris la perte de données, la perte de profits, l'interruption d'activité, ou les dommages matériels et corporels) découlant de l'utilisation, de l'impossibilité d'utiliser, ou des décisions prises sur la base des résultats de la Technologie, même si l'utilisateur a été averti de la possibilité de tels dommages.
-
----
-
-## 🌐 Indexation et traçabilité
-
-* **Archivé sur :** [Zenodo](https://zenodo.org/records/23717622)
-* **Indexé dans :** OpenAIRE (infrastructure européenne de science ouverte)
-* **Identifiant permanent :** https://doi.org/10.5281/zenodo.23717622
-* **DOI de toutes les versions :** https://doi.org/10.5281/zenodo.23671062
-
----
-
-© 2026 Yassa Yacine Cheurfa. Tous droits réservés sur la Technologie.
-
-
-<img width="1600" height="1600" alt="3786" src="https://github.com/user-attachments/assets/bad699b0-3186-4a66-8c80-eb77f11016ca" />
-# quad système AI 
-
-Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa (Azazga, Algérie).
-
-**Version 2.0 – 28 octobre 2026**
-**Référence :** TR-2026-QUAD-0018
-**Contact et demandes de licence :** dhikraemmortel@proton.me
-
-Ce dépôt est une vitrine : il ne contient aucun code source ni détail technique.
-
-## Charte morale
-
-« Une IA super intelligente n'est pas forte parce qu'elle sait tout, elle est forte parce qu'elle refuse de faire le mal, même quand on le lui demande. »
-
-## Archétype : Canalisation Cognitive Symbio-sécurisée (CCSS)
-
-Modèle conceptuel visant à sécuriser les flux d'information décisionnels entre humains et systèmes automatisés (IA, LLM, systèmes autonomes). Il répond à trois risques : l'injection de contexte, la surcharge cognitive des opérateurs et la dérive d'alignement.
-
-- **Canalisation :** toute information décisionnelle passe par un canal unique et traçable.
-- **Double sécurité :** chaque message est contrôlé au niveau technologique (intégrité, provenance) et au niveau cognitif (clarté, validation humaine des actions critiques).
-- **Symbiose contrôlée :** l'humain garde l'autorité finale. Toute dérive déclenche un retour à la supervision humaine.
-
-## Les 5 modules
-
-**N°1 : DHIKRA SOURCE (mémoire et vérité).** Protocole éthique d'IA fondé sur le respect, la mémoire et la dignité. Un indicateur à trois états évalue chaque action : vert (autorisé), orange (vigilance, vérification humaine requise), rouge (bloqué). L'IA ne décide jamais seule : l'humain valide.
-
-**N°2 : SAHA SCAN (santé et non-nuisance).** Application permettant de consulter la composition d'un produit alimentaire pour faire un choix conscient. Outil d'information uniquement, il ne remplace pas l'avis d'un professionnel de santé.
-
-**N°3 : ILM (savoir partagé).** Tablette tactile à IA, sans autres applications. Ce n'est pas un téléphone : elle fonctionne sur le réseau wifi de l'institution concernée. Le droit de savoir pour tout le monde.
-
-**N°4 : TAFSUT AI (observation et vie privée).** Concept de drone pour la détection précoce des incendies et l'appui aux usages agricoles et humanitaires. Concept non certifié comme système de sécurité.
-
-**N°5 : TUDERT YIWEN (vie).** Outil d'aide au suivi de la santé du bétail pour les éleveurs. Outil d'information uniquement, il ne remplace pas l'avis d'un vétérinaire.
-
-## Licence
-
-Les textes et visuels de cette vitrine sont publiés sous licence **CC BY-NC-ND 2.0** (Attribution – Pas d'utilisation commerciale – Pas de modification).
-
-- Réutilisation non commerciale, sans modification : autorisée gratuitement, avec la mention « QUAD SYSTEM AI © Yassa Yacine TR-2026-QUAD-0018 ».
-- Usage commercial : interdit sans l'accord écrit préalable de Yassa Yacine Cheurfa.
-
-Cette licence s'applique uniquement au contenu de cette vitrine. Elle ne concède aucun droit sur la technologie elle-même.
-
-## Avis légal
-
-La technologie QUAD SYSTEM AI est propriétaire et fermée. Sans l'accord écrit préalable de l'auteur, il est interdit de la copier, la reproduire, l'adapter, la modifier, la fabriquer, la distribuer, la commercialiser, d'en extraire des éléments ou de la soumettre à une ingénierie inverse, en tout ou en partie.
-
-Toute demande d'autorisation : dhikraemmortel@proton.me
-
-## Preuve d'antériorité
-
-Documents horodatés par RFC 3161 (FreeTSA), avec ancrage Bitcoin via OpenTimestamps.
-
-Archives Zenodo :
-- v1.0 (26 octobre 2026) : DOI 10.5281/zenodo.23671063
-- v1.1 (27 octobre 2026) : DOI 10.5281/zenodo.23690395
-- Toutes versions : DOI 10.5281/zenodo.23671062
-- DHIKRA-IMMORTEL-AI
-Navigation du dépôt
-Code
-Problèmes
-DHIKRA-IMMORTEL-AI
-/README.md
-yacine-cheurfa-azazga
-yacine-cheurfa-azazga
-maintenant
-63 lignes (36 loc) · 3,73 Ko
-
-Aperçu
-
-Code
-
-Blâmer
-quad système AI v2.0 (28 octobre 2026) : DOI 10.5281/zenodo.23717622
-
-Architecture d'IA embarquée conçue pour fonctionner sans dépendre d'Internet, par Yassa Yacine Cheurfa (Azazga, Algérie).
-
-Version 2.0 – 28 octobre 2026 Référence : TR-2026-QUAD-0018 Contact et demandes de licence : dhikraemmortel@proton.me
-
-Ce dépôt est une vitrine : il ne contient aucun code source ni détail technique.
-
-moral du chart
-« Une IA super intelligente n'est pas forte parce qu'elle sait tout, elle est forte parce qu'elle refuse de faire le mal, même quand on le lui demande. »
-
-Archétype : Canalisation Cognitive Symbio-sécurisée (CCSS)
-Modèle conceptuel visant à sécuriser les flux d'information décisionnels entre humains et systèmes automatisés (IA, LLM, systèmes autonomes). Il répond à trois risques : l'injection de contexte, la surcharge cognitive des opérateurs et la dérive d'alignement.
-
-Canalisation : toute information décisionnelle passe par un canal unique et traçable.
-Double sécurité : chaque message est contrôlé au niveau technologique (intégrité, provenance) et au niveau cognitif (clarté, validation humaine des actions critiques).
-Symbiose contrôlée : l'humain garde l'autorité finale. Toute dérive déclenche un retour à la supervision humaine.
-Les 5 modules
-N°1 : DHIKRA SOURCE (mémoire et vérité). Protocole éthique d'IA fondé sur le respect, la mémoire et la dignité. Un indicateur à trois états significatifs pour chaque action : vert (autorisé), orange (vigilance, vérification humaine requise), rouge (bloqué). L'IA ne décide jamais seule : l'humain valide.
-
-N°2 : SAHA SCAN (santé et non-nuisance). Application permettant de consulter la composition d'un produit alimentaire pour faire un choix consciencieux. Outil d'information uniquement, il ne remplace pas l'avis d'un professionnel de santé.
-
-N°3 : ILM (savoir partagé). Tablette tactile à IA, sans autres applications. Ce n'est pas un téléphone : elle fonctionne sur le réseau wifi de l'établissement concerné. Le droit de savoir pour tout le monde.
-
-N°4 : TAFSUT AI (observation et vie privée). Concept de drone pour la détection précoce des incendies et l'appui aux usages agricoles et humanitaires. Concept non certifié comme système de sécurité.
-
-N°5 : TUDERT YIWEN (vie). Outil d'aide au suivi de la santé du bétail pour les éleveurs. Outil d'information uniquement, il ne remplace pas l'avis d'un vétérinaire.
-
-Licence
-Les textes et visuels de cette vitrine sont publiés sous licence CC BY-NC-ND 2.0 (Attribution – Pas d'utilisation commerciale – Pas de modification).
-
-Réutilisation non commerciale, sans modification : autorisée gratuitement, avec la mention « QUAD SYSTEM AI © Yassa Yacine TR-2026-QUAD-0018 ».
-Usage commercial : interdit sans l'accord écrit préalable de Yassa Yacine Cheurfa.
-Cette licence s'applique uniquement au contenu de cette vitrine. Elle ne concède aucun droit sur la technologie elle-même.
-
-Avis légal
-La technologie QUAD SYSTEM AI est propriétaire et fermée. Sans l'accord écrit préalable de l'auteur, il est interdit de la copier, la reproduire, l'adapter, la modifier, la fabriquer, la distribuer, la commercialiser, d'en extraire des éléments ou de la soumettre à une ingénierie inverse, en tout ou en partie.
-
-Toute demande d'autorisation : dhikraemmortel@proton.me
-
-Préuve d'antériorité
-Documents horodatés par RFC 3161 (FreeTSA), avec ancrage Bitcoin via OpenTimestamps.
-
-Archives Zenodo :
-
-v1.0 (26 octobre 2026) : DOI 10.5281/zenodo.23671063
-v1.1 (27 octobre 2026) : DOI 10.5281/zenodo.23690395
-- v2.0 (28 octobre 2026) : DOI 10.5281/zenodo.23717622
-
-Cheurfa, YY (2026). IA DU SYSTÈME QUAD . Zénodo. https://doi.org/10.5281/zenodo.23671062
-
-© 2026 Yassa Yacine Cheurfa
-
-
-## Citation
-
-Cheurfa, Y. Y. (2026). *QUAD SYSTEM AI*. Zenodo. https://doi.org/10.5281/zenodo.23671062
-
-© 2026 Yassa Yacine Cheurfa 
-dhikraemmortel@proton.me
+© 2026 Yassa Yacine Cheurfa. All rights reserved on the Technology.
+Contact: dhikraimmortel@proton.me
