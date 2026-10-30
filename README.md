@@ -22,7 +22,7 @@ Cheurfa, Y. Y. (2026). DHIKRA-IMMORTEL-AI: QUAD SYSTEM AI v2.0 (Version 2.0). Ze
 ```bibtex
 @software{yassa_yacine_cheurfa_2026_23717622,
   author       = {Yassa Yacine Cheurfa},
-  title        = {DHIKRA-IMMORTEL-AI: QUAD SYSTEM AI v2.0},
+  title        = {DHIKRA-EMMORTEL-AI: QUAD SYSTEM AI v2.0},
   month        = oct,
   year         = 2026,
   publisher    = {Zenodo},
@@ -115,7 +115,7 @@ Contact: dhikraemmortel@proton.me
 **Version :** v2.0 (dépôt public) — application Système Pinal : prototype fonctionnel
 **DOI :** 10.5281/zenodo.23717622
 **Référence de dossier :** TR-2026-QUAD-0018
-**Contact :** dhikraimmortel@proton.me
+**Contact :** dhikraemmortel@proton.me
 
 ---
 
@@ -177,3 +177,5 @@ Le présent dépôt, incluant l'ensemble des concepts, documentations, élément
 3. **Usage Strictement Restreint :** Les informations publiques fournies ici servent uniquement de démonstration de prototype. Elles ne confèrent aucun droit de licence ni d'exploitation.
 
 Pour toute demande d'autorisation ou de partenariat, veuillez contacter les auteurs par la voie officielle.
+
+**Contact :** dhikraemmortel@proton.me
