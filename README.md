@@ -107,3 +107,61 @@ Cheurfa, Y. Y. (2026). QUAD SYSTEM AI. Zenodo. https://doi.org/10.5281/zenodo.23
 © 2026 Yassa Yacine Cheurfa. All rights reserved on the Technology.
 Contact: dhikraemmortel@proton.me
 <img width="896" height="1200" alt="3892" src="https://github.com/user-attachments/assets/af955405-3216-4d95-a0eb-6e9368494ca5" />
+# FICHE TECHNIQUE DE PRESTATIONS
+## DHIKRA SOURCE — Système Pinal
+
+**Auteur et titulaire des droits :** Yassa Yacine Cheurfa — Azazga, Algérie
+**Version :** v2.0 (dépôt public) — application Système Pinal : prototype fonctionnel
+**DOI :** 10.5281/zenodo.23717622
+**Référence de dossier :** TR-2026-QUAD-0018
+**Contact :** dhikraimmortel@proton.me
+
+---
+
+### 1. Présentation
+
+DHIKRA SOURCE est un protocole éthique de mémoire. Le Système Pinal en est l'application de démonstration : un portrait vivant dans un cadre or et noir, où chaque message passe par un **Respect-Check** avant d'être délivré et enregistré.
+
+- Feu **vert** : message respectueux avec invocation (douaa) → délivré et enregistré dans la mémoire DHIKRA.
+- Feu **rouge** : manque de respect détecté → message bloqué, pénalité de réécriture (3 fois « Allah Yarhamha - الله يرحمها »).
+
+### 2. Caractéristiques techniques
+
+| Élément | Détail |
+|---|---|
+| Technologie | Flutter / Dart (Flutter 3.27 ou plus) |
+| Plateformes | Android, iOS, web (via Flutter) |
+| Fonctionnement | Local, sans connexion requise |
+| Respect-Check | Analyse par mots-clés (insultes, douaa requise, longueur minimale) |
+| Mémoire DHIKRA | Identifiant, catégorie, date, référence, empreinte SHA-256 |
+| Animation | Clignement des yeux et mouvement de bouche synchronisés au texte |
+| Interface | Marbre noir et or, cadre doré, feux rouge / vert |
+| Dépendance externe | `crypto` (empreintes SHA-256) |
+
+### 3. Limites connues (v1.0 de l'application)
+
+- Le Respect-Check ne comprend pas le sens des phrases : il repose sur des mots-clés.
+- La mémoire DHIKRA est conservée en mémoire vive et perdue à la fermeture (stockage local persistant possible sur demande).
+- Le portrait est une animation simple (icône, paupières, bouche).
+
+### 4. Prestations proposées
+
+| Prestation | Description | Conditions |
+|---|---|---|
+| Démonstration | Présentation de l'application et du protocole | Sur demande |
+| Licence d'évaluation | Essai personnel, non commercial et temporaire | Gratuite, avec mention de l'auteur |
+| Licence commerciale | Usage commercial de l'application ou du protocole | Accord écrit préalable obligatoire, sur devis |
+| Personnalisation | Adaptation de l'interface, des textes et du Respect-Check | Sur devis |
+| Intégration | Intégration du protocole DHIKRA dans une application tierce | Sur devis |
+| Stockage persistant | Sauvegarde locale de la mémoire DHIKRA | Sur devis |
+
+### 5. Propriété intellectuelle
+
+© 2026 Yassa Yacine Cheurfa. Tous droits réservés.
+Toute copie, modification, distribution, œuvre dérivée ou usage commercial sans licence écrite est interdit. Les noms DHIKRA SOURCE, IMMORTEL et Système Pinal sont réservés.
+
+La preuve d'antériorité repose sur le dépôt Zenodo (DOI ci-dessus), l'historique des commits GitHub et des horodatages OpenTimestamps (Bitcoin).
+
+### 6. Demande de licence ou de devis
+
+Écrire à **dhikraimmortel@proton.me** en précisant : le nom du demandeur, l'usage prévu, la durée et la prestation souhaitée.
