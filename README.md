@@ -126,35 +126,6 @@ DHIKRA SOURCE est un protocole éthique de mémoire. Le Système Pinal en est l'
 - Feu **vert** : message respectueux avec invocation (douaa) → délivré et enregistré dans la mémoire DHIKRA.
 - Feu **rouge** : manque de respect détecté → message bloqué, pénalité de réécriture (3 fois « Allah Yarhamha - الله يرحمها »).
 
-### 2. Caractéristiques techniques
-
-| Élément | Détail |
-|---|---|
-| Technologie | Flutter / Dart (Flutter 3.27 ou plus) |
-| Plateformes | Android, iOS, web (via Flutter) |
-| Fonctionnement | Local, sans connexion requise |
-| Respect-Check | Analyse par mots-clés (insultes, douaa requise, longueur minimale) |
-| Mémoire DHIKRA | Identifiant, catégorie, date, référence, empreinte SHA-256 |
-| Animation | Clignement des yeux et mouvement de bouche synchronisés au texte |
-| Interface | Marbre noir et or, cadre doré, feux rouge / vert |
-| Dépendance externe | `crypto` (empreintes SHA-256) |
-
-### 3. Limites connues (v1.0 de l'application)
-
-- Le Respect-Check ne comprend pas le sens des phrases : il repose sur des mots-clés.
-- La mémoire DHIKRA est conservée en mémoire vive et perdue à la fermeture (stockage local persistant possible sur demande).
-- Le portrait est une animation simple (icône, paupières, bouche).
-
-### 4. Prestations proposées
-
-| Prestation | Description | Conditions |
-|---|---|---|
-| Démonstration | Présentation de l'application et du protocole | Sur demande |
-| Licence d'évaluation | Essai personnel, non commercial et temporaire | Gratuite, avec mention de l'auteur |
-| Licence commerciale | Usage commercial de l'application ou du protocole | Accord écrit préalable obligatoire, sur devis |
-| Personnalisation | Adaptation de l'interface, des textes et du Respect-Check | Sur devis |
-| Intégration | Intégration du protocole DHIKRA dans une application tierce | Sur devis |
-| Stockage persistant | Sauvegarde locale de la mémoire DHIKRA | Sur devis |
 
 ### 5. Propriété intellectuelle
 
