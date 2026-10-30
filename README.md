@@ -166,3 +166,14 @@ La preuve d'antériorité repose sur le dépôt Zenodo (DOI ci-dessus), l'histor
 ### 6. Demande de licence ou de devis
 
 Écrire à **dhikraimmortel@proton.me** en précisant : le nom du demandeur, l'usage prévu, la durée et la prestation souhaitée.
+## ⚠️ AVERTISSEMENT LÉGAL - PROPRIÉTÉ INTELLECTUELLE
+
+**TECHNOLOGIE FERMÉE ET PROTÉGÉE – TOUS DROITS RÉSERVÉS**
+
+Le présent dépôt, incluant l'ensemble des concepts, documentations, éléments textuels, visuels, et fonctionnalités décrits (notamment le système Respect-Check, l'architecture Mémoire DHIKRA, et les mécanismes d'animation synchronisée), constitue une création exclusive protégée par le droit d'auteur.
+
+1. **Interdiction de Copie et de Reproduction :** Toute reproduction, imitation, adaptation ou utilisation commerciale ou non commerciale de ces concepts, même partielle, est formellement interdite sans un accord écrit préalable et signé des auteurs.
+2. **Preuve d'Antériorité Numérique :** L'antériorité et la paternité de cette technologie et de ses spécifications sont officiellement certifiées et horodatées de manière infalsifiable via des registres numériques (Zenodo, GitHub, OpenTimestamps). Toute tentative de plagiat ou de dépôt ultérieur par un tiers pourra faire l'objet de poursuites judiciaires immédiates.
+3. **Usage Strictement Restreint :** Les informations publiques fournies ici servent uniquement de démonstration de prototype. Elles ne confèrent aucun droit de licence ni d'exploitation.
+
+Pour toute demande d'autorisation ou de partenariat, veuillez contacter les auteurs par la voie officielle.
