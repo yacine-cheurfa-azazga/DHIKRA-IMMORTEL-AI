@@ -1,11 +1,13 @@
 <img width="2096" height="1184" alt="4001" src="https://github.com/user-attachments/assets/2a6b0234-3c55-4388-88f5-a91028148df5" />
 <img width="1920" height="1280" alt="4023" src="https://github.com/user-attachments/assets/4b62b2a8-2961-4c8a-9d62-4078c5210d98" />
 
-[
+
 
 ![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23717622-blue)
 
-](https://doi.org/10.5281/zenodo.23717622)
+<img width="896" height="1200" alt="3891" src="https://github.com/user-attachments/assets/2db14a2d-6474-4639-854f-80572e9eb86f" />
+<img width="1920" height="1280" alt="3890" src="https://github.com/user-attachments/assets/5957231e-247b-4fa3-9cbb-483a51a5da6b" />
+(https://doi.org/10.5281/zenodo.23717622)
 
 
 ![Licence](https://img.shields.io/badge/Licence-CC_BY--NC--ND_4.0-black)
@@ -207,6 +209,6 @@ Ce projet est partagé à des fins de recherche sur les interfaces mémorielles 
 
 Développé dans le cadre de la recherche sur les interfaces mémorielles éthiques.
 
-© 2026 Yassa Yacine Cheurfa — Marbre Noir & Or — Allah Yarhamha — IMMORTEL
+© 2026 Yassa Yacine Cheurfa — Marbre Noir & Or — cadre en Or — IMMORTEL
 
 
