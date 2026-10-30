@@ -1,7 +1,24 @@
 <img width="2096" height="1184" alt="4001" src="https://github.com/user-attachments/assets/2a6b0234-3c55-4388-88f5-a91028148df5" />
 <img width="1920" height="1280" alt="4023" src="https://github.com/user-attachments/assets/4b62b2a8-2961-4c8a-9d62-4078c5210d98" />
 
+[
 
+![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23717622-blue)
+
+](https://doi.org/10.5281/zenodo.23717622)
+
+
+![Licence](https://img.shields.io/badge/Licence-CC_BY--NC--ND_4.0-black)
+
+
+
+
+![TR](https://img.shields.io/badge/TR-2026--QUAD--0018-yellow)
+
+
+
+
+![OTS Bitcoin](https://img.shields.io/badge/OTS_Bitcoin-8e5f9b6f_SUCCESS-brightgreen)
 # DHIKRA-IMMORTEL-AI
 
 ## 📈 Statistiques et Archivage Académique
