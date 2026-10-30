@@ -1,3 +1,4 @@
+<img width="1920" height="1280" alt="4023" src="https://github.com/user-attachments/assets/4b62b2a8-2961-4c8a-9d62-4078c5210d98" />
 
 
 ## 📈 Statistiques et Archivage Académique
