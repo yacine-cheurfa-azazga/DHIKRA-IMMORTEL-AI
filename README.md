@@ -105,35 +105,7 @@ Cheurfa, Y. Y. (2026). QUAD SYSTEM AI. Zenodo. https://doi.org/10.5281/zenodo.23
 © 2026 Yassa Yacine Cheurfa. All rights reserved on the Technology.
 Contact: dhikraemmortel@proton.me
 <img width="896" height="1200" alt="3892" src="https://github.com/user-attachments/assets/af955405-3216-4d95-a0eb-6e9368494ca5" />
-# FICHE TECHNIQUE DE PRESTATIONS
-## DHIKRA SOURCE — Système Pinal
 
-**Auteur et titulaire des droits :** Yassa Yacine Cheurfa — Azazga, Algérie
-**Version :** v2.0 (dépôt public) — application Système Pinal : prototype fonctionnel
-**DOI :** 10.5281/zenodo.23717622
-**Référence de dossier :** TR-2026-QUAD-0018
-**Contact :** dhikraemmortel@proton.me
-
----
-
-### 1. Présentation
-
-DHIKRA SOURCE est un protocole éthique de mémoire. Le Système Pinal en est l'application de démonstration : un portrait vivant dans un cadre or et noir, où chaque message passe par un **Respect-Check** avant d'être délivré et enregistré.
-
-- Feu **vert** : message respectueux avec invocation (douaa) → délivré et enregistré dans la mémoire DHIKRA.
-- Feu **rouge** : manque de respect détecté → message bloqué, pénalité de réécriture (3 fois « Allah Yarhamha - الله يرحمها »).
-
-
-### 5. Propriété intellectuelle
-
-© 2026 Yassa Yacine Cheurfa. Tous droits réservés.
-Toute copie, modification, distribution, œuvre dérivée ou usage commercial sans licence écrite est interdit. Les noms DHIKRA SOURCE, IMMORTEL et Système Pinal sont réservés.
-
-La preuve d'antériorité repose sur le dépôt Zenodo (DOI ci-dessus), l'historique des commits GitHub et des horodatages OpenTimestamps (Bitcoin).
-
-### 6. Demande de licence ou de devis
-
-Écrire à **dhikraimmortel@proton.me** en précisant : le nom du demandeur, l'usage prévu, la durée et la prestation souhaitée.
 ## ⚠️ AVERTISSEMENT LÉGAL - PROPRIÉTÉ INTELLECTUELLE
 
 **TECHNOLOGIE FERMÉE ET PROTÉGÉE – TOUS DROITS RÉSERVÉS**
