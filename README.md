@@ -78,7 +78,7 @@ Embedded AI architecture designed to operate without depending on the Internet, 
 
 - **Version:** 2.0, 28 October 2026
 - **Reference:** TR-2026-QUAD-0018
-- **Contact and licence requests:** dhikraimmortel@proton.me
+- **Contact and licence requests:** dhikraemmortel@proton.me
 
 This repository is a showcase only: it contains no source code and no technical details.
 
@@ -113,7 +113,7 @@ The software, its algorithms, model weights, configurations and associated docum
 - **Commercial use:** prohibited without the prior written agreement of Yassa Yacine Cheurfa.
 - **Use prohibited without authorization:** no licence to use, modify, reproduce, distribute or commercialize the Technology is granted, implicitly or otherwise.
 - **Written agreement required:** any use of the Technology (academic, private, research or commercial) requires the prior signed written agreement of the author.
-- **Official contact:** for any partnership, licence or authorization request, send a file describing your project to dhikraimmortel@proton.me.
+- **Official contact:** for any partnership, licence or authorization request, send a file describing your project to dhikraemmortel@proton.me.
 
 This licence applies only to the content of this showcase. It grants no rights over the Technology itself. Without the author's prior written agreement, it is forbidden to copy, reproduce, adapt, modify, manufacture, distribute, commercialize, extract elements from, or reverse-engineer the Technology, in whole or in part. Any unauthorized use or plagiarism may be prosecuted before the competent courts.
 
@@ -143,7 +143,7 @@ Documents are timestamped with RFC 3161 (FreeTSA) and anchored to the Bitcoin bl
 Cheurfa, Y. Y. (2026). QUAD SYSTEM AI. Zenodo. https://doi.org/10.5281/zenodo.23671062
 
 © 2026 Yassa Yacine Cheurfa. All rights reserved on the Technology.
-Contact: dhikraimmortel@proton.me
+Contact: dhikraemmortel@proton.me
 
 ---
 
@@ -159,7 +159,7 @@ Le présent dépôt, incluant l'ensemble des concepts, documentations, élément
 
 Pour toute demande d'autorisation ou de partenariat, veuillez contacter les auteurs par la voie officielle.
 
-**Contact :** dhikraimmortel@proton.me
+**Contact :** dhikraemmortel@proton.me
 
 ---
 
@@ -174,7 +174,7 @@ DHIKRA SOURCE est un système d'intelligence artificielle mémoriel conçu pour 
 > La mémoire qui ne meurt jamais. Elle demeure immortelle en ligne.
 
 **Auteur :** Yassa Yacine Cheurfa — Azazga, Algérie
-**Réf. :** TR-2026-QUAD-0018 | **DOI :** 10.5281/zenodo.23717622 | **Contact :** dhikraimmortel@proton.me
+**Réf. :** TR-2026-QUAD-0018 | **DOI :** 10.5281/zenodo.23717622 | **Contact :** dhikraemmortel@proton.me
 
 ---
 
