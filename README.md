@@ -116,7 +116,8 @@ Le présent dépôt, incluant l'ensemble des concepts, documentations, élément
 
 1. **Interdiction de Copie et de Reproduction :** Toute reproduction, imitation, adaptation ou utilisation commerciale ou non commerciale de ces concepts, même partielle, est formellement interdite sans un accord écrit préalable et signé des auteurs.
 2. **Preuve d'Antériorité Numérique :** L'antériorité et la paternité de cette technologie et de ses spécifications sont officiellement certifiées et horodatées de manière infalsifiable via des registres numériques (Zenodo, GitHub, OpenTimestamps). Toute tentative de plagiat ou de dépôt ultérieur par un tiers pourra faire l'objet de poursuites judiciaires immédiates.
-3. **Usage Strictement Restreint :** Les informations publiques fournies ici servent uniquement de démonstration de prototype. Elles ne confèrent aucun droit de licence ni d'exploitation.
+3. **Usage Strictement Restreint :** Les informations publiques fournies ici servent uniquement de démonstration de prototype. Elles ne confèrent aucun droit de licence ni d'exploitation.<img width="1920" height="1280" alt="3890" src="https://github.com/user-attachments/assets/85383b2d-f5df-4845-90dc-dd2f2d64ea3f" />
+
 
 Pour toute demande d'autorisation ou de partenariat, veuillez contacter les auteurs par la voie officielle.
 
