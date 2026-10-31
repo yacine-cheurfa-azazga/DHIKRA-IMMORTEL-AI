@@ -1,3 +1,22 @@
+# technique nouvelle AI quand système AI tr-2026-quad-0018
+
+1. Description technique pour la documentation académique
+
+Modélisation Fonctionnelle et Flux Décisionnel du QUAD SYSTEM AI v2.0 PENTA
+L’architecture du projet DHIKRA-IMMORTEL-AI s'articule autour d'un flux séquentiel et sécurisé, structuré en cinq niveaux fonctionnels interdépendants :
+1. Le Cœur PENTA (Cerveau hors ligne) : Noyau décisionnel autonome opérant en environnement cloisonné (offline). Il traite et segmente les flux d'informations à travers 5 modules éthiques fondamentaux : la Mémoire (gestion des souvenirs), la Santé (intégrité du corps), l'Alimentation (ressources physiques), le Savoir (capitalisation des connaissances) et l'Environnement (interactions avec l'écosystème et la faune).
+2. Le Vecteur Opérationnel (Drone TAFSUT AI) : Composante d'action physique ("Corps volant") qui reçoit et exécute les directives issues du cerveau hors ligne PENTA.
+3. Le Cadre Régulateur (Protocole MICAE) : Filtre de contrôle éthique et d'interopérabilité. Il encadre les actions du vecteur opérationnel en garantissant un équilibre systémique entre l'Homme, l'animal et l'environnement.
+4. La Notarisation des Données (DHIKRA scellé) : Étage de validation et d'intégrité assurant le scellage immuable de l'information. Ce module certifie l'état de "Mémoire validée = vraie", empêchant toute altération ultérieure.
+5. Le Régime de Protection : L'ensemble de cette architecture est une technologie propriétaire fermée, soumise au droit d'auteur (Tous droits réservés, accès sur accord écrit) avec une vitrine publique partagée sous licence restrictive CC BY-NC-ND 4.0.
+
+2. Paragraphe d'introduction mis à jour (Variante Sacem / Propriété Intellectuelle)
+
+Si vous répondez à la Sacem en vous appuyant visuellement sur ce schéma, voici le paragraphe à insérer dans votre modèle de mail :
+Je vous sollicite afin d'obtenir des informations concernant les modalités d'accès restreint à cette technologie fermée, et plus particulièrement sur l'articulation juridique de notre module DHIKRA scellé (notarisation d'une mémoire validée). Notre modèle opérant via un cerveau hors ligne (QUAD SYSTEM AI v2.0 PENTA) et un vecteur physique (Drone TAFSUT AI), nous souhaitons échanger avec vos services sur la protection des données mémorielles et la sécurisation des droits de propriété intellectuelle associés à cette architecture, actuellement partagée sous licence restrictive CC BY-NC-ND 4.0.
+
+
+
 <img width="2096" height="1184" alt="4001" src="https://github.com/user-attachments/assets/2a6b0234-3c55-4388-88f5-a91028148df5" />
 <img width="1920" height="1280" alt="4023" src="https://github.com/user-attachments/assets/4b62b2a8-2961-4c8a-9d62-4078c5210d98" />
 
