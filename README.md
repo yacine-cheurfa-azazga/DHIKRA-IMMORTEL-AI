@@ -12,7 +12,6 @@ L’architecture du projet DHIKRA-IMMORTEL-AI s'articule autour d'un flux séque
 
 2. Paragraphe d'introduction mis à jour (Variante Sacem / Propriété Intellectuelle)
 
-Si vous répondez à la Sacem en vous appuyant visuellement sur ce schéma, voici le paragraphe à insérer dans votre modèle de mail :
 Je vous sollicite afin d'obtenir des informations concernant les modalités d'accès restreint à cette technologie fermée, et plus particulièrement sur l'articulation juridique de notre module DHIKRA scellé (notarisation d'une mémoire validée). Notre modèle opérant via un cerveau hors ligne (QUAD SYSTEM AI v2.0 PENTA) et un vecteur physique (Drone TAFSUT AI), nous souhaitons échanger avec vos services sur la protection des données mémorielles et la sécurisation des droits de propriété intellectuelle associés à cette architecture, actuellement partagée sous licence restrictive CC BY-NC-ND 4.0.
 
 
