@@ -227,6 +227,35 @@ Ce projet est partagé à des fins de recherche sur les interfaces mémorielles 
 
 Développé dans le cadre de la recherche sur les interfaces mémorielles éthiques.
 
-© 2026 Yassa Yacine Cheurfa — Marbre Noir & Or — cadre en Or — AI classique pinal avec trois couleurs n'est son n'est voix n'est musique mode kiosque 
+© 2026 Yassa Yacine Cheurfa — Marbre Noir & Or — cadre en Or — AI classique pinal avec trois couleurs n'est son n'est voix n'est musique  
 
+# une application de confession est de respect de nos chers famille amis avec qui en n'as Des bonne souvenir 
 
+# l'originalité et d'antériorité — QUAD SYSTEM AI
+
+**Projet :** DHIKRA-IMMORTEL-AI / QUAD SYSTEM AI v2.0
+**Référence :** TR-2026-QUAD-0018
+**Auteur :** Yassa Yacine Cheurfa, inventeur indépendant, Azazga, Algérie
+**Date :** 31 octobre 2026
+
+Je soussigné Yassa Yacine Cheurfa, déclare sur l'honneur être l'auteur de l'architecture QUAD SYSTEM AI, développée de manière autonome à Azazga.
+
+### 1. Description générale
+QUAD SYSTEM AI est une architecture à « cerveau hors ligne » composée de modules à finalité humaine (mémoire, santé, alimentation, savoir, environnement et animaux). Elle est associée au drone TAFSUT AI et au protocole MICAE : une mémoire n'est considérée comme valide que si l'homme, l'animal et l'environnement la valident, puis DHIKRA la scelle.
+
+### 2. Déclaration d'originalité
+À ma connaissance, cette combinaison de modules et de protocoles est une création propre. Il s'agit d'une déclaration de l'auteur, non d'une certification par un organisme tiers.
+
+### 3. Antériorité et traçabilité
+- Archivage Zenodo (CERN) : DOI 10.5281/zenodo.23717622 (v2.0, 28/10/2026)
+- Horodatage Bitcoin (OpenTimestamps) : empreinte 8e5f9b6f…
+- Dépôt GitHub public avec historique de commits daté
+- Institutions contactées par e-mail le 31/10/2026 (UNESCO, Université Grenoble Alpes, CEA, TU Delft, Fraunhofer IAIS) : contact pour information, sans validation ni partenariat à ce jour
+
+### 4. Droits
+© 2026 Yassa Yacine Cheurfa. Vitrine sous licence CC BY-NC-ND 4.0. Technologie propriétaire fermée, tous droits réservés, accès sur accord écrit.
+
+Fait à Azazga, le 31 octobre 2026.
+
+**Yassa Yacine Cheurfa**, auteur et titulaire des droits
+Contact : dhikraemmortel@proton.me
