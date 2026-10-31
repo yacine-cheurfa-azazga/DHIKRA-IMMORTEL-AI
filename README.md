@@ -1,3 +1,4 @@
+<img width="1920" height="1280" alt="4073" src="https://github.com/user-attachments/assets/47e20238-be76-4336-8af6-0c28cc0d6299" />
 
 # DHIKRA-IMMORTEL-AI · QUAD SYSTEM AI v2.1
 
