@@ -226,6 +226,6 @@ Ce projet est partagé à des fins de recherche sur les interfaces mémorielles 
 
 Développé dans le cadre de la recherche sur les interfaces mémorielles éthiques.
 
-© 2026 Yassa Yacine Cheurfa — Marbre Noir & Or — cadre en Or — IMMORTEL
+© 2026 Yassa Yacine Cheurfa — Marbre Noir & Or — cadre en Or — AI classique pinal avec trois couleurs n'est son n'est voix n'est musique mode kiosque 
 
 
