@@ -1,3 +1,5 @@
+<img width="1920" height="1280" alt="4069" src="https://github.com/user-attachments/assets/e43b4ab3-15af-4fa7-bfe0-30bce0c9d2a6" />
+
 <img width="1200" height="1620" alt="4064" src="https://github.com/user-attachments/assets/b3f9a01d-db8d-4357-874d-34240649616c" />
 # Ce schéma technique représente l'architecture du système QUAD SYSTEM AI v2.0 PENTA, un système intelligent doté d'un « cerveau hors ligne » et structuré en plusieurs niveaux et modules interconnectés.  
 1. QUAD SYSTEM AI v2.0 PENTA (Cerveau hors ligne, 5 modules)
