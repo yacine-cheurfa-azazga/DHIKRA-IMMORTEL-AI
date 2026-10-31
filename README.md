@@ -1,4 +1,31 @@
-![Uploading 3890.jpg…]()
+## ⚖️ AVIS DE PROPRIÉTÉ INTELLECTUELLE & RESTRICTIONS INTERNATIONALES
+
+**Propriétaire légal et auteur :** Yassa Yacine Cheurfa (Azazga, Algérie)  
+**Référence d'enregistrement :** TR-2026-QUAD-0018  
+**Archive académique / DOI :** 10.5281/zenodo.23847692  
+
+Tous les droits relatifs à l'architecture **QUAD SYSTEM AI**, aux concepts, aux schémas fonctionnels, aux dénominations et aux méthodologies présentés dans cette vitrine sont la propriété exclusive de **Yassa Yacine Cheurfa**. 
+
+* **Protection internationale :** Ce travail est protégé par les lois internationales sur le droit d'auteur et la propriété intellectuelle (notamment via la Convention de Berne et les enregistrements académiques horodatés).
+* **Interdiction de contrefaçon et de vol d'idées :** Toute reproduction, copie, imitation, extraction conceptuelle ou tentative de rétro-conception (*reverse engineering*) est strictement interdite.
+* **Fermeture technologique :** Aucune technologie, code source, spécification ou détail technique n'est public. Ce dépôt constitue uniquement une vitrine conceptuelle.
+* **Usage commercial et diffusion :** Toute exploitation commerciale, adaptation ou diffusion technologique est formellement interdite sans un **accord écrit, explicite et signé** de la main du propriétaire légal.
+
+---
+
+## 🌐 LEGAL NOTICE & INTERNATIONAL INTELLECTUAL PROPERTY RIGHTS
+
+**Legal Owner & Author:** Yassa Yacine Cheurfa (Azazga, Algeria)  
+**Registration Reference:** TR-2026-QUAD-0018  
+**Academic Archive / DOI:** 10.5281/zenodo.23847692  
+
+All rights regarding the **QUAD SYSTEM AI** architecture, concepts, functional diagrams, naming, and methodologies presented in this showcase are the exclusive property of **Yassa Yacine Cheurfa**.
+
+* **International Protection:** This work is protected worldwide under international copyright laws and treaties (including the Berne Convention and timestamped academic records).
+* **Anti-Counterfeiting & Idea Theft Prevention:** Any reproduction, copying, imitation, conceptual extraction, or attempt at reverse engineering is strictly forbidden.
+* **Closed Technology:** No source code, technical specifications, or implementation details are public. This repository serves solely as a conceptual showcase.
+* **Commercial Use & Distribution:** Any commercial exploitation, adaptation, or technological transfer is strictly prohibited without prior **written, explicit, and signed agreement** from the legal owner.
+* 
 <img width="1920" height="1280" alt="4023" src="https://github.com/user-attachments/assets/789a6da4-0860-4411-aa3b-5ea90be3f2db" />
 <img width="1920" height="1280" alt="4073" src="https://github.com/user-attachments/assets/47e20238-be76-4336-8af6-0c28cc0d6299" />
 
