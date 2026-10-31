@@ -1,3 +1,4 @@
+<img width="1200" height="1620" alt="4064" src="https://github.com/user-attachments/assets/e62b4452-c811-466d-b47e-81bc8d34a342" />
 # technique nouvelle AI quand système AI tr-2026-quad-0018
 
 1. Description technique pour la documentation académique
