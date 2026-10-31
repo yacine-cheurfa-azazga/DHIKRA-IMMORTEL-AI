@@ -231,33 +231,32 @@ Développé dans le cadre de la recherche sur les interfaces mémorielles éthiq
 
 © 2026 Yassa Yacine Cheurfa — Marbre Noir & Or — cadre en Or — AI classique pinal avec trois couleurs n'est son n'est voix n'est musique  
 
-# une application de confession est de respect de nos chers famille amis avec qui en n'as Des bonne souvenir 
+# une application de confessions intimes est de respect de nos chers famille amis avec qui en n'as Des bonne souvenir 
 
-# l'originalité et d'antériorité — QUAD SYSTEM AI
-
-**Projet :** DHIKRA-IMMORTEL-AI / QUAD SYSTEM AI v2.0
-**Référence :** TR-2026-QUAD-0018
-**Auteur :** Yassa Yacine Cheurfa, inventeur indépendant, Azazga, Algérie
-**Date :** 31 octobre 2026
-
-Je soussigné Yassa Yacine Cheurfa, déclare sur l'honneur être l'auteur de l'architecture QUAD SYSTEM AI, développée de manière autonome à Azazga.
-
-### 1. Description générale
-QUAD SYSTEM AI est une architecture à « cerveau hors ligne » composée de modules à finalité humaine (mémoire, santé, alimentation, savoir, environnement et animaux). Elle est associée au drone TAFSUT AI et au protocole MICAE : une mémoire n'est considérée comme valide que si l'homme, l'animal et l'environnement la valident, puis DHIKRA la scelle.
-
-### 2. Déclaration d'originalité
-À ma connaissance, cette combinaison de modules et de protocoles est une création propre. Il s'agit d'une déclaration de l'auteur, non d'une certification par un organisme tiers.
-
-### 3. Antériorité et traçabilité
-- Archivage Zenodo (CERN) : DOI 10.5281/zenodo.23717622 (v2.0, 28/10/2026)
-- Horodatage Bitcoin (OpenTimestamps) : empreinte 8e5f9b6f…
-- Dépôt GitHub public avec historique de commits daté
-- Institutions contactées par e-mail le 31/10/2026 (UNESCO, Université Grenoble Alpes, CEA, TU Delft, Fraunhofer IAIS) : contact pour information, sans validation ni partenariat à ce jour
-
-### 4. Droits
+Attestation d'originalité et d'antériorité — QUAD SYSTEM AI
+Projet : DHIKRA-IMMORTEL-AI / QUAD SYSTEM AI v2.0
+Référence : TR-2026-QUAD-0018
+Auteur : Yassa Yacine Cheurfa, inventeur indépendant, Azazga, Algérie
+Date : 31 octobre 2026
+Je soussigné Yassa Yacine Cheurfa, déclare sur l'honneur être l'auteur de l'architecture QUAD SYSTEM AI, conçue de manière indépendante et développée à Azazga.
+1. Description générale
+QUAD SYSTEM AI est une architecture à « cerveau hors ligne » composée de cinq modules à finalité humaine (mémoire, santé, alimentation, savoir, environnement et animaux). Elle est associée au drone TAFSUT AI et au protocole MICAE : une mémoire n'est considérée comme valide que si l'homme, l'animal et l'environnement la valident, puis DHIKRA la scelle.
+2. Déclaration d'antériorité
+À ma connaissance, je suis le premier à avoir publié et daté cette architecture : premier dépôt archivé le 26 octobre 2026 (DOI Zenodo ci-dessous).
+Il s'agit d'une déclaration de l'auteur, fondée sur les preuves de la section 3. Elle n'est pas une certification par un organisme tiers et ne prétend pas qu'aucun travail comparable n'existe ailleurs.
+3. Preuves et traçabilité
+Archivage Zenodo (CERN) : DOI 10.5281/zenodo.23717622 (v2.0, 28/10/2026) ; DOI de toutes les versions : 10.5281/zenodo.23671062 ; premier dépôt v1.0 : 10.5281/zenodo.23671063 (26/10/2026)
+Horodatage Bitcoin (OpenTimestamps) : empreinte 8e5f9b6f… (archive du dépôt) et empreinte 8a05932c0cf9… (schéma d'architecture, 31/10/2026)
+Dépôt GitHub public avec historique de commits daté
+Institutions contactées par e-mail le 31/10/2026 (UNESCO, Université Grenoble Alpes, CEA, TU Delft, Fraunhofer IAIS) : contact pour information, sans validation ni partenariat à ce jour
+4. Recherche d'état de l'art (à compléter par l'auteur)
+Recherche effectuée par l'auteur le : //2026
+Sources consultées : Google Scholar, arXiv, Google Patents
+Mots-clés utilisés : ________________
+Résultat : ________________
+5. Droits
 © 2026 Yassa Yacine Cheurfa. Vitrine sous licence CC BY-NC-ND 4.0. Technologie propriétaire fermée, tous droits réservés, accès sur accord écrit.
-
 Fait à Azazga, le 31 octobre 2026.
-
-**Yassa Yacine Cheurfa**, auteur et titulaire des droits
+Yassa Yacine Cheurfa, auteur et titulaire des droits
 Contact : dhikraemmortel@proton.me
+ 
