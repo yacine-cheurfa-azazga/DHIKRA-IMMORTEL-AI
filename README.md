@@ -1,3 +1,4 @@
+<img width="1920" height="1280" alt="3865" src="https://github.com/user-attachments/assets/9decf85e-0139-441c-ae2d-f1b9c26bf54e" />
 ## ⚖️ AVIS DE PROPRIÉTÉ INTELLECTUELLE & RESTRICTIONS INTERNATIONALES
 
 **Propriétaire légal et auteur :** Yassa Yacine Cheurfa (Azazga, Algérie)  
