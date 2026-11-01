@@ -1,3 +1,46 @@
+# QUAD SYSTEM AI: Public Showcase
+
+© 2026 Yassa Yacine Cheurfa. All rights reserved on the Technology.
+Reference: TR-2026-QUAD-0018
+Azazga, Algeria
+
+## LEGAL NOTICE
+
+This repository is a showcase only. It contains no source code and no technical details. The QUAD SYSTEM AI technology is proprietary and closed.
+
+## Protected technology
+
+Modules: DHIKRA SOURCE, SAHA SCAN AI, ILM LIBERATION TABLET, TAFSUT, THUDERT 1.
+
+Reserved names: QUAD SYSTEM AI, DHIKRA SOURCE, IMMORTEL, SAHA SCAN AI, ILM LIBERATION TABLET, TAFSUT, THUDERT 1.
+
+## Showcase license
+
+The content of this page (text and images) is licensed under CC BY-NC-ND 4.0: sharing is allowed with attribution, without commercial use and without modification.
+
+This license does NOT apply to the technology, which remains closed.
+
+## Prohibited without written permission
+
+Without the author's prior written agreement, you may not:
+- copy, reproduce, imitate or counterfeit the technology, its concepts, its architecture or its names;
+- exploit, sell, sublicense or integrate the technology into any product or service, commercial or not;
+- use the reserved names for any product, brand or company;
+- attempt to extract, reconstruct or reproduce any unpublished content.
+
+## Legal action
+
+Any unauthorized copying, counterfeiting or commercial exploitation will be subject to legal action, civil and criminal, without prior notice. The author relies on dated proofs of prior art: Bitcoin timestamps (OpenTimestamps), RFC 3161 timestamps, GitHub repositories and Zenodo archives (DOI 10.5281/zenodo.23671062).
+
+## Commercial license
+
+Commercial use is only possible after written agreement from the author.
+Contact: dhikraemmortel@proton.me
+
+© 2026 Yassa Yacine Cheurfa. All rights reserved.
+
+
+
 <img width="1920" height="1280" alt="4023" src="https://github.com/user-attachments/assets/7cb8128f-3df9-496e-94c9-84da20a7997c" />
 <img width="1920" height="1280" alt="4073" src="https://github.com/user-attachments/assets/8aed9518-e1a6-4a52-96d1-014d4a55bcb1" />
 <img width="1920" height="1280" alt="3865" src="https://github.com/user-attachments/assets/9decf85e-0139-441c-ae2d-f1b9c26bf54e" />
