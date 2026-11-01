@@ -97,3 +97,5 @@ Architecture d'IA embarquée fonctionnant **sans dépendre d'Internet** (« cerv
 Pour citer ce travail de recherche et logiciel :
 
 > Yassa Yacine Cheurfa. (2026). *yacine-cheurfa-azazga/DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI v2.1* (Version V2.1) [Logiciel informatique]. Zenodo. [https://doi.org/10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692)[span_21](start_span)[span_21](end_span)
+>
+> Contact dhikraemmortel@proton.me
