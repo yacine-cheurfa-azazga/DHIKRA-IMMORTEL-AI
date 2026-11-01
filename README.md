@@ -66,15 +66,5 @@ L'architecture est optimisée pour une exécution en continu sur matériel embar
 1. **Régime Nominal Fixe :** Les 5 modules (*Dhikra Source/Scellé, Ilm, Saha Scan, Tudert Yiwen*) effectuent des cycles de calcul locaux sans interruption.
 2. **Double Sécurité CCSS :** Analyse en temps réel des flux de données pour empêcher toute corruption mémoire ou dérive cognitive au fil des heures.
 
-## 🧡 Horodatage et Traçabilité par la Blockchain Bitcoin
 
-Afin de garantir l'antériorité de l'architecture face aux tiers et de protéger les droits de l'auteur de manière infalsifiable :
-* **Preuve d'existence :** L'empreinte cryptographique (Hash SHA-256) des documents de spécification de l'architecture QUAD SYSTEM AI est ancrée dans la blockchain Bitcoin.
-* **Financement de l'infrastructure 24/7 :** Les contributions destinées au maintien de la vitrine technologique et aux serveurs de calcul hors ligne peuvent être adressées à l'adresse Bitcoin officielle de l'auteur.
 
-## 🛑 Procédure d'Isolement d'Urgence (24/7)
-
-En cas d'anomalie détectée par le module **TUDERT YIWEN** ou d'agression sur le réseau **ILM** :
-* Le système applique instantanément le protocole de fermeture.
-* Sauvegarde automatique de l'état de la mémoire vraie dans le compartiment sécurisé **DHIKRA SCELLE**.
-* 
