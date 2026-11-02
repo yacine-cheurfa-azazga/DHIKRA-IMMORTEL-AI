@@ -1,3 +1,19 @@
+###IA pinal tr-2026-quad-0018
+
+🚦 Notice to Researchers & Academic Institutions
+🟢 GREEN: Freely allowed
+Read and consult the project
+Cite the project with attribution: Yassa Yacine Cheurfa
+🟠 ORANGE: Prior written permission required
+Use of the project in a paper, thesis or research work
+Collaboration, licensing or partnership
+Any academic use beyond simple reading
+🔴 RED: Prohibited
+Copying, adapting or publishing all or part of the project without permission
+Using the architecture or names (DHIKRA, IMMORTEL, SAHA, ILM) without agreement
+Commercial use without a license
+© 2026 Yassa Yacine Cheurfa. All rights reserved. Priority of authorship is established by dated and timestamped records.
+
 # QUAD SYSTEM AI: Public Showcase
 
 © 2026 Yassa Yacine Cheurfa. All rights reserved on the Technology.
