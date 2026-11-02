@@ -12,10 +12,10 @@ Le cœur éthique de QUAD SYSTEM AI. Mémoire scellée IMMORTEL.
 **Photo vivante : yeux et bouche uniquement. Pas de son, pas de voix, pas de musique.**
 - Yeux : clignement naturel uniquement
 - Bouche : /A/ /M/ minimal 24fps  
-- Cadre : Or | Fond d'écran : Marbre Noir + Or
+- Cadre : d'Or | Fond d'écran : Marbre Noir + Or
 - Expression d'origine préservée
 
-### ⌨️ Clavier Contrôlé par le Feu Tricolore Pénal
+### ⌨️ Clavier QWERTY Contrôlé par le Feu Tricolore Pénal
 > Ce n'est pas l'humain qui contrôle le clavier. C'est le Respect-Check qui contrôle ce qui peut être tapé.
 
 - 🟢 VERT : le clavier autorise
