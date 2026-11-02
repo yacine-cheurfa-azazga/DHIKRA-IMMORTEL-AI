@@ -1,5 +1,6 @@
+# QUAD SYSTEM AI = IA embarquée, hors ligne, éthique, Made in Azazga - TR-2026-QUAD-0018
 # IA pénale tr-2026-quad-0018
-quad système  pand IA embarquée 
+quad système  penta IA embarquée 
 # 🚦 Notice to Researchers & Academic Institutions
 🟢 GREEN: Freely allowed
 Read and consult the project
