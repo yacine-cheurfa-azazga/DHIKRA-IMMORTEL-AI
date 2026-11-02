@@ -74,6 +74,8 @@ Une mémoire n'est reconnue vraie que si elle est validée puis scellée. Une fo
 
 * 📄 **Livre Blanc / White Paper :** `./docs/QUAD-SYSTEM-AI-v2.1-WhitePaper.pdf`
 * 🔗 **Citation officielle :** [https://doi.org/10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692)
+Contact dhikraemmortel@proton.me<img width="1920" height="1280" alt="3890" src="https://github.com/user-attachments/assets/54ec766e-3ed2-428b-97c5-40b0e4763179" />
+<img width="1920" height="1280" alt="4023" src="https://github.com/user-attachments/assets/1bd4af24-2891-4a63-bbb4-f54a1040d284" />
 
 
 
