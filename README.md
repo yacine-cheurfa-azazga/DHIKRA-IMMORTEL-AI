@@ -1,4 +1,4 @@
-###IA pinal tr-2026-quad-0018
+#IA pinal tr-2026-quad-0018
 
 🚦 Notice to Researchers & Academic Institutions
 🟢 GREEN: Freely allowed
