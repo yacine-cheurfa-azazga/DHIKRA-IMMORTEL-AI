@@ -1,5 +1,3 @@
-
-
 # DHIKRA-IMMORTEL-AI | QUAD SYSTEM AI v2.1 PENTA
 
 **Auteur :** Yassa Yacine Cheurfa  
@@ -38,7 +36,7 @@ L'humain conserve le contrôle décisionnel final à chaque étape du processus 
 | :--- | :--- |
 | **DHIKRA SOURCE** | Protocole éthique et cadre philosophique centralisé de l'écosystème (*Respect-Check*, persistance et intégrité de la mémoire numérique). |
 | **IMMORTEL AI** | Dispositif mémoriel matérialisé par une interface d'hommage visuel et sémantique (photographie parlante et animée d'un proche, intégrée dans un cadre Or et Noir). |
-| **SAHA SCAN AI** | Application mobile d'analyse de traçabilité et d'étiquettes nutritionnelles appliquant les filtres *Respect-Check* : *« Pas de punition. Juste la vérité pour choisir. »* |
+| **SAHA SCAN AI** | Application mobile d'analyse de traçabilité et d'étiquettes nutritionnelles compatible avec les filtres *Respect-Check* : *« Pas de punition. Juste la vérité pour choisir. »* |
 | **ILM LIBERATION TABLET** | Terminal matériel éducatif hermétique (mono-application, connectivité Wi-Fi institutionnelle sécurisée et modèles d'IA locaux déconnectés) destiné aux structures scolaires. |
 
 *Note de sécurité : Les documents d'architecture technique interne et les codes sources sont privés et exclus de ce dépôt public. Cette interface fait uniquement office de vitrine conceptuelle.*
@@ -46,7 +44,7 @@ L'humain conserve le contrôle décisionnel final à chaque étape du processus 
 ### 📄 Documentation & Recherche
 Pour explorer les fondements théoriques, les modèles logiques et l'architecture conceptuelle de la suite logicielle, veuillez consulter le Livre Blanc officiel :
 
-👉 [Télécharger le White Paper (PDF)](White_Paper_QUAD_SYSTEM_AI_v2.1.pdf)
+👉 [Télécharger le Livre Blanc (PDF)](White_Paper_QUAD_SYSTEM_AI_v2.1.pdf)
 
 ---
 
@@ -115,6 +113,7 @@ Cheurfa, Y. Y. (2026). *DHIKRA-IMMORTEL-AI: QUAD SYSTEM AI v2.1 PENTA*. Zenodo. 
   url       = {https://doi.org}
 }
 ```
+
 
 
 
