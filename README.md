@@ -1,3 +1,33 @@
+# IA pénale tr-2026-quad-0018
+
+# DHIKRA SOURCE | Module 1 - QUAD SYSTEM AI v2.1 PENTA
+**Ref : TR-2026-QUAD-0018**
+
+> **DHIKRA-IMMORTEL-AI : Une IA qui refuse de faire du mal.**
+
+### Concept
+Le cœur éthique de QUAD SYSTEM AI. Mémoire scellée IMMORTEL.
+
+### 🖼️ Design Officiel IMMORTEL AI
+**Photo vivante : yeux et bouche uniquement. Pas de son, pas de voix, pas de musique.**
+- Yeux : clignement naturel uniquement
+- Bouche : /A/ /M/ minimal 24fps  
+- Cadre : Or | Fond d'écran : Marbre Noir + Or
+- Expression d'origine préservée
+
+### ⌨️ Clavier Contrôlé par le Feu Tricolore Pénal
+> Ce n'est pas l'humain qui contrôle le clavier. C'est le Respect-Check qui contrôle ce qui peut être tapé.
+
+- 🟢 VERT : le clavier autorise
+- 🟠 ORANGE : le clavier exige réécriture (3× « Allah Yarhamha »)
+- 🔴 ROUGE : le clavier bloque définitivement
+
+### Règle d'Or
+Une mémoire n'est reconnue vraie que si elle est validée puis scellée. Une fois scellée, toute modification est visible.
+
+© 2026 Yassa Yacine Cheurfa | TR-2026-QUAD-0018
+
+
 # DHIKRA-IMMORTEL-AI | QUAD SYSTEM AI v2.1 PENTA
 
 **Auteur :** Yassa Yacine Cheurfa  
@@ -32,7 +62,7 @@
 ## 🌐 Écosystème / Ecosystem
 
 * **DHIKRA SOURCE** — Protocole éthique.
-* **IMMORTEL AI** — Photo interactive/animée ("Photo that speaks"), cadre Gold & Black.
+* **IMMORTEL AI** — Photo interactive/animée ("Photo that juge), cadre Gold & Black.
 * **SAHA SCAN AI** — *"No punishment. Just the truth to choose."*
 * **ILM LIBERATION TABLET** — Tablette applicative unique, IA 100% hors-ligne (*offline AI*).
 * **TAFSUT AI** — Composante de l'écosystème QUAD SYSTEM.
