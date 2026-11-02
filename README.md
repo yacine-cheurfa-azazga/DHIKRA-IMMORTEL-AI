@@ -114,6 +114,7 @@ Cheurfa, Y. Y. (2026). DHIKRA-IMMORTEL-AI: QUAD SYSTEM AI v2.1 PENTA. Zenodo. ht
 ---
 © 2026 Yassa Yacine Cheurfa, Azazga, Algeria. Tous droits réservés sur la Technologie. / All rights reserved on the Technology. Ref. TR-2026-QUAD-0018
 
+👉 [Télécharger le White Paper (PDF)](White_Paper_QUAD_SYSTEM_AI_v2.1.pdf)
 
 
 
