@@ -1,3 +1,10 @@
+# DHIKRA-IMMORTEL-AI | QUAD SYSTEM AI v2.1 PENTA - IA Embarquée Éthique
+**Auteur : Yassa Yacine Cheurfa | Azazga, Algérie | TR-2026-QUAD-0018**
+**Archive Zenodo (hébergée par le CERN) : DOI 10.5281/zenodo.23847692 (cette version) | 10.5281/zenodo.23671062 (toutes versions)**
+
+> QUAD SYSTEM AI est une architecture conceptuelle d'intelligence artificielle locale, éthique et souveraine, développée à Azazga. IA embarquée hors ligne, mémoire scellée IMMORTEL, protocole MICAE.
+> Contact licence : dhikraemmortel@proton.me
+
 # DHIKRA-IMMORTEL-AI
 ### QUAD SYSTEM AI v2.1 PENTA
 
