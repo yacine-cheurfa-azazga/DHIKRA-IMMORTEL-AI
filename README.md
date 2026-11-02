@@ -1,6 +1,6 @@
-#IA pinal tr-2026-quad-0018
+# IA pinal tr-2026-quad-0018
 
-🚦 Notice to Researchers & Academic Institutions
+# 🚦 Notice to Researchers & Academic Institutions
 🟢 GREEN: Freely allowed
 Read and consult the project
 Cite the project with attribution: Yassa Yacine Cheurfa
