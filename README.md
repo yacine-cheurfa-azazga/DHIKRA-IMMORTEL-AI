@@ -298,4 +298,91 @@ Aucun droit d'utilisation de la Technologie n'est accordé, de manière implicit
 
 © 2026 Yassa Yacine Cheurfa · Tous droits réservés sur la Technologie · Vitrine sous licence CC BY-NC-ND 4.0 · TR-2026-QUAD-0018 · Contact : dhikraemmortel@proton.me
 
+# DHIKRA-IMMORTEL-AI
+## QUAD SYSTEM AI v2.1 PENTA | Réf : TR-2026-QUAD-0018
+*Conçu à Azazga, Algérie*
 
+> "Une IA n'est pas forte parce qu'elle sait tout. Elle est forte parce qu'elle refuse de faire du mal, même quand on le lui demande."
+
+---
+
+## 👁️ Vision & Philosophie
+DHIKRA-IMMORTEL-AI est un écosystème d'Intelligence Artificielle strictement **local, décentralisé (hors ligne) et souverain**. Contrairement aux modèles cloud, cette architecture est conçue pour assister l'humain sans jamais décider à sa place, tout en garantissant une étanchéité totale de ses données.
+
+---
+
+## 🏗️ Architecture PENTA (5 Modules)
+L'intelligence est répartie en 5 piliers fondamentaux connectés au vivant :
+1. **Mémoire** : Gestion, indexation et intégrité des souvenirs.
+2. **Santé** : Monitoring et suivi non invasif du corps.
+3. **Alimentation** : Analyse et gestion des ressources nutritives.
+4. **Savoir** : Centralisation et transmission des connaissances.
+5. **Environnement** : Intégration symbiotique avec la nature et la faune.
+
+### 🛡️ Couches de Sécurité & Protocoles
+*   **CCSS (Canalisation Cognitive Symbio-sécurisée)** : Archétype de routage unique et traçable de l'information. Tout flux subit une double vérification systématique (technique et humaine).
+*   **Protocole MICAE (Éthique du Vivant)** : Une mémoire n'est considérée comme "vraie" que si elle est validée par la triade : *Homme + Animal + Environnement*.
+*   **Scellé IMMORTEL** : Une fois validée par le MICAE, la mémoire est définitivement scellée. Toute tentative de modification ultérieure est immédiatement visible et traçable.
+*   **TAFSUT AI** : Système de sécurité d'observation et de protection par vecteur volant.
+
+---
+
+## 🚀 L'Écosystème (5 Projets)
+
+### 1. DHIKRA SOURCE (Le Cœur)
+Application de préservation mémorielle respectueuse et intègre.
+*   **Modération Tri-chrome** : 🟢 PASSED / 🟠 WARNING / 🔴 BLOCKED.
+*   **Rendu Visuel Sobre** : Animation faciale minimaliste à 24 fps (clignotement d'yeux, stricte restriction à 2 phonèmes /A/ et /M/).
+*   **Pureté Mémorielle** : Strictement *sans voix et sans musique* pour éviter toute altération émotionnelle ou déformation du souvenir réel.
+
+### 2. SAHA SCAN AI
+Outil d'analyse par scan pour informer instantanément l'utilisateur sur la composition réelle et l'impact de ses aliments.
+
+### 3. ILM LIBERATION TABLET
+Tablette matérielle dédiée à l'accès universel au savoir. Dépouillée de toute application tierce, elle fonctionne exclusivement sur le réseau Wi-Fi local de l'établissement d'accueil.
+
+### 4. TAFSUT
+Concept de drone autonome dédié à la détection précoce des incendies de forêt et au soutien technologique de l'agriculture locale.
+
+### 5. THUDERT / TUDERT YIWEN
+Solution technologique d'accompagnement pour les éleveurs, permettant le suivi prédictif et l'analyse de la santé des animaux.
+
+---
+
+## ⚖️ Cadre Juridique, Antériorité & Licence
+
+⚠️ **AVERTISSEMENT : Ce dépôt GitHub est une VITRINE EXCLUSIVE. Aucun code source n'est ou ne sera publié. La technologie sous-jacente reste strictement fermée et propriétaire.**
+
+L'antériorité intellectuelle et technique du projet a été légalement sécurisée et ancrée via :
+*   **CERN / Zenodo DOI v2.1** : `10.5281/zenodo.23847692`
+*   **CERN / Zenodo DOI (Toutes versions)** : `10.5281/zenodo.23671062`
+*   **Ancrage Temporel** : Horodatage décentralisé via *OpenTimestamps Bitcoin* et *RFC 3161 FreeTSA*.
+*   **Traçabilité** : Historique immuable des commits GitHub.
+
+### Licence de la Vitrine : CC BY-NC-ND 4.0
+L'architecture conceptuelle partagée ici est sous licence **Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International**. 
+
+*   **Lecture et partage** : Autorisé en citant explicitement le projet.
+*   **Usage académique avancé ou commercial** : Strictement interdit sans accord écrit préalable.
+
+📧 **Contact & Demandes d'autorisation** : dhikraemmortel@proton.me
+
+---
+*"La mémoire qui ne meurt jamais. Elle demeure immortelle en ligne."*
+## 🔒 Protocoles d'Ancrage Temporel & Preuve d'Antériorité
+
+Pour garantir l'intégrité absolue de la vision **QUAD SYSTEM AI v2.1 PENTA**, l'antériorité intellectuelle du concept a été gravée de manière immuable à travers trois couches cryptographiques distinctes :
+
+1. **Ancrage Décentralisé (OpenTimestamps Bitcoin)** :
+   * Le hachage SHA-256 des fichiers de spécification est injecté directement dans la blockchain Bitcoin via des transactions immuables. 
+   * Preuve mathématique de l'existence des concepts à une date précise, indépendante de toute autorité centrale.
+
+2. **Horodatage Certifié (RFC 3161 FreeTSA)** :
+   * Signature numérique via une autorité de certification de confiance (TSA) respectant les standards stricts de la RFC 3161.
+   * Fournit une heure universelle coordonnée (UTC) légalement contraignante et auditable.
+
+3. **Préservation Académique & Logicielle (CERN / Zenodo)** :
+   * **DOI v2.1** : `10.5281/zenodo.23847692`
+   * **DOI Concept Global** : `10.5281/zenodo.23671062`
+   * Archivage pérenne au sein de l'infrastructure du CERN, liant l'architecture à l'écosystème de la recherche ouverte mondiale.
+   
