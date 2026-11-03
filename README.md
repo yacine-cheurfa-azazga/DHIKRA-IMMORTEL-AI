@@ -198,3 +198,95 @@ Azazga, Algérie · Réf. TR-2026-QUAD-0018
 <img width="1920" height="1280" alt="3890" src="https://github.com/user-attachments/assets/f30d53be-8fce-43a7-a32e-71f3fabf8a47" />
 <img width="1920" height="1280" alt="4073" src="https://github.com/user-attachments/assets/eba896b6-1fc1-4453-9444-7ac9df0d5676" />
 <img width="720" height="1640" alt="4252" src="https://github.com/user-attachments/assets/b573c152-f877-4dd8-ba6a-8e426277d755" />
+
+# QUAD SYSTEM AI v2.1 PENTA — Synthèse publique
+
+**Réf. TR-2026-QUAD-0018** · Auteur : **Yassa Yacine Cheurfa**, Azazga, Algérie
+**DOI :** [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692) · **Contact licences :** dhikraemmortel@proton.me
+
+> *Memoria quae numquam moritur.*
+> Pas de punition. Juste la vérité à choisir.
+
+---
+
+## 💡 L'idée en bref
+
+**QUAD SYSTEM AI** est une intelligence artificielle conçue pour fonctionner **hors ligne** et pour **refuser de faire du mal par construction**, et non par une règle ajoutée après coup.
+
+Son principe : l'IA ne décide pas seule. Un filtre éthique, le **Respect-Check**, contrôle ce qui peut passer, selon trois niveaux :
+
+| Feu | Signification |
+|---|---|
+| 🟢 **VERT** | Autorisé |
+| 🟠 **ORANGE** | Ambigu : réévaluation exigée |
+| 🔴 **ROUGE** | Bloqué |
+
+Une mémoire n'est reconnue vraie que lorsqu'elle est **validée puis scellée**. Une fois scellée, toute modification est visible.
+
+## 🧩 Les modules
+
+- **5 modules PENTA :** Mémoire · Santé · Savoir · Environnement · Alimentation
+- **3 modules exécutifs :** Drone TAFSUT AI · Protocole MICAE · DHIKRA SCELLÉE
+- **Respect :** Humain, Animal, Environnement
+
+## 🌐 Écosystème
+
+DHIKRA SOURCE · IMMORTEL AI · SAHA SCAN AI · ILM LIBERATION TABLET · TAFSUT AI · TUDERT YIWEN
+
+---
+
+## 🔒 Ce qui n'est pas publié
+
+Les **plans techniques, schémas de conception et dossier détaillé** de la technologie sont **privés et fermés**. Cette synthèse présente l'idée et la philosophie, pas le fonctionnement interne. La date d'existence du dossier détaillé est établie par dépôt et horodatage, sans divulgation de son contenu.
+
+---
+
+# 📜 LICENCE PROFESSIONNELLE PROPRIÉTAIRE
+
+**TR-2026-QUAD-0018 · © 2026 Yassa Yacine Cheurfa · Tous droits réservés sur la technologie**
+
+### 1. Nature
+La technologie QUAD SYSTEM AI et son écosystème sont une œuvre de l'esprit **propriétaire et fermée**. Aucun droit d'exploitation n'est concédé par défaut.
+
+### 2. Cette vitrine
+Le **texte et les images** de cette vitrine sont partagés sous licence **CC BY-NC-ND 4.0** : attribution obligatoire, pas d'usage commercial, pas de modification. Cette licence **ne couvre pas la technologie**.
+
+### 🟢 3. Permis sans autorisation
+- Lire et consulter, à titre informatif et académique.
+- Partager le lien du dépôt, ou le texte et les images **sans modification**, avec attribution.
+- Citer le projet avec attribution explicite et lien DOI.
+
+### 🟠 4. Autorisation écrite obligatoire
+Une autorisation **écrite et signée par l'auteur** est requise pour :
+- toute collaboration ;
+- toute licence d'exploitation, commerciale ou non ;
+- toute utilisation dans un autre projet.
+
+### 🔴 5. Interdit sans licence écrite
+- Modifier le principe philosophique et éthique original.
+- Contrefaire, copier, cloner ou créer une œuvre dérivée.
+- Exploiter commercialement, directement ou indirectement.
+- Procéder à l'ingénierie inverse ou à la décompilation.
+
+### 6. Sanction
+Toute violation des articles 4 et 5 pourra faire l'objet de poursuites devant le tribunal compétent, sous la législation algérienne relative à la propriété intellectuelle et littéraire. Le dépôt Zenodo fixe la date de dépôt ; la paternité est revendiquée par l'auteur, avec les preuves datées associées.
+
+### 7. Noms et marques réservés
+QUAD SYSTEM AI, DHIKRA SOURCE, IMMORTEL AI, SAHA SCAN AI, ILM LIBERATION TABLET, TAFSUT AI, TUDERT YIWEN.
+
+### 8. Demande de licence
+Écrire à **dhikraemmortel@proton.me** en indiquant : votre nom, votre organisation, l'usage prévu et la durée souhaitée. Aucune utilisation n'est autorisée avant réponse écrite de l'auteur.
+
+---
+
+## 🇬🇧 License summary
+
+🟢 **GREEN:** read, share unmodified, cite with explicit attribution.
+🟠 **ORANGE:** written permission required for any collaboration or license.
+🔴 **RED:** strictly prohibited: modification, copying or cloning, commercial use without a license, reverse engineering.
+
+The technology is **closed and proprietary**. Text and images of this showcase are shared under **CC BY-NC-ND 4.0**, which does not cover the technology.
+
+---
+
+**© 2026 Yassa Yacine Cheurfa** · Azazga, Algérie · Réf. TR-2026-QUAD-0018 · dhikraemmortel@proton.me
