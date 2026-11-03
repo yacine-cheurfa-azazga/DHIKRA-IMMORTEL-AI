@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![DHIKRA SOURCE – Module 1](images/dhikra-source.jpg)
+![DHIKRA SOURCE](./dhikra-source-TR-2026-QUAD-0018-square.png)
 
 # DHIKRA-IMMORTEL-AI
 
@@ -24,11 +24,12 @@
 
 | | |
 |---|---|
-| 📬 Contact (licences) | dhikraimmortel@proton.me |
+| 📬 Contact (licences) | dhikraemmortel@proton.me |
 | 🔖 Référence | TR-2026-QUAD-0018 |
 | 🗄️ Dépôt d'antériorité (Zenodo, hébergé par le CERN) | [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692) (v2.1) · [10.5281/zenodo.23671062](https://doi.org/10.5281/zenodo.23671062) (toutes versions) |
 
-> *Le souvenir qui ne meurt jamais. Il reste toujours immortel en ligne.*
+> *Memoria quae numquam moritur. Semper immortalis manet in linea.*
+> Le souvenir qui ne meurt jamais. Il reste toujours immortel en ligne.
 
 ---
 
@@ -46,36 +47,83 @@ Photo vivante : **yeux et bouche uniquement**. Pas de son, pas de voix, pas de m
 - **Fond d'écran** : Marbre Noir + Or
 - **Expression d'origine** préservée
 
-### ⌨️ Clavier QWERTY contrôlé par le Feu Tricolore Pénal
+---
+
+## 🏗️ Architecture
+
+![Schéma QUAD PENTA](./schema-architecture-quad-penta-v2.png)
+
+**QUAD SYSTEM AI PENTA : un cerveau hors ligne.** Déconnecté, validation multi-agents, aucun cloud.
+
+### Système de canalisation AI nouvelles générations
+
+**Flux :** Collecte → Canalisation → Sécurisation → Scellage
+
+| Étape | Rôle |
+|---|---|
+| **1. Collecte éthique** | 5 sources PENTA → cerveau central |
+| **2. Canalisation** | Feu Tricolore 🟢🟠🔴 + Respect-Check QWERTY. Le canal refuse le mal. |
+| **3. Sécurisation** | Protocole MICAE + multi-agents hors ligne |
+| **4. Scellage** | DHIKRA SCELLÉE + DRONE TAFSUT AI. Mémoire vraie scellée, immortelle. |
+
+**Différence :** les IA classiques canalisent pour la consommation. QUAD PENTA canalise pour la conception éthique. Le canal n'est pas un tuyau, c'est un filtre qui protège.
+
+### Les 5 modules PENTA
+
+**MÉMOIRE** · **SANTÉ** · **SAVOIR** · **ENVIRONNEMENT** · **ALIMENTATION**
+
+### Les 3 modules exécutifs
+
+**DRONE TAFSUT AI** · **PROTOCOLE MICAE** · **DHIKRA SCELLÉE**
+
+---
+
+## ⌨️ Respect-Check QWERTY
 
 > Ce n'est pas l'humain qui contrôle le clavier. C'est le Respect-Check qui contrôle ce qui peut être tapé.
 
-| Feu | Effet sur le clavier |
+| Feu tricolore pénal | Effet sur le clavier |
 |---|---|
 | 🟢 **VERT** | Le clavier autorise |
 | 🟠 **ORANGE** | Le clavier exige une réécriture (3 × « Allah Yarhamha ») |
 | 🔴 **ROUGE** | Le clavier bloque définitivement |
 
-### 🏅 Règle d'Or
-
-**Une mémoire n'est reconnue vraie que si elle est validée puis scellée. Une fois scellée, toute modification est visible.**
+- Le clavier QWERTY est contrôlé par le Respect.
+- Respect Humain-Animal-Environnement validé par le Protocole MICAE.
+- Aucune génération sans Respect-Check validé.
 
 ---
 
-## 🌐 Écosystème
+## 🧭 Philosophie et principes essentiels
+
+- Une IA ne doit jamais faire du mal **par construction**, pas par règle ajoutée.
+- La mémoire vraie ne se supprime jamais, elle se **scelle**.
+- *Pas de punition. Juste la vérité à choisir.* (SAHA SCAN AI)
+- Le savoir doit être libre et hors ligne pour libérer l'humain. (ILM LIBERATION TABLET)
+- *Une vie, une seule vie à protéger.* (TUDERT YIWEN)
+
+| Principe | Énoncé |
+|---|---|
+| **Principe éthique** | IA qui refuse le mal |
+| **Règle d'Or** | Une mémoire n'est reconnue vraie que si elle est validée puis scellée. Une fois scellée, toute modification est visible. |
+| **Mémoire IMMORTEL** | Jamais supprimée |
+
+---
+
+## 🌐 Écosystème complet
 
 | Projet | Description |
 |---|---|
-| **DHIKRA SOURCE** | Protocole éthique |
-| **IMMORTEL AI** | Photo interactive animée (« Photo qui parle »), cadre Or & Noir |
-| **SAHA SCAN AI** | « Pas de punition. Juste la vérité à choisir. » |
-| **ILM LIBERATION TABLET** | Tablette applicative unique, IA 100 % hors ligne |
-| **TAFSUT AI** | Composant de l'écosystème QUAD SYSTEM |
-| **TUDERT YIWEN** | Composant de l'écosystème QUAD SYSTEM |
+| **DHIKRA SOURCE** | Protocole éthique, réf. TR-2026-QUAD-0018 |
+| **IMMORTEL AI** | Photo vivante Or & Noir, /A/ /M/ |
+| **SAHA SCAN AI** | Pas de punition. Juste la vérité à choisir. |
+| **ILM LIBERATION TABLET** | Tablette applicative unique, IA 100 % hors ligne, savoir libre |
+| **TAFSUT AI** | Renaissance, corps volant autonome |
+| **TUDERT YIWEN** | Une vie, principe vital |
 
 ---
 
-## 📜 Licence et droits d'utilisation
+## 📜 Licence TR-2026-QUAD-0018
 
 ### Article 1 — Nature juridique : technologie fermée
 
@@ -83,7 +131,7 @@ La technologie **QUAD SYSTEM AI** et son écosystème sont une œuvre de l'espri
 
 - Le code est fermé. Ce dépôt public sert de **preuve d'antériorité** et de **consultation** uniquement.
 - Aucun droit d'exploitation n'est concédé par défaut.
-- Le **texte et les images** de cette vitrine sont partagés sous licence **CC BY-NC-ND 4.0** : attribution obligatoire, pas d'usage commercial, pas de modification. Ils peuvent donc être repartagés **tels quels**, avec attribution et lien vers ce dépôt.
+- Le **texte et les images** de cette vitrine sont partagés sous licence **CC BY-NC-ND 4.0** : attribution obligatoire, pas d'usage commercial, pas de modification. Ils peuvent être repartagés **tels quels**, avec attribution et lien vers ce dépôt.
 - Cette licence **ne couvre pas la technologie**, qui reste fermée.
 
 ### Article 2 — Droits accordés 🟢
@@ -147,3 +195,6 @@ The technology is **closed and proprietary**. This repository is a showcase and 
 Azazga, Algérie · Réf. TR-2026-QUAD-0018
 
 </div>
+<img width="1920" height="1280" alt="3890" src="https://github.com/user-attachments/assets/f30d53be-8fce-43a7-a32e-71f3fabf8a47" />
+<img width="1920" height="1280" alt="4073" src="https://github.com/user-attachments/assets/eba896b6-1fc1-4453-9444-7ac9df0d5676" />
+<img width="720" height="1640" alt="4252" src="https://github.com/user-attachments/assets/b573c152-f877-4dd8-ba6a-8e426277d755" />
