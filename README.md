@@ -332,3 +332,64 @@ TAFSUT AI propose un système de pilotage autonome **100 % embarqué (Edge AI)**
 * **Conformité & Preuve Légale :** Le registre *La Dhikra* offre une traçabilité juridique totale pour chaque décision prise en vol.
 * **Acceptabilité Sociétale :** L'éthique n'est plus un frein, mais le standard de performance qui prévient les accidents et garantit l'acceptation par les régulateurs et le grand public.
 
+# moudoule n°4 Quad système AI 
+
+# TAFSUT AI 🌲🤖
+
+> **Système autonome et souverain de détection précoce des incendies de forêt par drone.**
+
+---
+
+## 📋 Fiche d'Identité du Projet
+
+* **Nom du projet :** TAFSUT AI
+* **Porteur de projet :** Yassa Yacine Cheurfa
+* **Localisation :** Azazga, Kabylie, Algérie
+* **Année de création :** 2026
+* **Statut actuel :** Concept et prototype en cours de développement *(performances non garanties à ce stade)*
+
+---
+
+## 🛠️ Prestations & Fonctionnalités Clés
+
+Le système TAFSUT AI repose sur quatre piliers fonctionnels majeurs, pensés pour la sécurité des zones forestières et agricoles :
+
+* 🔥 **Détection thermique d'incendie :** Surveillance aérienne par quadricoptère pour identifier les départs de feu de manière précoce.
+* 💻 **Supervision locale (ILM) :** Pilotage et retour d'information centralisés sur une tablette locale dédiée (*Interface Locale de Mission*), éliminant toute dépendance au cloud.
+* 📡 **Réseau mesh villageois :** Système de relais des alertes entre les villages via des technologies longue portée et basse consommation (LoRa / Wi-Fi local fermé).
+* 📜 **Journal de vol à intégrité vérifiable :** Dispositif garantissant la traçabilité et l'inviolabilité des données de mission (composant *DHIKRA*).
+
+---
+
+## 🛡️ Charte Éthique & Souveraineté
+
+L'originalité profonde de TAFSUT AI ne réside pas seulement dans ses technologies, mais dans leur combinaison logicielle et philosophique :
+
+1. **100 % Hors ligne :** Une immunité totale face aux pannes d'Internet ou aux cyberattaques externes.
+2. **Respect de la vie privée :** Algorithmes embarqués de floutage automatisé des visages et des plaques d'immatriculation.
+3. **Surveillance consentie :** Le déploiement s'effectue en accord direct et transparent avec les communautés villageoises.
+
+---
+
+## ⚖️ Propriété Intellectuelle & Licence
+
+* **Contenu de la vitrine :** Protégé sous licence [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) *(Partage autorisé avec attribution, usage strictement non commercial, aucune modification autorisée)*.
+* **Technologie sous-jacente :** Propriétaire et non publiée. Les appellations commerciales `TAFSUT`, `ILM`, `DHIKRA` et `SAHA` sont des marques réservées.
+* **Commercialisation :** Tout déploiement ou usage commercial requiert un accord écrit préalable obligatoire.
+
+---
+
+## ✉️ Contact
+
+Pour toute demande de partenariat, d'information ou d'autorisation de déploiement :
+
+ **Contact officiel :
+ # dhikraemmortel@proton.me 
+
+
+
+  
+
+---
+
+© 2026 Yassa Yacine Cheurfa. Tous droits réservés.
