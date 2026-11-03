@@ -1,3 +1,4 @@
+<img width="1008" height="2304" alt="4248" src="https://github.com/user-attachments/assets/dd696cad-2fd4-41e8-94aa-eb58589c1e5a" />
 # LICENCE PROFESSIONNELLE PROPRIÉTAIRE
 **TR-2026-QUAD-0018 | QUAD SYSTEM AI v2.1 PENTA**
 
