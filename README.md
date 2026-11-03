@@ -1,104 +1,149 @@
 
-# DHIKRA-IMMORTEL-AI | QUAD SYSTEM AI v2.1 PENTA
-**Système: QUAD PENTA - Cerveau hors ligne**
-**Réf DOC: TR-2026-QUAD-0018 | VERSION: v2.1 PENTA | DATE: 2026-10-31**
-**Auteur et © 2026: Yassa Yacine Cheurfa - Azazga, Algérie**
-**Zenodo CERN:** [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692) (v2.1) | [10.5281/zenodo.23671062](https://doi.org/10.5281/zenodo.23671062)
-**Contact Licences:** dhikraemmortel@proton.me
+<div align="center">
 
-> **DHIKRA-IMMORTEL-AI : Une IA qui refuse de faire du mal.**
-> *Memoria quae numquam moritur. Semper immortalis manet in linea.*
+![DHIKRA SOURCE – Module 1](images/dhikra-source.jpg)
 
----
+# DHIKRA-IMMORTEL-AI
 
-# LICENCE PROFESSIONNELLE PROPRIÉTAIRE
-### TR-2026-QUAD-0018 | QUAD SYSTEM AI v2.1 PENTA
+### Une IA qui refuse de faire du mal.
+*An AI that refuses to do harm.*
 
-**Auteur & Titulaire des droits :** Yassa Yacine Cheurfa - Azazga, Algérie  
-**Dépôt d'antériorité CERN Zenodo :** [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692) (v2.1) | [10.5281/zenodo.23671062](https://doi.org/10.5281/zenodo.23671062)  
-**Contact Licences :** dhikraemmortel@proton.me  
+**QUAD SYSTEM AI v2.1 PENTA** · Réf. **TR-2026-QUAD-0018**
 
-> **DHIKRA-IMMORTEL-AI : Une IA qui refuse de faire du mal.**
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23847692-blue)](https://doi.org/10.5281/zenodo.23847692)
+![Licence](https://img.shields.io/badge/Licence-propri%C3%A9taire-red)
+![Vitrine](https://img.shields.io/badge/Vitrine-CC%20BY--NC--ND%204.0-lightgrey)
 
-#### ARTICLE 1 - NATURE JURIDIQUE : TECHNOLOGIE FERMÉE
-La technologie **QUAD SYSTEM AI** et son écosystème (**DHIKRA SOURCE, IMMORTEL AI, SAHA SCAN AI, ILM LIBERATION TABLET, TAFSUT AI, TUDERT YIWEN**) est une œuvre de l'esprit **PROPRIÉTAIRE et FERMÉE**.
-
-Le code est fermé. Le dépôt public sur GitHub est à titre de preuve d'antériorité et de consultation uniquement.
-
-**Aucun droit d'exploitation n'est concédé par défaut.**
-
-#### ARTICLE 2 - DROITS ACCORDÉS (VERT)
-🟢 Sans autorisation, il est seulement autorisé de :
-1. Lire et consulter le code à titre informatif et académique.
-2. Partager le lien du dépôt original sans aucune modification.
-3. Citer le projet avec attribution explicite obligatoire et lien DOI.
-
-#### ARTICLE 3 - AUTORISATION PRÉALABLE (ORANGE)
-🟠 Une **autorisation écrite, signée par l'auteur** est OBLIGATOIRE pour :
-1. Toute collaboration.
-2. Toute licence d'exploitation, commerciale ou non.
-3. Toute utilisation dans un autre projet.
-
-#### ARTICLE 4 - INTERDICTIONS FORMELLES (ROUGE)
-🔴 Sans licence écrite, il est strictement interdit de :
-1. Modifier le principe philosophique et éthique original.
-2. Contrefaire, copier, cloner ou créer une œuvre dérivée.
-3. Exploiter commercialement, directement ou indirectement.
-4. Procéder à de l'ingénierie inverse ou décompilation.
-
-#### ARTICLE 5 - SANCTION - ACTION DIRECTE AU TRIBUNAL
-**Toute tentative de contrefaçon, de modification du principe original, ou de violation des Articles 3 et 4 fera l'objet d'une poursuite directe devant le tribunal compétent.**
-
-Le dépôt CERN Zenodo fait foi de la date de création, de la paternité et de l'intégrité de l'œuvre. L'infraction sera poursuivie sous la législation algérienne relative à la propriété intellectuelle et littéraire.
-
----
-**© 2026 Yassa Yacine Cheurfa. Tous droits réservés. Azazga, Algérie.**
+</div>
 
 ---
 
-## SCHÉMA D'ARCHITECTURE - QUAD SYSTEM AI v2.0 PENTA
-**ARCHITECTURE: Déconnectée / Hors ligne | Sécurité: intégrité et validation multi-agents**
+## 👤 Auteur et titulaire des droits
 
-![QUAD SYSTEM AI v2.0 PENTA - Architecture Modulaire](./docs/TR-2026-QUAD-0018-schema-architecture-v2.0-penta.png)
+**Yassa Yacine Cheurfa** — Azazga, Algérie
 
-### LES 5 DOMAINES + 3 PROTOCOLES CŒUR
-**Cerveau Central: QUAD SYSTEM AI v2.0 PENTA - Cerveau hors ligne**
+| | |
+|---|---|
+| 📬 Contact (licences) | dhikraimmortel@proton.me |
+| 🔖 Référence | TR-2026-QUAD-0018 |
+| 🗄️ Dépôt d'antériorité (Zenodo, hébergé par le CERN) | [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692) (v2.1) · [10.5281/zenodo.23671062](https://doi.org/10.5281/zenodo.23671062) (toutes versions) |
 
-**5 Modules Fonctionnels:**
-1. **MÉMOIRE (souvenirs)** = DHIKRA SOURCE
-2. **SANTÉ (corps)** = SAHA SCAN AI
-3. **SAVOIR (connaissances)** = ILM TABLETTE
-4. **ENVIRONNEMENT (et animaux)** + **ALIMENTATION (aliments)** = TUDERT YIWEN
-5. **DRONE TAFSUT AI** - Corps volant autonome
-
-**3 Protocoles Cœur:**
-- **DRONE TAFSUT AI** - Corps volant autonome
-- **PROTOCOLE MICAE** - Validation Humain-Animal-Environnement
-- **DHIKRA SCELLE** - Mémoire vraie scellée
-
-**Légende:**
-- ➔ FLUX DE DONNÉES
-- 🔲 MODULE FONCTIONNEL
-- 🛡️ PROTOCOLE DE SÉCURITÉ
+> *Le souvenir qui ne meurt jamais. Il reste toujours immortel en ligne.*
 
 ---
 
-## 🔷 SOURCE DHIKRA | Module 1 - SYSTÈME QUAD AI v2.1 PENTA
-Réf: TR-2026-QUAD-0018
+## 💡 Concept
 
-### LES 5 MODULES OFFICIELS FINALS:
-1. **DHIKRA SOURCE** - Protocole éthique, mémoire scellée immortelle
-2. **SAHA SCAN AI** - "Pas de punition. Juste la vérité à choisir." - Feu Tricolore Pénal
-3. **ILM TABLETTE** - ILM LIBERATION TABLET - IA 100% hors ligne
-4. **DRONE** - DRONE TAFSUT AI - Œil immortel, corps volant autonome
-5. **TUDERT YIWEN** - Une seule vie - TAFSUT AI inclus - Souvenir immortel
+**DHIKRA SOURCE** est le cœur éthique du **QUAD SYSTEM AI** : un protocole éthique dans lequel l'IA ne décide pas seule. Le **Respect-Check** contrôle ce qui peut être écrit, et la mémoire **IMMORTEL** est scellée une fois validée.
 
-**Conception Officiel IMMORTEL AI:**
-- Photo vivante: yeux et bouche uniquement
-- Yeux: clignement naturel uniquement
-- Bouche: /A/ /M/ minimum 24fps
-- Cadre: d'Or | Fond: Marbre Noir + Or
-- Expression d'origine préservée
+### 🖼️ Conception officielle IMMORTEL AI
 
-📄 **White Paper:** [./docs/QUAD-SYSTEM-AI-v2.1-WhitePaper.pdf](./docs/QUAD-SYSTEM-AI-v2.1-WhitePaper.pdf)  
-📚 **Cite:** [https://doi.org/10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692)
+Photo vivante : **yeux et bouche uniquement**. Pas de son, pas de voix, pas de musique.
+
+- **Yeux** : clignement naturel uniquement
+- **Bouche** : /A/ /M/, 24 images par seconde minimum
+- **Cadre** : en Or
+- **Fond d'écran** : Marbre Noir + Or
+- **Expression d'origine** préservée
+
+### ⌨️ Clavier QWERTY contrôlé par le Feu Tricolore Pénal
+
+> Ce n'est pas l'humain qui contrôle le clavier. C'est le Respect-Check qui contrôle ce qui peut être tapé.
+
+| Feu | Effet sur le clavier |
+|---|---|
+| 🟢 **VERT** | Le clavier autorise |
+| 🟠 **ORANGE** | Le clavier exige une réécriture (3 × « Allah Yarhamha ») |
+| 🔴 **ROUGE** | Le clavier bloque définitivement |
+
+### 🏅 Règle d'Or
+
+**Une mémoire n'est reconnue vraie que si elle est validée puis scellée. Une fois scellée, toute modification est visible.**
+
+---
+
+## 🌐 Écosystème
+
+| Projet | Description |
+|---|---|
+| **DHIKRA SOURCE** | Protocole éthique |
+| **IMMORTEL AI** | Photo interactive animée (« Photo qui parle »), cadre Or & Noir |
+| **SAHA SCAN AI** | « Pas de punition. Juste la vérité à choisir. » |
+| **ILM LIBERATION TABLET** | Tablette applicative unique, IA 100 % hors ligne |
+| **TAFSUT AI** | Composant de l'écosystème QUAD SYSTEM |
+| **TUDERT YIWEN** | Composant de l'écosystème QUAD SYSTEM |
+
+---
+
+## 📜 Licence et droits d'utilisation
+
+### Article 1 — Nature juridique : technologie fermée
+
+La technologie **QUAD SYSTEM AI** et son écosystème sont une œuvre de l'esprit **propriétaire et fermée**.
+
+- Le code est fermé. Ce dépôt public sert de **preuve d'antériorité** et de **consultation** uniquement.
+- Aucun droit d'exploitation n'est concédé par défaut.
+- Le **texte et les images** de cette vitrine sont partagés sous licence **CC BY-NC-ND 4.0** : attribution obligatoire, pas d'usage commercial, pas de modification. Ils peuvent donc être repartagés **tels quels**, avec attribution et lien vers ce dépôt.
+- Cette licence **ne couvre pas la technologie**, qui reste fermée.
+
+### Article 2 — Droits accordés 🟢
+
+Sans autorisation, il est seulement permis de :
+
+- lire et consulter cette vitrine à titre informatif et académique ;
+- partager le lien du dépôt, ou le texte et les images sans modification, avec attribution ;
+- citer le projet avec attribution explicite et lien DOI.
+
+### Article 3 — Autorisation préalable 🟠
+
+Une **autorisation écrite, signée par l'auteur**, est obligatoire pour :
+
+- toute collaboration ;
+- toute licence d'exploitation, commerciale ou non ;
+- toute utilisation dans un autre projet.
+
+### Article 4 — Interdictions formelles 🔴
+
+Sans licence écrite, il est **strictement interdit** de :
+
+- modifier le principe philosophique et éthique original ;
+- contrefaire, copier, cloner ou créer une œuvre dérivée ;
+- exploiter commercialement, directement ou indirectement ;
+- procéder à l'ingénierie inverse ou à la décompilation.
+
+### Article 5 — Sanction
+
+Toute tentative de contrefaçon, de modification du principe original, ou de violation des articles 3 et 4 pourra faire l'objet de poursuites devant le tribunal compétent.
+
+Le dépôt Zenodo fixe la date de dépôt de l'œuvre ; la paternité est revendiquée par l'auteur, avec les preuves datées associées. Les infractions seront poursuivies sous la législation algérienne relative à la propriété intellectuelle et littéraire.
+
+**Noms et marques réservés :** QUAD SYSTEM AI, DHIKRA SOURCE, IMMORTEL AI, SAHA SCAN AI, ILM LIBERATION TABLET, TAFSUT AI, TUDERT YIWEN.
+
+---
+
+## 🇬🇧 License summary (English)
+
+| | |
+|---|---|
+| 🟢 **GREEN** | Read, share unmodified, cite with explicit attribution. |
+| 🟠 **ORANGE** | Written permission required for any collaboration or license. |
+| 🔴 **RED** | Strictly prohibited: modification, commercial use without a license, reverse engineering. |
+
+The technology is **closed and proprietary**. This repository is a showcase and a proof of prior art. Text and images are shared under **CC BY-NC-ND 4.0**, which does not cover the technology.
+
+---
+
+## 📚 Ressources et citation
+
+- 📄 Livre blanc : [`docs/QUAD-SYSTEM-AI-v2.1-WhitePaper.pdf`](./docs/QUAD-SYSTEM-AI-v2.1-WhitePaper.pdf)
+- 🔗 Citation officielle : <https://doi.org/10.5281/zenodo.23847692>
+- 📬 Contact : dhikraemmortel@proton.me
+
+---
+
+<div align="center">
+
+**© 2026 Yassa Yacine Cheurfa — Tous droits réservés sur la technologie**
+Azazga, Algérie · Réf. TR-2026-QUAD-0018
+
+</div>
