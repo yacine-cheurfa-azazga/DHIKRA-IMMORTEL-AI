@@ -290,3 +290,45 @@ The technology is **closed and proprietary**. Text and images of this showcase a
 ---
 
 **© 2026 Yassa Yacine Cheurfa** · Azazga, Algérie · Réf. TR-2026-QUAD-0018 · dhikraemmortel@proton.me
+# TAFSUT AI / QUAD SYSTEM — Architecture & Executive Summary
+
+## 1. Architecture Technique : Le Pipeline MICAE (Du capteur à l'action)
+
+### Perception & Traitement Local (YOLO + Ollama)
+* **Air-gapped et embarqué**
+* Le flux vidéo et télémétrique est analysé en temps réel par **YOLO** pour détecter les entités (humains, obstacles, faune). **Ollama** traite localement le contexte sémantique pour catégoriser la situation et émettre une intention opérationnelle.
+
+### Filtre Pré-Exécution (Respect-Check)
+* **Matrice de décision tricolore**
+* Avant tout ordre au drone, le signal traverse une matrice rigoureuse :
+  * **Rouge :** Interruption instantanée (violation de zone sensible ou présence humaine critique).
+  * **Orange :** Réduction de vitesse / demande de validation contextuelle.
+  * **Vert :** Transmission autorisée vers la couche de consensus.
+
+### Protocole MICAE & La Dhikra Scellée
+* **Traçabilité cryptographique locale**
+* La décision validée est confrontée au triptyque **Homme + Animal + Environnement**. Une fois le consensus atteint, l'événement est cryptographiquement scellé (**La Dhikra**) dans un registre immuable stocké à bord, garantissant un audit infalsifiable.
+
+### Transmission au Contrôleur PX4
+* **Exécution de vol contrôlée**
+* L'ordre final, accompagné de son sceau éthique, est transmis au firmware de vol **PX4** pour piloter les actionneurs du drone en toute sécurité.
+
+---
+
+## 2. Fiche de Présentation Officielle (Executive Summary)
+
+> **Projet :** TAFSUT AI / QUAD SYSTEM  
+> **Secteur :** Robotique Autonome & Sécurité Éthique Embarquée  
+> **Vision :** Réconcilier haute performance opérationnelle et souveraineté éthique absolue grâce à l'IA embarquée air-gapped.
+
+### Le Problème
+Les systèmes de drones autonomes actuels reposent sur une connectivité cloud constante (vulnérable au piratage, aux coupures réseau et aux fuites de données) et manquent de garde-fous éthiques temps réel, exposant les opérateurs à des risques juridiques et opérationnels majeurs.
+
+### La Solution : TAFSUT AI & Le Protocole MICAE
+TAFSUT AI propose un système de pilotage autonome **100 % embarqué (Edge AI)** combinant des modèles de vision (YOLO) et de traitement sémantique (Ollama) fonctionnant hors ligne. Grâce au filtre pré-exécution et au protocole de traçabilité immuable **La Dhikra**, chaque décision critique est validée éthiquement et consignée de manière infalsifiable.
+
+### Avantages Clés & Proposition de Valeur
+* **Souveraineté & Sécurité :** Architecture air-gapped zéro dépendance cloud, éliminant les risques de cyberattaques distantes.
+* **Conformité & Preuve Légale :** Le registre *La Dhikra* offre une traçabilité juridique totale pour chaque décision prise en vol.
+* **Acceptabilité Sociétale :** L'éthique n'est plus un frein, mais le standard de performance qui prévient les accidents et garantit l'acceptation par les régulateurs et le grand public.
+
