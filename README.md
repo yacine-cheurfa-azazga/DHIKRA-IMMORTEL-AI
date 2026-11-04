@@ -1,3 +1,9 @@
+* **ORCID :** [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1982--7176-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1982-7176)
+* **DOI Version Actuelle (V2.3) :** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23964487-blue)](https://doi.org/10.5281/zenodo.23964487)
+* **DOI Concept :** [![DOI Concept](https://img.shields.io/badge/DOI%20Concept-10.5281%2Fzenodo.23671062-lightblue)](https://doi.org/10.5281/zenodo.23671062)
+* **Licence Visuelle :** [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
 # DHIKRA-IMMORTEL-AI — Chercheur Indépendant
 
 Chercheur et développeur indépendant, engagé dans la recherche ouverte, l'éthique des IA et la souveraineté numérique.
