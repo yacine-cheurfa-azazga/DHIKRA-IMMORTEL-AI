@@ -1,3 +1,62 @@
+# DHIKRA-IMMORTEL-AI — Chercheur Indépendant
+
+Chercheur et développeur indépendant, engagé dans la recherche ouverte, l'éthique des IA et la souveraineté numérique.
+
+---
+
+## 👤 Identité Académique & ORCID
+* **Nom :** Yassa Yacine Cheurfa
+* **Affiliation :** Independent Researcher, Azazga, Kabylie, Algérie
+* **ORCID :** [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1982--7176-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1982-7176)
+
+---
+
+## 🔬 Projet Principal, DOIs & Licence
+* **Projet :** `DHIKRA-IMMORTEL-AI` (Architecture IA souveraine hors-ligne avec filtre éthique *Respect-Check* et mémoire scellée)
+* **Réf Technique :** `TR-2026-QUAD-0018` — Fait à Azazga, 04-11-2026
+* **DOI Version Actuelle (V2.3) :** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23944074-blue)](https://doi.org/10.5281/zenodo.23944074)
+* **DOI Concept (Toutes versions) :** [![DOI Concept](https://shields.io)](https://doi.org/10.5281/zenodo.23671062)
+* **Licence Visuelle Officielle :** [![License: CC BY-NC-ND 4.0](https://shields.io)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+> *« Officialiser et protéger la paternité des travaux par la science ouverte. DHIKRA = Mémoire scellée, SOURCE = Souveraineté »*
+
+---
+
+## 📄 FICHE TECHNIQUE OFFICIELLE TR-2026-QUAD-0018
+
+**Figure 1 : DHIKRA QUAD SYSTEM AI - Architecture Officielle**  
+*Format : Carré 1:1 | Encadrement : Or Baroque 3D en relief | Fond : Noir Nuit #0A0A0A | Or Métallique #D4AF37 | CC BY-NC-ND 4.0*
+
+### Les 4 Piliers de l'Architecture QUAD :
+
+| Module | Position | Icône & Identifiant | Fonctionnalité & Rôle Source |
+| :--- | :--- | :--- | :--- |
+| **DHIKRA SOURCE** | Haut-Gauche | Cœur + Zellige + Étoile 8 branches | Mémoire scellée, protocole RAHMA. Respect-Check 🟢🟠🔴 structurellement intégré dans la lettre **I**. |
+| **LOGIC LLM** | Haut-Droite | Cerveau mi-humain mi-circuit | Moteur de raisonnement MICAE 100% hors-ligne (Edge AI). |
+| **VISION V-JEPA 2** | Bas-Gauche | Œil Stylisé | Compréhension du monde physique en local, sans dépendance Cloud. |
+| **ACTION** | Bas-Droite | Bras robotique | Exécution physique sécurisée via Tablette ILM, protocole CCSS. |
+
+---
+
+### 🛡️ Principe Directeur & Éthique
+> *« Le système refuse le mal par construction. Aucune donnée ne quitte le cercle familial (Tablette ILM). La mémoire est rigoureusement validée, puis définitivement scellée. »*
+
+---
+
+### ⚖️ Protection Juridique & Propriété Intellectuelle
+* **Marque figurative déposée :** Lettre **D** Or Baroque + lettre **I** contenant verticalement les états 🟢🟠🔴.
+* **Slogans Officiels :** 
+  * *« DHIKRA = Mémoire scellée »*
+  * *« SOURCE = Souveraineté »*
+* **Avertissement légal :** Toute reproduction omettant le cadre or ou les pastilles tricolores constitue une contrefaçon et une violation des droits d'auteur. **SANS CODE SOURCE** — Recette secrète SOURCE préservée.
+
+---
+*Fait à Azazga, le 04 novembre 2026.*  
+**Signé électroniquement :** Yassa Yacine Cheurfa
+
+
+
+
 # 👋 Bienvenue sur mon profil GitHub académique
 
 Chercheur et développeur indépendant, engagé dans la recherche ouverte, l'éthique des intelligences artificielles et la souveraineté numérique.
