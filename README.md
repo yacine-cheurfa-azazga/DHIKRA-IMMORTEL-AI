@@ -1,3 +1,32 @@
+# 👋 Bienvenue sur mon profil GitHub académique
+
+Chercheur et développeur indépendant, engagé dans la recherche ouverte, l'éthique des intelligences artificielles et la souveraineté numérique.
+
+---
+
+### 👤 Identité Académique & ORCID
+
+* **Nom :** Yassa Yacine Cheurfa
+* **Affiliation :** Independent Researcher, Azazga, Kabylie, Algérie
+* **Identifiant ORCID :** [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--1982--7176-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1982-7176)
+
+---
+
+### 🔬 Projet Principal, DOIs & Licence
+
+* **Projet :** `DHIKRA-IMMORTEL-AI` (Architecture IA hors ligne avec filtre éthique *Respect-Check* et mémoire scellée)
+* **Rapport Technique :** `TR-2026-QUAD-0018`
+* **DOI Version V2.2 :** [![DOI 10.5281/zenodo.23944074](https://shields.io)](https://doi.org/10.5281/zenodo.23944074)
+* **DOI Concept :** [![DOI 10.5281/zenodo.23671062](https://shields.io)](https://doi.org/10.5281/zenodo.23671062)
+* **Licence :** [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+---
+
+> *« Officialiser et protéger la paternité des travaux de recherche par la science ouverte et transparente. DHIKRA = Mémoire scellée, SOURCE = Souveraineté »*
+
+
+
+
 <img width="1600" height="1600" alt="4330" src="https://github.com/user-attachments/assets/53cf2a6d-0a27-4814-9d69-033f7064b41b" />
 <div align="center">
 
