@@ -3,9 +3,9 @@
 # 🏛️ DHIKRA SOURCE AI — QUAD SYSTEM AI
 ### *Analyse Complète & Vitrine Publique — Version 2.2*
 
-[![DOI](https://shields.io)](https://doi.org/10.5281/zenodo.23944074)
-[![DOI Toutes Versions](https://shields.io)](https://doi.org)
-[![Licence](https://shields.io)](https://creativecommons.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23944074.svg)](https://doi.org/10.5281/zenodo.23944074)
+[![DOI Toutes Versions](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23671062-blue)](https://doi.org/10.5281/zenodo.23671062)
+[![Licence](https://img.shields.io/badge/Licence-CC%20BY--NC--ND%204.0-orange)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
 
@@ -17,8 +17,7 @@ Le pack visuel officiel **DHIKRA SOURCE AI** associe l'or baroque et le marbre n
 
 * **`DHIKRA-hero-1024.png`** : Sceau principal (Maison de Luxe)
 * **`DHIKRA-icon-512.png`** : Icône application mondiale
-
----
+# Contact dhikraemmortel@proton.me
 
 ## 📌 Nouveautés de la Version 2.2
 
