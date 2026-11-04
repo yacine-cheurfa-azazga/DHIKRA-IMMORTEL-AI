@@ -369,3 +369,57 @@ La solidité internationale du projet repose sur sa structure de protection et d
 • Dualité de licence chirurgicale : La protection stricte du cœur de l'analyse (CC BY-NC-ND 4.0) couplée à l'ouverture collaborative des ressources visuelles et terminologiques (CC BY 4.0).
 • Interopérabilité académique : Le fichier CITATION.cff permet à la communauté des chercheurs d'intégrer et de sourcer correctement nos travaux dans la littérature scientifique mondiale.
 Le QUAD SYSTEM AI n'est pas un énième modèle algorithmique en quête de performance brute. C'est un manifeste technologique en action, un système global conçu pour prouver qu'une IA peut être puissante tout en refusant le mal par sa propre architecture native.
+# # QUAD SYSTEM AI
+
+> **L'ingénierie de la contrainte éthique et souveraine par construction.**
+
+---
+
+## 🎯 Le Cœur de notre Innovation (Ce qui nous appartient)
+
+Nous n'avons pas inventé l'IA, mais nous inventons son architecture de retenue :
+
+* **L'éthique matérialisée dans l'UI/UX :** Le filtre tricolore *Respect-Check* (🟢/🟠/🔴) imbriqué dans la lettre "I" du typogramme et le blocage/guidage cognitif directement au niveau du clavier. L'interface devient le premier rempart contre la dérive.
+* **La décentralisation et le consensus physique :** L'obligation d'une validation matérielle par un conseil local via la tablette **ILM** pour une IA entièrement déconnectée (*air-gapped*). C'est le retour du contrôle humain territorial sur la machine.
+* **Le triptyque étendu MICAE :** L'élargissement de la responsabilité mémorielle à l'Humain, à l'Animal et à l'Environnement, scellée par une empreinte cryptographique infalsifiable.
+* **La dignité mémorielle (IMMORTEL AI) :** Le choix philosophique et technique délibéré de la sobriété (mouvements subtils, absence de clonage vocal abusif) pour honorer les défunts sans basculer dans le simulacre commercial.
+
+---
+
+## 🛠️ L'Ancrage dans l'État de l'Art (Ce que nous intégrons)
+
+Pour que notre architecture globale fonctionne, elle s'appuie sur des briques existantes et éprouvées, que nous ne cherchons pas à réinventer :
+
+* Les infrastructures matérielles (drones, protocoles réseau LoRa).
+* Les modèles de langage légers optimisés pour le calcul local (*Edge AI*).
+* Les registres d'audit standard et les codes de vigilance colorimétriques universels.
+
+---
+
+## 🛡️ L'Inviolabilité de l'Antériorité
+
+La solidité internationale du projet repose sur sa structure de protection et de citation :
+
+* **Horodatage immuable :** Nos dépôts Zenodo (notamment le DOI permanent `10.5281/zenodo.23671062`) sécurisent de manière définitive notre priorité intellectuelle face à toute tentative de réappropriation.
+* **Dualité de licence chirurgicale :** La protection stricte du cœur de l'analyse (`CC BY-NC-ND 4.0`) couplée à l'ouverture collaborative des ressources visuelles et terminologiques (`CC BY 4.0`).
+* **Interopérabilité académique :** Le fichier `CITATION.cff` permet à la communauté des chercheurs d'intégrer et de sourcer correctement nos travaux dans la littérature scientifique mondiale.
+
+---
+
+## 💡 Conclusion
+
+Le **QUAD SYSTEM AI** n'est pas un énième modèle algorithmique en quête de performance brute. C'est un manifeste technologique en action, un système global conçu pour prouver qu'une IA peut être puissante tout en refusant le mal par sa propre architecture native.
+
+---
+
+## 📚 Citation
+
+Si vous utilisez ce travail dans le cadre de vos recherches, veuillez le citer en utilisant le fichier `CITATION.cff` fourni dans ce dépôt ou via notre référence Zenodo :
+
+```bibtex
+@software{quad_system_ai,
+  author = {Vos Noms / Auteurs},
+  title = {QUAD SYSTEM AI: Ingénierie de la contrainte éthique et souveraine},
+  DOI = {10.5281/zenodo.23671062},
+  url = {[https://zenodo.org/record/23671062](https://zenodo.org/record/23671062)}
+}
