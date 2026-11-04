@@ -3,10 +3,9 @@
 # 🏛️ DHIKRA SOURCE AI — QUAD SYSTEM AI
 ### *Analyse Complète & Vitrine Publique — Version 2.2*
 
-[![DOI](https://zenodo.org)](https://doi.org)
+[![DOI](https://shields.io)](https://doi.org/10.5281/zenodo.23944074)
 [![DOI Toutes Versions](https://shields.io)](https://doi.org)
-[![Licence Vitrine](https://shields.io)](https://creativecommons.org)
-[![Licence Logos/Glossaire](https://shields.io)](https://creativecommons.org)
+[![Licence](https://shields.io)](https://creativecommons.org)
 
 </div>
 
@@ -14,7 +13,7 @@
 
 ## 💎 Identité Visuelle & Sceau Maison de Luxe
 
-Le pack visuel officiel **DHIKRA SOURCE AI** associe l'or baroque et le marbre noir veiné d'or, intégrant les indicateurs d'état tricolores **🟢🟠🔴** directement au cœur du typogramme (dans le *I*).
+Le pack visuel officiel **DHIKRA SOURCE AI** associe l'or baroque et le marbre noir veiné d'or, intégrant les indicateurs d'état tricolores **🟢🟠🔴** directement au cœur du typogramme (dans la lettre *I*).
 
 * **`DHIKRA-hero-1024.png`** : Sceau principal (Maison de Luxe)
 * **`DHIKRA-icon-512.png`** : Icône application mondiale
@@ -25,15 +24,8 @@ Le pack visuel officiel **DHIKRA SOURCE AI** associe l'or baroque et le marbre n
 
 * **Section 0 :** Distinction rigoureuse entre le **revendiqué** et le **non revendiqué**.
 * **Annexe A :** Glossaire technique et conceptuel complet.
-* **Vitrine Publique :** Présentation académique et institutionnelle (aucun code source QUAD inclus dans cette version vitrine).
-
----
-
-## 📑 Références & Traçabilité (Zenodo)
-
-* **Dépôt d'antériorité V2.2 :** [10.5281/zenodo.23944074](https://doi.org)
-* **DOI Permanent (Toutes versions) :** `10.5281/zenodo.23671062`
-* **Type de ressource :** Logiciel informatique + Documentation + Logo
+* **Vitrine Publique :** Présentation académique et institutionnelle (aucun code source QUAD n'est inclus dans cette version vitrine).
+# Contact dhikraemmortel@proton.me
 
 ### 📚 Comment citer ce projet (Format APA)
 > Yassa Yacine Cheurfa. (2026). *yacine-cheurfa-azazga/DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI v2.1 (Version 2.2)* [Logiciel informatique]. Zenodo. https://doi.org
@@ -43,9 +35,7 @@ Le pack visuel officiel **DHIKRA SOURCE AI** associe l'or baroque et le marbre n
 ## 📜 Gouvernance des Licences
 
 1. **Vitrine / Documentation générale :** Distribuée sous licence [CC BY-NC-ND 4.0](https://creativecommons.org).
-2. **Logos Officiels & Glossaire (Annexe A) :** Libres de partage sous licence [CC BY 4.0](https://creativecommons.org).
-
----
+2. **Logos Officiels & Glossaire (Annexe A) :** Libres de partage sous licence [CC BY 4.0](h
 
 ## 📬 Contact & Propriété
 
