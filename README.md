@@ -1,3 +1,101 @@
+# DHIKRA SOURCE aplication· Système Pinal · Vitrine
+
+*Protocole éthique d'IA hors ligne — Yassa Yacine Cheurfa, Azazga (Algérie), 2026*
+
+🇫🇷 Français · [🇬🇧 English below](#english)
+
+---
+
+## 🇫🇷 Français
+
+### Présentation
+DHIKRA SOURCE est un protocole éthique pour une IA qui fonctionne **sans Internet**, avec validation humaine et traçabilité des décisions. Le **Système Pinal** en est l'application. Cette page est une **vitrine** : la technologie sous-jacente n'est pas publiée.
+
+### Principes de conception
+- **Application silencieuse** : clavier de saisie, sans voix, sans son, sans musique.
+- **Photo vivante, mouvement limité par principe** : uniquement l'ouverture et la fermeture des yeux et un mouvement de bouche, le tout **doux**. Aucun autre mouvement.
+
+### L'ensemble revendiqué
+Le travail est l'ensemble de ces quatre éléments, chacun avec sa preuve datée :
+
+1. **Le système technique** : fonctionnement hors ligne, Respect-Check tricolore, mémoire DHIKRA, journal d'intégrité des décisions.
+2. **La philosophie** : une IA est forte non parce qu'elle sait tout, mais parce qu'elle refuse de faire le mal, même quand on le lui demande.
+3. **La charte d'accord** : la communauté décide ; tout usage sensible passe par son consentement.
+4. **La preuve d'antériorité** : horodatage, dépôts GitHub, vidéos et fichiers d'origine, avec leurs dates.
+
+### Matrice de consentement tricolore (Respect-Check)
+| Couleur | Sens |
+|---|---|
+| 🟢 Vert | Lecture et citation libres, avec attribution |
+| 🟠 Orange | Autorisation écrite préalable requise |
+| 🔴 Rouge | Interdit : reproduction, modification, usage commercial |
+
+> Le Système Pinal intègre une matrice de consentement tricolore (🟢 autorisé · 🟠 validation préalable · 🔴 interdit) directement dans une application d'IA hors ligne. Cette implémentation est une conception de Yassa Yacine Cheurfa, Azazga (Algérie), 2026. Toute reproduction ou réutilisation commerciale requiert son autorisation écrite préalable.
+
+### Positionnement
+Ce projet s'inscrit dans un courant existant de recherche et de pratique sur l'IA éthique, hors ligne et auditable. Son approche propre tient à l'intégration du feu tricolore dans l'application elle-même, à la gouvernance communautaire et à son lien avec des usages concrets (santé, savoir, environnement).
+
+### Preuve
+DOI Zenodo : [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692)
+
+### Licence
+- **Contenu de cette vitrine** : CC BY-NC-ND 4.0.
+- **Technologie sous-jacente** : propriétaire, non publiée.
+- **Noms réservés** : DHIKRA, ILM, SAHA, TAFSUT.
+- **Usage commercial ou déploiement** : accord écrit préalable obligatoire.
+
+### Contact
+dhikraemmortel@proton.me
+
+---
+
+## 🇬🇧 English <a name="english"></a>
+
+### Overview
+DHIKRA SOURCE is an ethical protocol for AI that runs **without Internet**, with human validation and decision traceability. **Système Pinal** is its application. This page is a **showcase**: the underlying technology is not published.
+
+### Design principles
+- **Silent application**: a typing keyboard, with no voice, no sound and no music.
+- **Living photo, motion limited by principle**: only the eyes opening and closing and a movement of the mouth, all of it **gentle**. No other movement.
+
+### What is claimed
+The work is the combination of these four elements, each with dated proof:
+
+1. **The technical system**: offline operation, three-colour Respect-Check, DHIKRA memory, decision integrity log.
+2. **The philosophy**: an AI is strong not because it knows everything, but because it refuses to do harm, even when asked.
+3. **The agreement charter**: the community decides; any sensitive use requires its consent.
+4. **Proof of prior art**: timestamps, GitHub repositories, videos and original files, with their dates.
+
+### Three-colour consent matrix (Respect-Check)
+| Colour | Meaning |
+|---|---|
+| 🟢 Green | Free reading and citation, with attribution |
+| 🟠 Amber | Prior written permission required |
+| 🔴 Red | Forbidden: reproduction, modification, commercial use |
+
+> Système Pinal builds a three-colour consent matrix (🟢 allowed · 🟠 prior validation · 🔴 forbidden) directly into an offline AI application. This implementation is a design by Yassa Yacine Cheurfa, Azazga (Algeria), 2026. Any reproduction or commercial reuse requires his prior written permission.
+
+### Positioning
+This project belongs to an existing line of research and practice on ethical, offline, auditable AI. Its own approach lies in building the traffic light into the application itself, in community governance, and in its link to concrete uses (health, knowledge, environment).
+
+### Proof
+Zenodo DOI: [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692)
+
+### License
+- **Showcase content**: CC BY-NC-ND 4.0.
+- **Underlying technology**: proprietary, unpublished.
+- **Reserved names**: DHIKRA, ILM, SAHA, TAFSUT.
+- **Commercial use or deployment**: prior written agreement required.
+
+### Contact
+dhikraemmortel@proton.me
+
+---
+
+© 2026 Yassa Yacine Cheurfa. Tous droits réservés · All rights reserved.
+
+
+
 <img width="1600" height="1600" alt="4312" src="https://github.com/user-attachments/assets/296cf37a-10b5-4179-9277-ff92e446d6eb" />
 
 <div align="center">
