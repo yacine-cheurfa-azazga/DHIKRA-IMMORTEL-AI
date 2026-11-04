@@ -4,9 +4,9 @@
 ### *Analyse Complète & Vitrine Publique — Version 2.2*
 
 [![DOI](https://zenodo.org)](https://doi.org)
-[![DOI Toutes Versions](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23671062-blue)](https://doi.org/10.5281/zenodo.23671062)
-[![Licence Vitrine](https://img.shields.io/badge/Licence-CC%20BY--NC--ND%204.0-orange)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Licence Logos/Glossaire](https://img.shields.io/badge/Logos%2FGlossaire-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI Toutes Versions](https://shields.io)](https://doi.org)
+[![Licence Vitrine](https://shields.io)](https://creativecommons.org)
+[![Licence Logos/Glossaire](https://shields.io)](https://creativecommons.org)
 
 </div>
 
@@ -36,14 +36,14 @@ Le pack visuel officiel **DHIKRA SOURCE AI** associe l'or baroque et le marbre n
 * **Type de ressource :** Logiciel informatique + Documentation + Logo
 
 ### 📚 Comment citer ce projet (Format APA)
-> Yassa Yacine Cheurfa. (2026). *yacine-cheurfa-azazga/DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI v2.2 (Version 2.2)* [Logiciel informatique]. Zenodo. https://doi.org/10.5281/zenodo.23671062
+> Yassa Yacine Cheurfa. (2026). *yacine-cheurfa-azazga/DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI v2.1 (Version 2.2)* [Logiciel informatique]. Zenodo. https://doi.org
 
 ---
 
 ## 📜 Gouvernance des Licences
 
-1. **Vitrine / Documentation générale :** Distribuée sous licence [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-2. **Logos Officiels & Glossaire (Annexe A) :** Libres de partage sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+1. **Vitrine / Documentation générale :** Distribuée sous licence [CC BY-NC-ND 4.0](https://creativecommons.org).
+2. **Logos Officiels & Glossaire (Annexe A) :** Libres de partage sous licence [CC BY 4.0](https://creativecommons.org).
 
 ---
 
@@ -51,6 +51,7 @@ Le pack visuel officiel **DHIKRA SOURCE AI** associe l'or baroque et le marbre n
 
 * **Propriétaire & Auteur :** © 2026 Yassa Yacine Cheurfa
 * **Email officiel :** `dhikraemmortel@proton.me`
+
 
 
 # Une intelligence artificielle qui refuse par construction
