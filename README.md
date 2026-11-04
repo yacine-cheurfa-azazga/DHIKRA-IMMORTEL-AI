@@ -276,3 +276,56 @@ QUAD SYSTEM AI propose une vision cohérente : une IA hors ligne, bornée par un
 ---
 
 *© 2026. Document d'analyse établi à partir de pièces fournies par l'auteur du projet. Les droits sur le projet analysé appartiennent à Yassa Yacine Cheurfa.*
+cff-version: 1.2.0
+message: "Si vous utilisez ce logiciel, merci de le citer comme ci-dessous."
+type: software
+title: "yacine-cheurfa-azazga/DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI v2.2"
+version: 2.2
+doi: 10.5281/zenodo.23944074
+identifiers:
+    - type: doi
+      value: 10.5281/zenodo.23944074
+      description: "DOI version V2.2 - Analyse TR-2026-QUAD-0018 + Pack Logo Or Baroque"
+    - type: doi
+      value: 10.5281/zenodo.23847692
+      description: "DOI version V2.1 - antériorité vitrine"
+    - type: doi
+      value: 10.5281/zenodo.23671062
+      description: "DOI concept - toutes versions (pointe toujours vers la plus récente)"
+abstract: "DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI - Architecture IA hors ligne dont le principe directeur est le refus du mal par construction. Filtre éthique Respect-Check à 3 états (VERT/ORANGE/ROUGE) intégrés DANS le I du logo, mémoire validée puis scellée (DHIKRA), protocole MICAE (Humain-Animal-Environnement), système CCSS (Contrôle, Certification et Scellage Sécurisé) et gouvernance par consentement communautaire via tablette ILM. Vitrine publique académique V2.2 avec analyse TR-2026-QUAD-0018 et pack logo Maison de Luxe (D Or baroque + Marbre Noir veiné Or)."
+authors:
+    - family-names: Cheurfa
+      given-names: Yassa Yacine
+      email: dhikraemmortel@proton.me
+      affiliation: "Azazga, Kabylie, Algérie"
+repository-code: "https://github.com/yacine-cheurfa-azazga/DHIKRA-IMMORTEL-AI"
+url: "https://doi.org/10.5281/zenodo.23944074"
+keywords:
+    - "IA éthique"
+    - "éthique par conception"
+    - "consentement communautaire"
+    - "IA hors ligne"
+    - "Respect-Check"
+    - "DHIKRA"
+    - "MICAE"
+    - "CCSS"
+    - "mémoire scellée"
+    - "souveraineté numérique"
+    - "QUAD SYSTEM AI"
+    - "D Or Baroque"
+    - "Marbre Noir Or"
+license: CC-BY-NC-ND-4.0
+license-url: https://creativecommons.org/licenses/by-nc-nd/4.0/
+contact:
+    - family-names: Cheurfa
+      given-names: Yassa Yacine
+      email: dhikraemmortel@proton.me
+references:
+    - type: report
+      title: "DHIKRA SOURCE AI - QUAD SYSTEM AI - Analyse v2.2"
+      authors:
+          - family-names: Cheurfa
+            given-names: Yassa Yacine
+      year: 2026
+      doi: 10.5281/zenodo.23944074
+      number: "TR-2026-QUAD-0018"
