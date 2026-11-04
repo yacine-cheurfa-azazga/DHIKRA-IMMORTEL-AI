@@ -18,7 +18,7 @@ Le pack visuel officiel **DHIKRA SOURCE AI** associe l'or baroque et le marbre n
 
 * **`DHIKRA-hero-1024.png`** : Sceau principal (Maison de Luxe)
 * **`DHIKRA-icon-512.png`** : Icône application mondiale
-# Contact dhikraemmortel@proton.me
+
 
 ## 📌 Nouveautés de la Version 2.2
 
