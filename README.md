@@ -1,3 +1,4 @@
+<img width="1600" height="1600" alt="4330" src="https://github.com/user-attachments/assets/53cf2a6d-0a27-4814-9d69-033f7064b41b" />
 <div align="center">
 
 # 🏛️ DHIKRA SOURCE AI — QUAD SYSTEM AI
