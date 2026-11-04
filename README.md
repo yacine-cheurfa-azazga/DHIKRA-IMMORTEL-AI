@@ -1,3 +1,57 @@
+<div align="center">
+
+# 🏛️ DHIKRA SOURCE AI — QUAD SYSTEM AI
+### *Analyse Complète & Vitrine Publique — Version 2.2*
+
+[![DOI](https://zenodo.org)](https://doi.org)
+[![DOI Toutes Versions](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23671062-blue)](https://doi.org/10.5281/zenodo.23671062)
+[![Licence Vitrine](https://img.shields.io/badge/Licence-CC%20BY--NC--ND%204.0-orange)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Licence Logos/Glossaire](https://img.shields.io/badge/Logos%2FGlossaire-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
+
+</div>
+
+---
+
+## 💎 Identité Visuelle & Sceau Maison de Luxe
+
+Le pack visuel officiel **DHIKRA SOURCE AI** associe l'or baroque et le marbre noir veiné d'or, intégrant les indicateurs d'état tricolores **🟢🟠🔴** directement au cœur du typogramme (dans le *I*).
+
+* **`DHIKRA-hero-1024.png`** : Sceau principal (Maison de Luxe)
+* **`DHIKRA-icon-512.png`** : Icône application mondiale
+
+---
+
+## 📌 Nouveautés de la Version 2.2
+
+* **Section 0 :** Distinction rigoureuse entre le **revendiqué** et le **non revendiqué**.
+* **Annexe A :** Glossaire technique et conceptuel complet.
+* **Vitrine Publique :** Présentation académique et institutionnelle (aucun code source QUAD inclus dans cette version vitrine).
+
+---
+
+## 📑 Références & Traçabilité (Zenodo)
+
+* **Dépôt d'antériorité V2.2 :** [10.5281/zenodo.23944074](https://doi.org)
+* **DOI Permanent (Toutes versions) :** `10.5281/zenodo.23671062`
+* **Type de ressource :** Logiciel informatique + Documentation + Logo
+
+### 📚 Comment citer ce projet (Format APA)
+> Yassa Yacine Cheurfa. (2026). *yacine-cheurfa-azazga/DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI v2.2 (Version 2.2)* [Logiciel informatique]. Zenodo. https://doi.org/10.5281/zenodo.23671062
+
+---
+
+## 📜 Gouvernance des Licences
+
+1. **Vitrine / Documentation générale :** Distribuée sous licence [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+2. **Logos Officiels & Glossaire (Annexe A) :** Libres de partage sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+## 📬 Contact & Propriété
+
+* **Propriétaire & Auteur :** © 2026 Yassa Yacine Cheurfa
+* **Email officiel :** `dhikraemmortel@proton.me`
+
 
 # Une intelligence artificielle qui refuse par construction
 
