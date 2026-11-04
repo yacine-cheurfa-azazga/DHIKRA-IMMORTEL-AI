@@ -1,494 +1,233 @@
-# DHIKRA SOURCE aplication· Système Pinal · Vitrine
 
-*Protocole éthique d'IA hors ligne — Yassa Yacine Cheurfa, Azazga (Algérie), 2026*
+# Une intelligence artificielle qui refuse par construction
 
-🇫🇷 Français · [🇬🇧 English below](#english)
+## Analyse philosophique, éthique et institutionnelle de l'écosystème DHIKRA SOURCE / QUAD SYSTEM AI
+
+**Version du document :** 2.2
+**Date :** 4 novembre 2026
+**Auteur du projet analysé :** Yassa Yacine Cheurfa, Azazga (Kabylie, Algérie)
+**Référence du projet :** TR-2026-QUAD-0018
+**Dépôt d'antériorité de la version 2.1 du projet :** DOI Zenodo 10.5281/zenodo.23847692
+**DOI « toutes versions » indiqué par l'auteur :** 10.5281/zenodo.23671062
+**DOI de la présente version 2.2 :** à renseigner après dépôt
+**Contact pour les licences :** dhikraemmortel@proton.me
+**Nature du document :** analyse critique à visée académique et professionnelle, établie à partir des pièces de présentation fournies (vitrine GitHub, synthèse publique, fiche TAFSUT AI). La technologie interne n'est pas publiée et n'a pas été examinée.
 
 ---
 
-## 🇫🇷 Français
+## 0. Déclaration écrite des principes et des revendications
 
-### Présentation
-DHIKRA SOURCE est un protocole éthique pour une IA qui fonctionne **sans Internet**, avec validation humaine et traçabilité des décisions. Le **Système Pinal** en est l'application. Cette page est une **vitrine** : la technologie sous-jacente n'est pas publiée.
+Cette section énonce, en termes explicites, ce que le projet affirme et ce qu'il n'affirme pas.
 
-### Principes de conception
-- **Application silencieuse** : clavier de saisie, sans voix, sans son, sans musique.
-- **Photo vivante, mouvement limité par principe** : uniquement l'ouverture et la fermeture des yeux et un mouvement de bouche, le tout **doux**. Aucun autre mouvement.
+### 0.1 Ce qui est revendiqué
 
-### L'ensemble revendiqué
-Le travail est l'ensemble de ces quatre éléments, chacun avec sa preuve datée :
+1. **Le système conçu** : une architecture d'IA fonctionnant hors ligne, dont un filtre éthique à trois états (le Respect-Check) précède toute action ou toute saisie.
+2. **La philosophie** : une IA ne doit pas faire de mal par construction, et non par une règle ajoutée.
+3. **La charte d'accord** : la communauté concernée décide ; tout usage sensible suppose son consentement.
+4. **L'implémentation** : l'intégration de la matrice tricolore (vert, orange, rouge) dans l'application elle-même, associée à une gouvernance communautaire et à un fonctionnement hors ligne.
+5. **La paternité** de cet ensemble par Yassa Yacine Cheurfa, avec les preuves datées associées (dépôt Zenodo, horodatages, dépôts GitHub, fichiers d'origine).
 
-1. **Le système technique** : fonctionnement hors ligne, Respect-Check tricolore, mémoire DHIKRA, journal d'intégrité des décisions.
-2. **La philosophie** : une IA est forte non parce qu'elle sait tout, mais parce qu'elle refuse de faire le mal, même quand on le lui demande.
-3. **La charte d'accord** : la communauté décide ; tout usage sensible passe par son consentement.
-4. **La preuve d'antériorité** : horodatage, dépôts GitHub, vidéos et fichiers d'origine, avec leurs dates.
+### 0.2 Ce qui n'est pas revendiqué
 
-### Matrice de consentement tricolore (Respect-Check)
-| Couleur | Sens |
+1. Le projet **ne revendique pas** d'être le premier au monde à utiliser trois couleurs pour encadrer l'IA : des systèmes de ce type existent déjà, notamment dans l'enseignement supérieur.
+2. Le projet **ne revendique pas** l'invention du drone de détection d'incendie, du réseau LoRa ni de l'IA embarquée, qui sont des technologies existantes.
+3. Un dépôt daté **ne prouve pas** l'unicité d'une idée ; il prouve l'existence d'un contenu à une date donnée.
+4. Aucune performance technique n'est garantie à ce stade.
+
+---
+
+## Résumé
+
+Le projet QUAD SYSTEM AI propose une architecture d'intelligence artificielle hors ligne dont le principe directeur est le refus du mal « par construction ». Il articule un filtre éthique à trois états, une mémoire validée puis scellée (DHIKRA), une gouvernance par consentement communautaire et un ensemble d'applications (mémoire, santé, savoir, environnement, alimentation). Cette analyse présente les fondements philosophiques du projet, décrit son architecture conceptuelle, le situe par rapport aux travaux existants et en examine les tensions. Elle conclut que la contribution la plus défendable est de nature **normative et institutionnelle** (gouvernance et consentement intégrés à l'application) plutôt que strictement technique, et que sa crédibilité dépend de la démonstration vérifiable de ses affirmations.
+
+**Mots-clés :** IA éthique, éthique par conception, consentement communautaire, IA hors ligne, traçabilité, mémoire numérique, souveraineté.
+
+---
+
+## 1. Introduction et problématique
+
+Les approches dominantes de l'éthique de l'IA procèdent souvent par ajout : un modèle est entraîné, puis encadré par des règles, des filtres ou des politiques d'usage. Le projet examiné revendique l'inverse : l'éthique serait la structure du système, et non une couche superposée.
+
+**Problématique :** comment concevoir un système d'IA dont la limite morale est inscrite dans l'architecture, dont les décisions sont traçables, et dont l'usage est soumis au consentement de la communauté concernée ?
+
+Cette question est technique (comment construire un filtre fiable ?), philosophique (qui définit le mal ?) et politique (qui décide, et au nom de qui ?).
+
+---
+
+## 2. Fondements philosophiques
+
+### 2.1 L'éthique par construction
+Une IA ne doit jamais faire de mal par construction, et non par une règle ajoutée. Cette position rejoint le courant de l'éthique *by design* : la contrainte précède la capacité. Sa difficulté est de distinguer ce qui constitue réellement une construction éthique d'une règle déguisée (voir section 8).
+
+### 2.2 La mémoire comme responsabilité
+Le terme DHIKRA, issu de l'arabe, renvoie à l'idée de remémoration. Le projet en tire un principe : une mémoire n'est reconnue vraie que si elle est **validée puis scellée** ; une fois scellée, toute modification devient visible. Cela pose une éthique de la trace : on ne falsifie pas le passé, on le consigne.
+
+### 2.3 Non-punition et choix de la vérité
+Le principe « pas de punition, juste la vérité à choisir » oriente le système vers l'information plutôt que la sanction. Il relève d'une éthique de l'autonomie : l'outil éclaire, la personne décide.
+
+### 2.4 Respect élargi
+Le protocole MICAE soumet la décision au triptyque **Humain, Animal, Environnement**. C'est une extension du périmètre moral habituel de l'IA, centré sur l'humain.
+
+### 2.5 Souveraineté et communauté
+Le fonctionnement hors ligne et le consentement du village inscrivent le projet dans une pensée de la souveraineté numérique locale : les données et les décisions restent dans la communauté concernée.
+
+---
+
+## 3. Architecture conceptuelle
+
+### 3.1 Flux général
+
+| Étape | Fonction |
 |---|---|
-| 🟢 Vert | Lecture et citation libres, avec attribution |
-| 🟠 Orange | Autorisation écrite préalable requise |
-| 🔴 Rouge | Interdit : reproduction, modification, usage commercial |
+| 1. Collecte éthique | Cinq sources (modules PENTA) alimentent un cerveau central |
+| 2. Canalisation | Filtrage par le feu tricolore et le Respect-Check |
+| 3. Sécurisation | Protocole MICAE et validation multi-agents hors ligne |
+| 4. Scellage | Consignation de la décision et de la mémoire validée |
 
-> Le Système Pinal intègre une matrice de consentement tricolore (🟢 autorisé · 🟠 validation préalable · 🔴 interdit) directement dans une application d'IA hors ligne. Cette implémentation est une conception de Yassa Yacine Cheurfa, Azazga (Algérie), 2026. Toute reproduction ou réutilisation commerciale requiert son autorisation écrite préalable.
+### 3.2 Le Respect-Check et la matrice tricolore
 
-### Positionnement
-Ce projet s'inscrit dans un courant existant de recherche et de pratique sur l'IA éthique, hors ligne et auditable. Son approche propre tient à l'intégration du feu tricolore dans l'application elle-même, à la gouvernance communautaire et à son lien avec des usages concrets (santé, savoir, environnement).
+| État | Effet sur le clavier | Effet sur le drone |
+|---|---|---|
+| VERT | Le clavier autorise | Transmission autorisée |
+| ORANGE | Le clavier exige une réécriture (formule rituelle répétée trois fois) | Réduction de vitesse ou validation contextuelle |
+| ROUGE | Le clavier bloque | Interruption immédiate |
 
-### Preuve
-DOI Zenodo : [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692)
+Principe énoncé : aucune génération n'a lieu sans Respect-Check validé.
 
-### Licence
-- **Contenu de cette vitrine** : CC BY-NC-ND 4.0.
-- **Technologie sous-jacente** : propriétaire, non publiée.
-- **Noms réservés** : DHIKRA, ILM, SAHA, TAFSUT.
-- **Usage commercial ou déploiement** : accord écrit préalable obligatoire.
+### 3.3 Modules
+- **Cinq modules PENTA :** mémoire, santé, savoir, environnement, alimentation.
+- **Trois modules exécutifs :** drone TAFSUT AI, protocole MICAE, DHIKRA SCELLÉE.
 
-### Contact
-dhikraemmortel@proton.me
+### 3.4 Un choix de retenue : la photo vivante
+Le module IMMORTEL AI limite l'animation d'une photographie aux yeux (clignement naturel) et à la bouche (mouvements /A/ et /M/, au moins 24 images par seconde), sans voix, sans son, sans musique, avec préservation de l'expression d'origine. Ce choix de **retenue** est éthiquement significatif : en excluant la synthèse vocale et les mouvements expressifs, il réduit les risques de falsification de l'identité et d'usurpation. C'est l'un des éléments les plus solides du projet sur le plan de la dignité des personnes représentées.
 
 ---
 
-## 🇬🇧 English <a name="english"></a>
+## 4. Gouvernance et consentement
 
-### Overview
-DHIKRA SOURCE is an ethical protocol for AI that runs **without Internet**, with human validation and decision traceability. **Système Pinal** is its application. This page is a **showcase**: the underlying technology is not published.
+La charte d'accord prévoit que la communauté décide : un usage sensible suppose son consentement, exprimé par le Conseil du village via la tablette locale. La matrice tricolore traduit ce principe : vert (autorisé), orange (validation du village), rouge (interdit). Un droit d'opposition avant scellage est prévu pour les traces individuelles.
 
-### Design principles
-- **Silent application**: a typing keyboard, with no voice, no sound and no music.
-- **Living photo, motion limited by principle**: only the eyes opening and closing and a movement of the mouth, all of it **gentle**. No other movement.
+Cette gouvernance est la **contribution la plus distinctive** du projet : elle déplace la question éthique de la machine vers l'institution qui l'encadre.
 
-### What is claimed
-The work is the combination of these four elements, each with dated proof:
+---
 
-1. **The technical system**: offline operation, three-colour Respect-Check, DHIKRA memory, decision integrity log.
-2. **The philosophy**: an AI is strong not because it knows everything, but because it refuses to do harm, even when asked.
-3. **The agreement charter**: the community decides; any sensitive use requires its consent.
-4. **Proof of prior art**: timestamps, GitHub repositories, videos and original files, with their dates.
+## 5. Écosystème
 
-### Three-colour consent matrix (Respect-Check)
-| Colour | Meaning |
+| Projet | Fonction |
 |---|---|
-| 🟢 Green | Free reading and citation, with attribution |
-| 🟠 Amber | Prior written permission required |
-| 🔴 Red | Forbidden: reproduction, modification, commercial use |
-
-> Système Pinal builds a three-colour consent matrix (🟢 allowed · 🟠 prior validation · 🔴 forbidden) directly into an offline AI application. This implementation is a design by Yassa Yacine Cheurfa, Azazga (Algeria), 2026. Any reproduction or commercial reuse requires his prior written permission.
-
-### Positioning
-This project belongs to an existing line of research and practice on ethical, offline, auditable AI. Its own approach lies in building the traffic light into the application itself, in community governance, and in its link to concrete uses (health, knowledge, environment).
-
-### Proof
-Zenodo DOI: [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692)
-
-### License
-- **Showcase content**: CC BY-NC-ND 4.0.
-- **Underlying technology**: proprietary, unpublished.
-- **Reserved names**: DHIKRA, ILM, SAHA, TAFSUT.
-- **Commercial use or deployment**: prior written agreement required.
-
-### Contact
-dhikraemmortel@proton.me
+| DHIKRA SOURCE | Protocole éthique, cœur du système |
+| IMMORTEL AI | Photo vivante, mémoire commémorative |
+| SAHA SCAN AI | Santé et analyse alimentaire |
+| ILM LIBERATION TABLET | Savoir libre, tablette hors ligne |
+| TAFSUT AI | Détection précoce d'incendie par drone |
+| TUDERT YIWEN | Protection de la vie (élevage) |
 
 ---
 
-© 2026 Yassa Yacine Cheurfa. Tous droits réservés · All rights reserved.
+## 6. Cadre juridique et propriété intellectuelle
 
+- **Technologie :** propriétaire et fermée ; aucun droit d'exploitation concédé par défaut.
+- **Vitrine :** texte et images sous licence CC BY-NC-ND 4.0, qui ne couvre pas la technologie.
+- **Autorisation écrite préalable** requise pour toute collaboration, licence d'exploitation ou utilisation dans un autre projet.
+- **Interdictions sans licence écrite :** modification du principe original, contrefaçon, exploitation commerciale, ingénierie inverse.
+- **Noms réservés :** QUAD SYSTEM AI, DHIKRA SOURCE, IMMORTEL AI, SAHA SCAN AI, ILM LIBERATION TABLET, TAFSUT AI, TUDERT YIWEN.
+- **Preuve d'antériorité :** un dépôt Zenodo fixe la **date de dépôt** d'un contenu. Il établit qu'un document existait à une date donnée ; il ne prouve ni l'unicité de l'idée ni, à lui seul, la paternité. La formule du projet (« la paternité est revendiquée, avec les preuves datées associées ») est prudente et à conserver.
 
-
-<img width="1600" height="1600" alt="4312" src="https://github.com/user-attachments/assets/296cf37a-10b5-4179-9277-ff92e446d6eb" />
-
-<div align="center">
-
-![DHIKRA SOURCE](./dhikra-source-TR-2026-QUAD-0018-square.png)
-
-# DHIKRA-IMMORTEL-AI
-
-### Une IA qui refuse de faire du mal.
-*An AI that refuses to do harm.*
-
-**QUAD SYSTEM AI v2.1 PENTA** · Réf. **TR-2026-QUAD-0018**
-
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23847692-blue)](https://doi.org/10.5281/zenodo.23847692)
-![Licence](https://img.shields.io/badge/Licence-propri%C3%A9taire-red)
-![Vitrine](https://img.shields.io/badge/Vitrine-CC%20BY--NC--ND%204.0-lightgrey)
-
-</div>
+*Cette section décrit les choix du projet ; elle ne constitue pas un avis juridique. Un conseil spécialisé en propriété intellectuelle est recommandé avant toute exploitation.*
 
 ---
 
-## 👤 Auteur et titulaire des droits
+## 7. Positionnement dans l'état de l'art
 
-**Yassa Yacine Cheurfa** — Azazga, Algérie
+L'originalité absolue du concept ne peut pas être affirmée. Existent déjà :
 
-| | |
+- des **systèmes à trois couleurs** pour encadrer l'usage de l'IA, notamment dans l'enseignement supérieur (règles appliquées par des humains) ;
+- des **protocoles d'IA éthique** fondés sur la validation humaine, le refus structurel ou des journaux d'audit résistants à la falsification ;
+- des **drones de détection d'incendie** avec caméra thermique et IA embarquée, et des **réseaux de capteurs LoRa** communautaires.
+
+*Ces références sont indicatives ; chaque source doit être retrouvée et vérifiée avant citation formelle.*
+
+**Formulation recommandée de la contribution :** « une implémentation originale qui intègre le feu tricolore dans l'application elle-même, associée à une gouvernance communautaire et à un fonctionnement hors ligne ».
+
+---
+
+## 8. Tensions, limites et questions ouvertes
+
+### 8.1 Qui définit le mal ?
+Le principe « refuser le mal » suppose une définition : quels critères, issus de quelle tradition, appliqués par qui ? Une **taxonomie explicite** de ce qui est vert, orange et rouge, avec justification, est nécessaire.
+
+### 8.2 Contrôle de l'utilisateur et autonomie
+La formule « ce n'est pas l'humain qui contrôle le clavier, c'est le Respect-Check » entre en tension avec le principe « l'IA ne décide pas seule ». Cette tension entre **protection** et **autonomie** doit être assumée et argumentée.
+
+### 8.3 Une mémoire qui ne se supprime jamais
+Une mémoire non supprimable s'oppose au **droit à l'effacement** reconnu par de nombreux régimes de protection des données. Le droit d'opposition avant scellage est une nuance ; le sort d'une mémoire scellée dont la personne ou ses proches demanderaient le retrait reste à préciser.
+
+### 8.4 Représentation de personnes disparues
+L'usage commémoratif d'une photo animée soulève la question du **consentement de la personne représentée** et de la place des proches. Un protocole explicite de consentement des ayants droit renforcerait la retenue déjà présente dans le dispositif.
+
+### 8.5 Universalité des formules
+Dans la version clavier, l'état orange exige une formule religieuse. Ce choix donne une identité culturelle forte, mais pose la question de son **universalité** hors du contexte d'origine. Une variante neutre peut être envisagée.
+
+### 8.6 Exactitude des affirmations techniques
+- « Air-gapped » et « 100 % hors ligne » sont vérifiables mais exigent une architecture matérielle précisée.
+- « Registre infalsifiable » et « preuve légale totale » sont trop forts : un journal à **intégrité vérifiable** par empreintes est plus exact.
+- Le floutage automatique des visages et plaques ne peut pas être garanti à 100 %.
+- Les spécifications matérielles du drone (dimensions, autonomie, énergie solaire, charge utile) doivent être mises en cohérence physique avant toute communication officielle.
+- L'exécution locale de modèles de langage suppose un matériel adapté, à préciser.
+- Le fonctionnement d'un drone est soumis à des **autorisations de vol** et à des règles de responsabilité.
+
+### 8.7 Cohérence terminologique
+Le terme « feu tricolore pénal » et le principe de « non-punition » gagneraient à être réconciliés. Un glossaire stabilise le vocabulaire.
+
+---
+
+## 9. Recommandations
+
+1. Une **démonstration vérifiable** : vidéo datée de l'application montrant les trois états du Respect-Check.
+2. Une **taxonomie publique** des catégories vert, orange et rouge.
+3. Un **glossaire** des termes.
+4. Un **protocole de consentement** pour la mémoire commémorative et pour les villages.
+5. Une **spécification technique minimale** cohérente, sans divulguer les secrets de fabrication.
+6. Une **revue des affirmations** pour remplacer les formules absolues par des formulations mesurées.
+7. Une **relecture externe** par un chercheur en éthique de l'IA ou en droit du numérique.
+
+---
+
+## 10. Conclusion
+
+QUAD SYSTEM AI propose une vision cohérente : une IA hors ligne, bornée par un filtre éthique intégré, adossée à une mémoire scellée et à un consentement communautaire. Sa valeur principale n'est pas d'avoir inventé les briques, qui existent ailleurs, mais de les **assembler autour d'une gouvernance locale et d'une philosophie du refus**, ancrées dans un contexte culturel précis. Pour devenir une contribution reconnue, le projet doit démontrer ses affirmations, expliciter ses critères moraux et assumer ses tensions. La retenue exprimée par certains choix (silence, mouvements limités, scellage) en est déjà l'un des meilleurs gages.
+
+---
+
+## Références indicatives (à vérifier avant citation)
+
+- Documents du projet : vitrine GitHub *DHIKRA-IMMORTEL-AI*, synthèse publique *QUAD SYSTEM AI v2.1 PENTA*, fiche *TAFSUT AI*.
+- Dépôt Zenodo, DOI 10.5281/zenodo.23847692 (version 2.1).
+- Systèmes à feux tricolores pour l'usage de l'IA dans l'enseignement supérieur (par exemple, University College Dublin).
+- Protocoles de gouvernance de l'IA fondés sur la validation humaine et l'audit (par exemple, EGAP, JEP de la fondation HJS).
+- Détection d'incendie par drone et IA embarquée (par exemple, Robotto) ; réseaux LoRa communautaires.
+
+---
+
+## Annexe A : glossaire provisoire
+
+| Terme | Définition retenue dans le projet |
 |---|---|
-| 📬 Contact (licences) | dhikraemmortel@proton.me |
-| 🔖 Référence | TR-2026-QUAD-0018 |
-| 🗄️ Dépôt d'antériorité (Zenodo, hébergé par le CERN) | [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692) (v2.1) · [10.5281/zenodo.23671062](https://doi.org/10.5281/zenodo.23671062) (toutes versions) |
+| DHIKRA | Principe de mémoire validée puis scellée |
+| Respect-Check | Filtre éthique à trois états contrôlant ce qui peut passer |
+| Feu tricolore | Matrice vert, orange, rouge du Respect-Check |
+| MICAE | Protocole de validation Humain-Animal-Environnement |
+| PENTA | Cinq modules : mémoire, santé, savoir, environnement, alimentation |
+| Scellage | Consignation rendant toute modification visible |
+| ILM | Tablette locale de savoir et de supervision |
 
-> *Memoria quae numquam moritur. Semper immortalis manet in linea.*
-> Le souvenir qui ne meurt jamais. Il reste toujours immortel en ligne.
+## Annexe B : modifications de la version 2.2
 
----
-
-## 💡 Concept
-
-**DHIKRA SOURCE** est le cœur éthique du **QUAD SYSTEM AI** : un protocole éthique dans lequel l'IA ne décide pas seule. Le **Respect-Check** contrôle ce qui peut être écrit, et la mémoire **IMMORTEL** est scellée une fois validée.
-
-### 🖼️ Conception officielle IMMORTEL AI
-
-Photo vivante : **yeux et bouche uniquement**. Pas de son, pas de voix, pas de musique.
-
-- **Yeux** : clignement naturel uniquement
-- **Bouche** : /A/ /M/, 24 images par seconde minimum
-- **Cadre** : en Or
-- **Fond d'écran** : Marbre Noir + Or
-- **Expression d'origine** préservée
+- Ajout de la section 0 : déclaration écrite de ce qui est revendiqué et de ce qui ne l'est pas.
+- Précisions sur le Respect-Check (clavier et drone) et sur la photo vivante.
+- Ajout du DOI « toutes versions » et d'un emplacement pour le DOI de la version 2.2.
+- Mise en forme sans emojis, pour un rendu noir sur blanc.
 
 ---
 
-## 🏗️ Architecture
-
-![Schéma QUAD PENTA](./schema-architecture-quad-penta-v2.png)
-
-**QUAD SYSTEM AI PENTA : un cerveau hors ligne.** Déconnecté, validation multi-agents, aucun cloud.
-
-### Système de canalisation AI nouvelles générations
-
-**Flux :** Collecte → Canalisation → Sécurisation → Scellage
-
-| Étape | Rôle |
-|---|---|
-| **1. Collecte éthique** | 5 sources PENTA → cerveau central |
-| **2. Canalisation** | Feu Tricolore 🟢🟠🔴 + Respect-Check QWERTY. Le canal refuse le mal. |
-| **3. Sécurisation** | Protocole MICAE + multi-agents hors ligne |
-| **4. Scellage** | DHIKRA SCELLÉE + DRONE TAFSUT AI. Mémoire vraie scellée, immortelle. |
-
-**Différence :** les IA classiques canalisent pour la consommation. QUAD PENTA canalise pour la conception éthique. Le canal n'est pas un tuyau, c'est un filtre qui protège.
-
-### Les 5 modules PENTA
-
-**MÉMOIRE** · **SANTÉ** · **SAVOIR** · **ENVIRONNEMENT** · **ALIMENTATION**
-
-### Les 3 modules exécutifs
-
-**DRONE TAFSUT AI** · **PROTOCOLE MICAE** · **DHIKRA SCELLÉE**
-
----
-
-## ⌨️ Respect-Check QWERTY
-
-> Ce n'est pas l'humain qui contrôle le clavier. C'est le Respect-Check qui contrôle ce qui peut être tapé.
-
-| Feu tricolore pénal | Effet sur le clavier |
-|---|---|
-| 🟢 **VERT** | Le clavier autorise |
-| 🟠 **ORANGE** | Le clavier exige une réécriture (3 × « Allah Yarhamha ») |
-| 🔴 **ROUGE** | Le clavier bloque définitivement |
-
-- Le clavier QWERTY est contrôlé par le Respect.
-- Respect Humain-Animal-Environnement validé par le Protocole MICAE.
-- Aucune génération sans Respect-Check validé.
-
----
-
-## 🧭 Philosophie et principes essentiels
-
-- Une IA ne doit jamais faire du mal **par construction**, pas par règle ajoutée.
-- La mémoire vraie ne se supprime jamais, elle se **scelle**.
-- *Pas de punition. Juste la vérité à choisir.* (SAHA SCAN AI)
-- Le savoir doit être libre et hors ligne pour libérer l'humain. (ILM LIBERATION TABLET)
-- *Une vie, une seule vie à protéger.* (TUDERT YIWEN)
-
-| Principe | Énoncé |
-|---|---|
-| **Principe éthique** | IA qui refuse le mal |
-| **Règle d'Or** | Une mémoire n'est reconnue vraie que si elle est validée puis scellée. Une fois scellée, toute modification est visible. |
-| **Mémoire IMMORTEL** | Jamais supprimée |
-
----
-
-## 🌐 Écosystème complet
-
-| Projet | Description |
-|---|---|
-| **DHIKRA SOURCE** | Protocole éthique, réf. TR-2026-QUAD-0018 |
-| **IMMORTEL AI** | Photo vivante Or & Noir, /A/ /M/ |
-| **SAHA SCAN AI** | Pas de punition. Juste la vérité à choisir. |
-| **ILM LIBERATION TABLET** | Tablette applicative unique, IA 100 % hors ligne, savoir libre |
-| **TAFSUT AI** | Renaissance, corps volant autonome |
-| **TUDERT YIWEN** | Une vie, principe vital |
-
----
-
-## 📜 Licence TR-2026-QUAD-0018
-
-### Article 1 — Nature juridique : technologie fermée
-
-La technologie **QUAD SYSTEM AI** et son écosystème sont une œuvre de l'esprit **propriétaire et fermée**.
-
-- Le code est fermé. Ce dépôt public sert de **preuve d'antériorité** et de **consultation** uniquement.
-- Aucun droit d'exploitation n'est concédé par défaut.
-- Le **texte et les images** de cette vitrine sont partagés sous licence **CC BY-NC-ND 4.0** : attribution obligatoire, pas d'usage commercial, pas de modification. Ils peuvent être repartagés **tels quels**, avec attribution et lien vers ce dépôt.
-- Cette licence **ne couvre pas la technologie**, qui reste fermée.
-
-### Article 2 — Droits accordés 🟢
-
-Sans autorisation, il est seulement permis de :
-
-- lire et consulter cette vitrine à titre informatif et académique ;
-- partager le lien du dépôt, ou le texte et les images sans modification, avec attribution ;
-- citer le projet avec attribution explicite et lien DOI.
-
-### Article 3 — Autorisation préalable 🟠
-
-Une **autorisation écrite, signée par l'auteur**, est obligatoire pour :
-
-- toute collaboration ;
-- toute licence d'exploitation, commerciale ou non ;
-- toute utilisation dans un autre projet.
-
-### Article 4 — Interdictions formelles 🔴
-
-Sans licence écrite, il est **strictement interdit** de :
-
-- modifier le principe philosophique et éthique original ;
-- contrefaire, copier, cloner ou créer une œuvre dérivée ;
-- exploiter commercialement, directement ou indirectement ;
-- procéder à l'ingénierie inverse ou à la décompilation.
-
-### Article 5 — Sanction
-
-Toute tentative de contrefaçon, de modification du principe original, ou de violation des articles 3 et 4 pourra faire l'objet de poursuites devant le tribunal compétent.
-
-Le dépôt Zenodo fixe la date de dépôt de l'œuvre ; la paternité est revendiquée par l'auteur, avec les preuves datées associées. Les infractions seront poursuivies sous la législation algérienne relative à la propriété intellectuelle et littéraire.
-
-**Noms et marques réservés :** QUAD SYSTEM AI, DHIKRA SOURCE, IMMORTEL AI, SAHA SCAN AI, ILM LIBERATION TABLET, TAFSUT AI, TUDERT YIWEN.
-
----
-
-## 🇬🇧 License summary (English)
-
-| | |
-|---|---|
-| 🟢 **GREEN** | Read, share unmodified, cite with explicit attribution. |
-| 🟠 **ORANGE** | Written permission required for any collaboration or license. |
-| 🔴 **RED** | Strictly prohibited: modification, commercial use without a license, reverse engineering. |
-
-The technology is **closed and proprietary**. This repository is a showcase and a proof of prior art. Text and images are shared under **CC BY-NC-ND 4.0**, which does not cover the technology.
-
----
-
-## 📚 Ressources et citation
-
-- 📄 Livre blanc : [`docs/QUAD-SYSTEM-AI-v2.1-WhitePaper.pdf`](./docs/QUAD-SYSTEM-AI-v2.1-WhitePaper.pdf)
-- 🔗 Citation officielle : <https://doi.org/10.5281/zenodo.23847692>
-- 📬 Contact : dhikraemmortel@proton.me
-
----
-
-<div align="center">
-
-**© 2026 Yassa Yacine Cheurfa — Tous droits réservés sur la technologie**
-Azazga, Algérie · Réf. TR-2026-QUAD-0018
-
-</div>
-<img width="1920" height="1280" alt="3890" src="https://github.com/user-attachments/assets/f30d53be-8fce-43a7-a32e-71f3fabf8a47" />
-<img width="1920" height="1280" alt="4073" src="https://github.com/user-attachments/assets/eba896b6-1fc1-4453-9444-7ac9df0d5676" />
-<img width="720" height="1640" alt="4252" src="https://github.com/user-attachments/assets/b573c152-f877-4dd8-ba6a-8e426277d755" />
-
-# QUAD SYSTEM AI v2.1 PENTA — Synthèse publique
-
-**Réf. TR-2026-QUAD-0018** · Auteur : **Yassa Yacine Cheurfa**, Azazga, Algérie
-**DOI :** [10.5281/zenodo.23847692](https://doi.org/10.5281/zenodo.23847692) · **Contact licences :** dhikraemmortel@proton.me
-
-> *Memoria quae numquam moritur.*
-> Pas de punition. Juste la vérité à choisir.
-
----
-
-## 💡 L'idée en bref
-
-**QUAD SYSTEM AI** est une intelligence artificielle conçue pour fonctionner **hors ligne** et pour **refuser de faire du mal par construction**, et non par une règle ajoutée après coup.
-
-Son principe : l'IA ne décide pas seule. Un filtre éthique, le **Respect-Check**, contrôle ce qui peut passer, selon trois niveaux :
-
-| Feu | Signification |
-|---|---|
-| 🟢 **VERT** | Autorisé |
-| 🟠 **ORANGE** | Ambigu : réévaluation exigée |
-| 🔴 **ROUGE** | Bloqué |
-
-Une mémoire n'est reconnue vraie que lorsqu'elle est **validée puis scellée**. Une fois scellée, toute modification est visible.
-
-## 🧩 Les modules
-
-- **5 modules PENTA :** Mémoire · Santé · Savoir · Environnement · Alimentation
-- **3 modules exécutifs :** Drone TAFSUT AI · Protocole MICAE · DHIKRA SCELLÉE
-- **Respect :** Humain, Animal, Environnement
-
-## 🌐 Écosystème
-
-DHIKRA SOURCE · IMMORTEL AI · SAHA SCAN AI · ILM LIBERATION TABLET · TAFSUT AI · TUDERT YIWEN
-
----
-
-## 🔒 Ce qui n'est pas publié
-
-Les **plans techniques, schémas de conception et dossier détaillé** de la technologie sont **privés et fermés**. Cette synthèse présente l'idée et la philosophie, pas le fonctionnement interne. La date d'existence du dossier détaillé est établie par dépôt et horodatage, sans divulgation de son contenu.
-
----
-
-# 📜 LICENCE PROFESSIONNELLE PROPRIÉTAIRE
-
-**TR-2026-QUAD-0018 · © 2026 Yassa Yacine Cheurfa · Tous droits réservés sur la technologie**
-
-### 1. Nature
-La technologie QUAD SYSTEM AI et son écosystème sont une œuvre de l'esprit **propriétaire et fermée**. Aucun droit d'exploitation n'est concédé par défaut.
-
-### 2. Cette vitrine
-Le **texte et les images** de cette vitrine sont partagés sous licence **CC BY-NC-ND 4.0** : attribution obligatoire, pas d'usage commercial, pas de modification. Cette licence **ne couvre pas la technologie**.
-
-### 🟢 3. Permis sans autorisation
-- Lire et consulter, à titre informatif et académique.
-- Partager le lien du dépôt, ou le texte et les images **sans modification**, avec attribution.
-- Citer le projet avec attribution explicite et lien DOI.
-
-### 🟠 4. Autorisation écrite obligatoire
-Une autorisation **écrite et signée par l'auteur** est requise pour :
-- toute collaboration ;
-- toute licence d'exploitation, commerciale ou non ;
-- toute utilisation dans un autre projet.
-
-### 🔴 5. Interdit sans licence écrite
-- Modifier le principe philosophique et éthique original.
-- Contrefaire, copier, cloner ou créer une œuvre dérivée.
-- Exploiter commercialement, directement ou indirectement.
-- Procéder à l'ingénierie inverse ou à la décompilation.
-
-### 6. Sanction
-Toute violation des articles 4 et 5 pourra faire l'objet de poursuites devant le tribunal compétent, sous la législation algérienne relative à la propriété intellectuelle et littéraire. Le dépôt Zenodo fixe la date de dépôt ; la paternité est revendiquée par l'auteur, avec les preuves datées associées.
-
-### 7. Noms et marques réservés
-QUAD SYSTEM AI, DHIKRA SOURCE, IMMORTEL AI, SAHA SCAN AI, ILM LIBERATION TABLET, TAFSUT AI, TUDERT YIWEN.
-
-### 8. Demande de licence
-Écrire à **dhikraemmortel@proton.me** en indiquant : votre nom, votre organisation, l'usage prévu et la durée souhaitée. Aucune utilisation n'est autorisée avant réponse écrite de l'auteur.
-
----
-
-## 🇬🇧 License summary
-
-🟢 **GREEN:** read, share unmodified, cite with explicit attribution.
-🟠 **ORANGE:** written permission required for any collaboration or license.
-🔴 **RED:** strictly prohibited: modification, copying or cloning, commercial use without a license, reverse engineering.
-
-The technology is **closed and proprietary**. Text and images of this showcase are shared under **CC BY-NC-ND 4.0**, which does not cover the technology.
-
----
-
-**© 2026 Yassa Yacine Cheurfa** · Azazga, Algérie · Réf. TR-2026-QUAD-0018 · dhikraemmortel@proton.me
-# TAFSUT AI / QUAD SYSTEM — Architecture & Executive Summary
-
-## 1. Architecture Technique : Le Pipeline MICAE (Du capteur à l'action)
-
-### Perception & Traitement Local (YOLO + Ollama)
-* **Air-gapped et embarqué**
-* Le flux vidéo et télémétrique est analysé en temps réel par **YOLO** pour détecter les entités (humains, obstacles, faune). **Ollama** traite localement le contexte sémantique pour catégoriser la situation et émettre une intention opérationnelle.
-
-### Filtre Pré-Exécution (Respect-Check)
-* **Matrice de décision tricolore**
-* Avant tout ordre au drone, le signal traverse une matrice rigoureuse :
-  * **Rouge :** Interruption instantanée (violation de zone sensible ou présence humaine critique).
-  * **Orange :** Réduction de vitesse / demande de validation contextuelle.
-  * **Vert :** Transmission autorisée vers la couche de consensus.
-
-### Protocole MICAE & La Dhikra Scellée
-* **Traçabilité cryptographique locale**
-* La décision validée est confrontée au triptyque **Homme + Animal + Environnement**. Une fois le consensus atteint, l'événement est cryptographiquement scellé (**La Dhikra**) dans un registre immuable stocké à bord, garantissant un audit infalsifiable.
-
-### Transmission au Contrôleur PX4
-* **Exécution de vol contrôlée**
-* L'ordre final, accompagné de son sceau éthique, est transmis au firmware de vol **PX4** pour piloter les actionneurs du drone en toute sécurité.
-
----
-
-## 2. Fiche de Présentation Officielle (Executive Summary)
-
-> **Projet :** TAFSUT AI / QUAD SYSTEM  
-> **Secteur :** Robotique Autonome & Sécurité Éthique Embarquée  
-> **Vision :** Réconcilier haute performance opérationnelle et souveraineté éthique absolue grâce à l'IA embarquée air-gapped.
-
-### Le Problème
-Les systèmes de drones autonomes actuels reposent sur une connectivité cloud constante (vulnérable au piratage, aux coupures réseau et aux fuites de données) et manquent de garde-fous éthiques temps réel, exposant les opérateurs à des risques juridiques et opérationnels majeurs.
-
-### La Solution : TAFSUT AI & Le Protocole MICAE
-TAFSUT AI propose un système de pilotage autonome **100 % embarqué (Edge AI)** combinant des modèles de vision (YOLO) et de traitement sémantique (Ollama) fonctionnant hors ligne. Grâce au filtre pré-exécution et au protocole de traçabilité immuable **La Dhikra**, chaque décision critique est validée éthiquement et consignée de manière infalsifiable.
-
-### Avantages Clés & Proposition de Valeur
-* **Souveraineté & Sécurité :** Architecture air-gapped zéro dépendance cloud, éliminant les risques de cyberattaques distantes.
-* **Conformité & Preuve Légale :** Le registre *La Dhikra* offre une traçabilité juridique totale pour chaque décision prise en vol.
-* **Acceptabilité Sociétale :** L'éthique n'est plus un frein, mais le standard de performance qui prévient les accidents et garantit l'acceptation par les régulateurs et le grand public.
-
-# moudoule n°4 Quad système AI 
-
-# TAFSUT AI 🌲🤖
-
-> **Système autonome et souverain de détection précoce des incendies de forêt par drone.**
-
----
-
-## 📋 Fiche d'Identité du Projet
-
-* **Nom du projet :** TAFSUT AI
-* **Porteur de projet :** Yassa Yacine Cheurfa
-* **Localisation :** Azazga, Kabylie, Algérie
-* **Année de création :** 2026
-* **Statut actuel :** Concept et prototype en cours de développement *(performances non garanties à ce stade)*
-
----
-
-## 🛠️ Prestations & Fonctionnalités Clés
-
-Le système TAFSUT AI repose sur quatre piliers fonctionnels majeurs, pensés pour la sécurité des zones forestières et agricoles :
-
-* 🔥 **Détection thermique d'incendie :** Surveillance aérienne par quadricoptère pour identifier les départs de feu de manière précoce.
-* 💻 **Supervision locale (ILM) :** Pilotage et retour d'information centralisés sur une tablette locale dédiée (*Interface Locale de Mission*), éliminant toute dépendance au cloud.
-* 📡 **Réseau mesh villageois :** Système de relais des alertes entre les villages via des technologies longue portée et basse consommation (LoRa / Wi-Fi local fermé).
-* 📜 **Journal de vol à intégrité vérifiable :** Dispositif garantissant la traçabilité et l'inviolabilité des données de mission (composant *DHIKRA*).
-
----
-
-## 🛡️ Charte Éthique & Souveraineté
-
-L'originalité profonde de TAFSUT AI ne réside pas seulement dans ses technologies, mais dans leur combinaison logicielle et philosophique :
-
-1. **100 % Hors ligne :** Une immunité totale face aux pannes d'Internet ou aux cyberattaques externes.
-2. **Respect de la vie privée :** Algorithmes embarqués de floutage automatisé des visages et des plaques d'immatriculation.
-3. **Surveillance consentie :** Le déploiement s'effectue en accord direct et transparent avec les communautés villageoises.
-
----
-
-## ⚖️ Propriété Intellectuelle & Licence
-
-* **Contenu de la vitrine :** Protégé sous licence [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) *(Partage autorisé avec attribution, usage strictement non commercial, aucune modification autorisée)*.
-* **Technologie sous-jacente :** Propriétaire et non publiée. Les appellations commerciales `TAFSUT`, `ILM`, `DHIKRA` et `SAHA` sont des marques réservées.
-* **Commercialisation :** Tout déploiement ou usage commercial requiert un accord écrit préalable obligatoire.
-
----
-
-## ✉️ Contact
-
-Pour toute demande de partenariat, d'information ou d'autorisation de déploiement :
-
- **Contact officiel :
- # dhikraemmortel@proton.me 
-
-
-
-  
-
----
-
-© 2026 Yassa Yacine Cheurfa. Tous droits réservés.
+*© 2026. Document d'analyse établi à partir de pièces fournies par l'auteur du projet. Les droits sur le projet analysé appartiennent à Yassa Yacine Cheurfa.*
