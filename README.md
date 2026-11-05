@@ -273,6 +273,25 @@ Voir le fichier [`CITATION.cff`](CITATION.cff), ou (format APA) :
 *Fait à Azazga, le 05 novembre 2026. Signé électroniquement : Yassa Yacine Cheurfa.*
 
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>DHIKRA-IMMORTEL-AI</title>
+</head>
+<body>
+    <h1>DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI</h1>
+    <p>Vitrine logicielle officielle.</p>
+    
+    <h2>13. Comment citer</h2>
+    <p>Voir le fichier <code>CITATION.cff</code>, ou (format APA) :</p>
+    <p>Cheurfa, Y. Y. (2026). <em>DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI</em> (version 2.3) [Vitrine logicielle]. Zenodo. <a href="https://doi.org/10.5281/zenodo.23964487">https://doi.org/10.5281/zenodo.23964487</a></p>
+
+    <h2>14. Contact</h2>
+    <p>Email : <a href="mailto:dhikraemmortel@proton.me">dhikraemmortel@proton.me</a></p>
+    <p>Fait à Azazga, le 05 novembre 2026. Signé électroniquement : Yassa Yacine Cheurfa.</p>
+</body>
+</html>
 
 
 
