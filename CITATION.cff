@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail, merci de le citer comme ci-dessous."
+type: software
+title: "DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI"
+version: "2.3"
+date-released: "2026-11-05"
+doi: 10.5281/zenodo.23964487
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23964487
+    description: "DOI version V2.3 - vitrine réorganisée"
+  - type: doi
+    value: 10.5281/zenodo.23944074
+    description: "DOI version V2.2 - Analyse TR-2026-QUAD-0018 + pack logo Or Baroque"
+  - type: doi
+    value: 10.5281/zenodo.23847692
+    description: "DOI version V2.1 - antériorité de la vitrine"
+  - type: doi
+    value: 10.5281/zenodo.23671062
+    description: "DOI concept - toutes versions"
+abstract: "QUAD SYSTEM AI : architecture d'IA hors ligne dont le principe directeur est le refus du mal par construction. Filtre éthique Respect-Check à 3 états (vert, orange, rouge) intégré dans la lettre I du logo, mémoire validée puis scellée (DHIKRA), protocole MICAE (Humain-Animal-Environnement), système CCSS et gouvernance par consentement communautaire via la tablette ILM. Vitrine publique académique, sans code source."
+authors:
+  - family-names: Cheurfa
+    given-names: Yassa Yacine
+    email: dhikraemmortel@proton.me
+    affiliation: "Chercheur indépendant, Azazga, Kabylie, Algérie"
+    orcid: "https://orcid.org/0009-0005-1982-7176"
+repository-code: "https://github.com/yacine-cheurfa-azazga/DHIKRA-IMMORTEL-AI"
+url: "https://doi.org/10.5281/zenodo.23964487"
+license: CC-BY-NC-ND-4.0
+keywords:
+  - IA éthique
+  - éthique par conception
+  - consentement communautaire
+  - IA hors ligne
+  - Respect-Check
+  - DHIKRA
+  - MICAE
+  - CCSS
+  - mémoire scellée
+  - souveraineté numérique
+  - QUAD SYSTEM AI
+references:
+  - type: report
+    title: "DHIKRA SOURCE AI - QUAD SYSTEM AI - Analyse"
+    authors:
+      - family-names: Cheurfa
+        given-names: Yassa Yacine
+    year: 2026
+    number: "TR-2026-QUAD-0018"
