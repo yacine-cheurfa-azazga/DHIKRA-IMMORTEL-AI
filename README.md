@@ -269,3 +269,116 @@ Voir le fichier [`CITATION.cff`](CITATION.cff), ou (format APA) :
 **Courriel officiel (licences et collaborations) :** [dhikraemmortel@proton.me](mailto:dhikraemmortel@proton.me)
 
 *Fait à Azazga, le 05 novembre 2026. Signé électroniquement : Yassa Yacine Cheurfa.*
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DHIKRA-IMMORTEL-AI — QUAD SYSTEM AI</title>
+    <style>
+        body {
+            background-color: #0A0A0A;
+            color: #E0E0E0;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        header, section {
+            max-width: 900px;
+            margin: 0 auto 40px auto;
+            padding: 20px;
+            background: #141414;
+            border: 1px solid #D4AF37;
+            border-radius: 8px;
+        }
+        h1, h2, h3 {
+            color: #D4AF37;
+        }
+        .badge-green { color: #2ecc71; font-weight: bold; }
+        .badge-orange { color: #e67e22; font-weight: bold; }
+        .badge-red { color: #e74c3c; font-weight: bold; }
+        a { color: #D4AF37; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        th, td {
+            border: 1px solid #333;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #1f1f1f;
+            color: #D4AF37;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>DHIKRA-IMMORTEL-AI</h1>
+        <p><strong>IA DU SYSTÈME QUAD</strong></p>
+        <p><em>Architecture d'IA souveraine hors ligne, avec filtre éthique Respect-Check et mémoire scellée. Vitrine publique académique — Version 2.3 — Sans code source</em></p>
+        <p><strong>Auteur :</strong> Yassa Yacine Cheurfa | Chercheur indépendant, Azazga, Kabylie, Algérie</p>
+        <p><a href="https://doi.org/10.5281/zenodo.23964487" target="_blank">DOI V2.3</a> | <a href="https://doi.org/10.5281/zenodo.23671062" target="_blank">DOI toutes versions</a></p>
+    </header>
+
+    <section>
+        <h2>Principe directeur</h2>
+        <blockquote>« Le système refuse le mal par construction. Aucune donnée ne quitte le cercle familial (Tablette ILM). La mémoire est rigoureusement validée, puis définitivement scellée. »</blockquote>
+        <p>QUAD SYSTEM AI propose une architecture d'IA hors ligne dont le principe directeur est le refus du mal « par construction ». Elle articule un filtre éthique à trois états, une mémoire validée puis scellée (DHIKRA), une gouvernance par consentement communautaire et un ensemble d'applications.</p>
+    </section>
+
+    <section>
+        <h2>Architecture QUAD et Piliers</h2>
+        <table>
+            <tr>
+                <th>Module</th>
+                <th>Position</th>
+                <th>Fonction</th>
+            </tr>
+            <tr>
+                <td><strong>DHIKRA SOURCE</strong></td>
+                <td>Haut-gauche</td>
+                <td>Mémoire scellée, protocole RAHMA. Respect-Check <span class="badge-green">🟢</span><span class="badge-orange">🟠</span><span class="badge-red">🔴</span> intégré.</td>
+            </tr>
+            <tr>
+                <td><strong>LOGIC LLM</strong></td>
+                <td>Haut-droite</td>
+                <td>Moteur de raisonnement MICAE 100 % hors ligne (Edge AI).</td>
+            </tr>
+            <tr>
+                <td><strong>VISION V-JEPA 2</strong></td>
+                <td>Bas-gauche</td>
+                <td>Compréhension du monde physique en local, sans dépendance au cloud.</td>
+            </tr>
+            <tr>
+                <td><strong>ACTION</strong></td>
+                <td>Bas-droite</td>
+                <td>Exécution physique sécurisée via la Tablette ILM, protocole CCSS.</td>
+            </tr>
+        </table>
+    </section>
+
+    <section>
+        <h2>Respect-Check et matrice tricolore</h2>
+        <ul>
+            <li><span class="badge-green">🟢 VERT :</span> Le clavier autorise / Transmission autorisée.</li>
+            <li><span class="badge-orange">🟠 ORANGE :</span> Le clavier exige une réécriture (formule rituelle répétée trois fois) / Réduction de vitesse.</li>
+            <li><span class="badge-red">🔴 ROUGE :</span> Le clavier bloque / Interruption immédiate.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact & Licences</h2>
+        <p><strong>Licence de la vitrine :</strong> CC BY-NC-ND 4.0</p>
+        <p><strong>Courriel officiel (licences et collaborations) :</strong> <a href="mailto:dhikraemmortel@proton.me">dhikraemmortel@proton.me</a></p>
+        <p><em>Fait à Azazga, le 05 novembre 2026. Signé électroniquement : Yassa Yacine Cheurfa.</em></p>
+    </section>
+
+</body>
+</html>
+
