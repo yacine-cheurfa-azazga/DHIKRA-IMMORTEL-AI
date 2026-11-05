@@ -267,3 +267,4 @@ Intégré directement dans l'identité visuelle (dans la lettre « I » du typog
 </body>
 </html>
 
+<img width="1280" height="1280" alt="4463" src="https://github.com/user-attachments/assets/776665cd-37b2-4229-aa58-29c84e15b60c" />
