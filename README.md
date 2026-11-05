@@ -111,3 +111,159 @@ Intégré directement dans l'identité visuelle (dans la lettre « I » du typog
   url          = {[https://doi.org/10.5281/zenodo.23964487](https://doi.org/10.5281/zenodo.23964487)}
 }
 # Contact dhikraemmortel@proton.me
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DHIKRA QUAD SYSTEM AI — Architecture d'IA Souveraine</title>
+  <style>
+    :root {
+      --bg-color: #0b0f19;
+      --card-bg: #111827;
+      --border-color: #1f2937;
+      --text-main: #f9fafb;
+      --text-muted: #9ca3af;
+      --blue-accent: #3b82f6;
+      --red-accent: #ef4444;
+      --purple-accent: #a855f7;
+      --green-accent: #10b981;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      line-height: 1.6;
+      padding: 20px;
+    }
+
+    .container { max-width: 1000px; margin: 0 auto; }
+    header { text-align: center; padding: 60px 20px 40px; }
+    h1 {
+      font-size: 2.8rem; font-weight: 800; margin-bottom: 15px;
+      background: linear-gradient(to right, #60a5fa, #a855f7);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    }
+    .subtitle { font-size: 1.25rem; color: var(--text-muted); margin-bottom: 30px; }
+    .badges { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 40px; }
+    .badge { padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; text-decoration: none; display: inline-flex; align-items: center; }
+    .badge-blue { background-color: rgba(59, 130, 246, 0.15); color: var(--blue-accent); border: 1px solid var(--blue-accent); }
+    .badge-red { background-color: rgba(239, 68, 68, 0.15); color: var(--red-accent); border: 1px solid var(--red-accent); }
+    .badge-purple { background-color: rgba(168, 85, 247, 0.15); color: var(--purple-accent); border: 1px solid var(--purple-accent); }
+
+    .card {
+      background-color: var(--card-bg); border: 1px solid var(--border-color);
+      border-radius: 12px; padding: 30px; margin-bottom: 30px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+    }
+    h2 { font-size: 1.5rem; margin-bottom: 20px; border-bottom: 1px solid var(--border-color); padding-bottom: 10px; }
+    .meta-list { list-style: none; }
+    .meta-list li { margin-bottom: 12px; font-size: 1rem; }
+    .text-blue { color: var(--blue-accent); font-weight: 600; }
+    .text-red { color: var(--red-accent); font-weight: 600; }
+    .text-purple { color: var(--purple-accent); font-weight: 600; }
+    .text-green { color: var(--green-accent); font-weight: 600; }
+
+    .quote-box {
+      border-left: 4px solid var(--blue-accent); background: rgba(59, 130, 246, 0.05);
+      padding: 15px 20px; border-radius: 0 8px 8px 0; font-style: italic; margin: 20px 0;
+    }
+    .grid-4 { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; }
+    .quadrant-item { background: rgba(255,255,255,0.02); border: 1px solid var(--border-color); padding: 20px; border-radius: 8px; }
+    .quadrant-title { font-weight: 700; margin-bottom: 8px; color: var(--blue-accent); }
+    .matrix-status { display: flex; flexDirection: column; gap: 12px; }
+    .status-item { display: flex; align-items: center; gap: 12px; padding: 10px 15px; border-radius: 6px; background: rgba(255,255,255,0.02); }
+    .dot { width: 12px; height: 12px; border-radius: 50%; }
+    .dot-green { background-color: var(--green-accent); }
+    .dot-orange { background-color: #f59e0b; }
+    .dot-red { background-color: var(--red-accent); }
+    footer { text-align: center; padding: 40px 0; color: var(--text-muted); font-size: 0.9rem; border-top: 1px solid var(--border-color); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🏛️ DHIKRA QUAD SYSTEM AI</h1>
+      <p class="subtitle">Architecture d'IA souveraine, hors ligne et éthique par construction</p>
+      <div class="badges">
+        <a href="https://doi.org/10.5281/zenodo.23964487" class="badge badge-blue">DOI v2.3: 10.5281/zenodo.23964487</a>
+        <a href="https://doi.org/10.5281/zenodo.23671062" class="badge badge-blue">DOI Global: 10.5281/zenodo.23671062</a>
+        <span class="badge badge-red">Licence: CC BY-NC-ND 4.0</span>
+        <span class="badge badge-purple">ORCID: 0009-0005-1982-7176</span>
+      </div>
+    </header>
+
+    <div class="card">
+      <h2>📌 Fiche Technique de Référence</h2>
+      <ul class="meta-list">
+        <li><b>Fiche technique :</b> <span class="text-blue">TR-2026-QUAD-0018</span></li>
+        <li><b>Auteur & Titulaire des droits :</b> Yassa Yacine Cheurfa</li>
+        <li><b>Affiliation :</b> Chercheur indépendant, Azazga, Kabylie, Algérie</li>
+        <li><b>ORCID :</b> <span class="text-purple">0009-0005-1982-7176</span></li>
+        <li><b>Contact professionnel :</b> <a href="mailto:dhikraemmortel@proton.me" class="text-green">dhikraemmortel@proton.me</a></li>
+        <li><b>Site officiel :</b> <a href="https://yacine-cheurfa-azazga.github.io/DHIKRA-IMMORTEL-AI/" class="text-blue">yacine-cheurfa-azazga.github.io/DHIKRA-IMMORTEL-AI</a></li>
+      </ul>
+      <div class="quote-box">
+        « DHIKRA = Mémoire scellée. SOURCE = Souveraineté. »<br>
+        <i>Le souvenir qui ne meurt jamais, il reste toujours immortel en ligne.</i>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>⚖️ Régime Juridique & Propriété</h2>
+      <ul class="meta-list">
+        <li><b>Statut technologique :</b> <span class="text-red">Propriétaire et fermé</span></li>
+        <li><b>Licence vitrine :</b> <span class="text-red">CC BY-NC-ND 4.0</span></li>
+        <li><b>Protection :</b> <span class="text-red">Toute modification, contrefaçon, ingénierie inverse ou exploitation commerciale sans autorisation est interdite.</span></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>⚙️ Les Quatre Quadrants Fonctionnels</h2>
+      <div class="grid-4">
+        <div class="quadrant-item">
+          <div class="quadrant-title">Q1 · DHIKRA SOURCE</div>
+          <p>Alignement des valeurs, moteur éthique et mémoire scellée.</p>
+        </div>
+        <div class="quadrant-item">
+          <div class="quadrant-title">Q2 · LOGIC LLM</div>
+          <p>Cognition, raisonnement logique et planification d'instructions.</p>
+        </div>
+        <div class="quadrant-item">
+          <div class="quadrant-title">Q3 · VISION WORLD</div>
+          <p>Perception visuelle et modèle du monde prédictif (V-JEPA 2).</p>
+        </div>
+        <div class="quadrant-item">
+          <div class="quadrant-title">Q4 · ACTION</div>
+          <p>Exécution incarnée et manipulation de précision.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>🚦 Filtre Éthique Respect-Check</h2>
+      <div class="matrix-status">
+        <div class="status-item">
+          <div class="dot dot-green"></div>
+          <div><b>Vert :</b> Autorisation et transmission autorisée.</div>
+        </div>
+        <div class="status-item">
+          <div class="dot dot-orange"></div>
+          <div><b>Orange :</b> Réécriture exigée ou validation contextuelle.</div>
+        </div>
+        <div class="status-item">
+          <div class="dot dot-red"></div>
+          <div><b>Rouge :</b> Blocage et interdiction immédiate.</div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <p>© 2026 Yassa Yacine Cheurfa — Azazga, Kabylie, Algérie</p>
+    </footer>
+  </div>
+</body>
+</html>
+
