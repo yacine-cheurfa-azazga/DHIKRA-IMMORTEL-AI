@@ -436,3 +436,55 @@ La Tablette ILM est l'outil physique et l'interface de supervision locale qui ma
   - 🟠 **Orange :** Une validation contextuelle ou une révision est exigée de la part du conseil avant de poursuivre.
   - 🔴 **Rouge :** L'usage est formellement interdit et bloqué.
 - **Support du savoir libre :** En tant que « tablette locale de savoir et de supervision », l'ILM héberge également des modules de connaissances (faisant partie de l'écosystème PENTA) pour éduquer, superviser et maintenir l'autonomie informationnelle de la communauté sans dépendre d'infrastructures extérieures.
+
+# 🧭 Les 4 Quadrants du DHIKRA QUAD SYSTEM AI
+
+> Architecture en quatre piliers : valeurs, cognition, perception et action
+
+---
+
+## 1. Q1 · SOURCE DHIKRA
+**Alignement des valeurs et ancrage contextuel**
+
+**Rôle principal :** Il constitue la boussole éthique, culturelle et mémorielle du système.
+
+**Composants et capacités :**
+- **Moteur de valeurs humaines :** Intègre à la fois des principes d'éthique universelle et des valeurs locales ancrées dans le patrimoine (notamment le patrimoine algérien et kabyle).
+- **Couche d'intention et de finalité :** Définit la responsabilité sociétale de chaque tâche avant qu'elle ne soit exécutée.
+- **Mémoire scellée et protocole RAHMA :** Porte le système de consignation où les données validées sont « scellées » de manière visible et infalsifiable, garantissant la traçabilité historique des décisions.
+
+---
+
+## 2. Q2 · LOGIC LLM
+**Cognition et planification**
+
+**Rôle principal :** Assure le traitement du langage, la logique formelle et la traduction de la pensée humaine en plans d'action structurés.
+
+**Composants et capacités :**
+- **Grand Modèle de Langage (LLM) local :** Optimisé pour fonctionner en mode hors ligne (Edge AI), il gère le dialogue, la synthèse et la logique formelle.
+- **Traduction structurée :** Transforme un texte brut ou une requête en un plan d'instructions rigoureux selon le schéma Texte ➔ Plan ➔ Instruction.
+- **Moteur de raisonnement MICAE :** Applique les critères de respect élargi (Humain, Animal, Environnement) lors de la phase de réflexion logique.
+
+---
+
+## 3. Q3 · VISION WORLD
+**Perception et modèle du monde**
+
+**Rôle principal :** Permet au système de percevoir son environnement visuel et d'anticiper les conséquences physiques de ses actions à venir.
+
+**Composants et capacités :**
+- **Modélisation prédictive (type V-JEPA 2 de Meta) :** Réalise un apprentissage visuel prédictif sans nécessiter d'étiquetage humain lourd.
+- **Espace d'embeddings latents :** Traite les représentations visuelles de l'environnement pour modéliser le monde réel.
+- **Anticipation temporelle :** Simule les états futurs à court terme (t+1, t+2, t+3) afin de détecter d'éventuels risques ou collisions avant qu'ils ne surviennent dans le monde physique.
+
+---
+
+## 4. Q4 · ACTION
+**Exécution incarnée**
+
+**Rôle principal :** Assure la concrétisation physique et sécurisée des décisions validées dans le monde réel.
+
+**Composants et capacités :**
+- **Robotique et manipulation :** Intègre des systèmes matériels de précision (tels que le bras robotique Franka de Franka Robotics).
+- **Planification cinématique :** Calcule les trajectoires physiques, la manipulation d'objets et l'interaction avec l'environnement.
+- **Exécution sécurisée :** Chaque action physique est subordonnée aux validations de la tablette ILM et scellée via le protocole CCSS (Contrôle, Certification et Scellage Sécurisé).
