@@ -537,3 +537,79 @@ Par rigueur académique, l'auteur précise :
 Licences et collaborations : **dhikraemmortel@proton.me**
 
 *Cette section décrit les choix du projet ; elle ne constitue pas un avis juridique.*
+
+<div align="center">
+
+# 🛡️ ARCHITECTURE SYSTÉMIQUE : LES 4 QUADRANTS
+### 🚀 **PROPRIÉTÉ INTELLECTUELLE PROTÉGÉE** • *Silicon Valley Grade Sovereign AI* 🌍
+
+</div>
+
+---
+
+## ⚠️ AVIS JURIDIQUE ET RESTRICTION D'UTILISATION (PROPRIÉTAIRE)
+
+**AVIS STRICT :** L'architecture systémique des « 4 Quadrants » présentée ci-dessous (incluant l'ensemble des modules *SOURCE DHIKRA*, *LOGIC LLM*, *VISION WORLD* et *ACTION*, ainsi que les protocoles associés *RAHMA*, *MICAE*, *CCSS* et la *Tablette ILM*) constitue une **création intellectuelle exclusive et une propriété privée protégée**. 
+
+Toute reproduction, copie, distribution, réutilisation, adaptation, rétro-ingénierie (reverse engineering) ou exploitation commerciale ou non commerciale, totale ou partielle, sous quelque forme ou par quelque moyen que ce soit (numérique, physique ou autre), **est strictement interdite sans l'autorisation écrite préalable et expresse du propriétaire légitime**.
+
+> 🔒 **Clause de confidentialité :** Ce dépôt public est destiné à des fins strictement consultatives. Toute intégration, fork ou utilisation non autorisée des spécifications techniques ci-dessous constitue une violation directe des lois sur la propriété intellectuelle.
+
+---
+
+## 🌐 Vue d'ensemble du Modèle
+
+L'architecture repose sur une boucle cybernétique souveraine et autonome, combinant l'excellence de l'ingénierie de pointe de la **Silicon Valley** avec un ancrage culturel et éthique profond : 
+
+$$\text{Ancrage éthique (Q1)} \longrightarrow \text{Cerveau logique (Q2)} \longrightarrow \text{Prospective sensorielle (Q3)} \longrightarrow \text{Incarnation sécurisée (Q4)}$$
+
+---
+
+## Q1 - SOURCE DHIKRA (L'Ancrage et l'Éthique)
+* **Alignement des valeurs & Patrimoine algérien :** Assure que le système respecte le contexte culturel, historique, mémoriel et sociétal, éliminant les biais induits par les modèles globalisés déracinés.
+* **Mémoire scellée & Protocole RAHMA :** Fonctionne comme le gardien éthique et sécuritaire du système (*Rahma* incarnant une approche protectrice, bienveillante et humaniste), garantissant l'intégrité absolue des données mémorielles, la traçabilité des décisions et le respect des invariants fondamentaux.
+
+---
+
+## Q2 - LOGIC LLM (Le Cerveau Souverain & Hors-ligne)
+* **Edge AI hors ligne :** Garantit l'autonomie totale, la souveraineté et la confidentialité absolue des données sans dépendance cloud, idéal pour les environnements critiques ou contraints.
+* **Pipeline Texte $\rightarrow$ Plan $\rightarrow$ Instruction :** Structure rigoureusement la pensée du modèle en trois phases :
+  1. *Texte :* Compréhension fine du langage naturel et de l'intention.
+  2. *Plan :* Planification stratégique et macro-objectifs.
+  3. *Instruction :* Découpage granulaire en micro-tâches exécutables.
+* **Raisonnement MICAE :** Moteur logique central orchestrant cette traduction séquentielle avec robustesse, cohérence et vérifiabilité formelle.
+
+---
+
+## Q3 - VISION WORLD (La Prospective Sensorielle)
+* **Perception prédictive :** Dépasse la simple reconnaissance visuelle statique pour modéliser et comprendre la dynamique complexe de l'environnement physique.
+* **Anticipation temporelle ($t+1, t+2, t+3$) :** Projette l'état futur du monde à court terme, permettant au système d'anticiper les obstacles, les trajectoires, les risques de collision ou les variations de situation avant qu'ils ne se produisent.
+
+---
+
+## Q4 - ACTION (L'Incarnation Sécurisée)
+* **Exécution incarnée :** Traduit la logique décisionnelle et la vision prospective en actions physiques concrètes et adaptées (via actionneurs, plateformes robotiques ou interfaces matérielles).
+* **Tablette ILM & Protocole CCSS :** Assurent la supervision opérationnelle, le contrôle strict de l'exécution et le verrouillage de sécurité automatisé (*fail-safe*) pour empêcher toute dérive physique ou comportementale, avec possibilité de rupture de charge humaine (*Human-in-the-Loop*).
+
+---
+
+## ⚡ Matrice des Flux et Interconnexions
+
+| Quadrant Source | Quadrant Cible | Nature du Flux | Rôle Fonctionnel |
+| :--- | :--- | :--- | :--- |
+| **Q1 (Dhikra)** | **Q2 (LLM)** | Invariants & Valeurs | Empêche le modèle de formuler des plans contraires aux principes éthiques et culturels scellés. |
+| **Q2 (LLM)** | **Q3 (Vision)** | Relevé d'hypothèses | Interroge la vision pour valider la faisabilité géométrique et temporelle d'un plan d'action. |
+| **Q3 (Vision)** | **Q4 (Action)** | Correction prospective | Ajuste le geste en temps réel grâce au vecteur d'anticipation ($t+1, t+2, t+3$). |
+| **Q4 (Action)** | **Q1 (Dhikra)** | Journal d'empreinte | Enregistre chaque action réalisée dans la mémoire scellée pour auditabilité et traçabilité. |
+
+---
+
+<div align="center">
+
+> *« Tout usage, transmission ou mémorisation de cette architecture hors du cadre strictement autorisé engage la responsabilité personnelle et civile de son contrevenant. »*  
+> **© Propriétaire Exclusif — Tous droits réservés.**
+
+</div>
+
+
+Contact: dhikraemmortel@proton.me
