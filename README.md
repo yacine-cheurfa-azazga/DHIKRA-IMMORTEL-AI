@@ -488,3 +488,52 @@ La Tablette ILM est l'outil physique et l'interface de supervision locale qui ma
 - **Robotique et manipulation :** Intègre des systèmes matériels de précision (tels que le bras robotique Franka de Franka Robotics).
 - **Planification cinématique :** Calcule les trajectoires physiques, la manipulation d'objets et l'interaction avec l'environnement.
 - **Exécution sécurisée :** Chaque action physique est subordonnée aux validations de la tablette ILM et scellée via le protocole CCSS (Contrôle, Certification et Scellage Sécurisé).
+# ⚖️ PROTECTION JURIDIQUE DU PROJET
+
+> **DHIKRA QUAD SYSTEM AI** · Fiche de référence TR-2026-QUAD-0018
+
+---
+
+## 1. Titulaire des droits
+
+**Yassa Yacine Cheurfa** · Chercheur indépendant, Azazga, Kabylie, Algérie
+© 2026 · Tous droits réservés sur la Technologie.
+
+---
+
+## 2. Les cinq couches de protection
+
+| Couche | Ce qui est protégé | Fondement |
+|---|---|---|
+| 📝 **Droit d'auteur** | Textes, schémas, affiche, logos, documents, code | Protection automatique dès la création, dans la plupart des pays |
+| 🔒 **Secret et code fermé** | Recette de fabrication, code source, détails techniques | Aucune divulgation : vitrine sans code source |
+| 🏷️ **Noms réservés** | QUAD SYSTEM AI · DHIKRA SOURCE · IMMORTEL AI · SAHA SCAN AI · ILM LIBERATION TABLET · TAFSUT AI · TUDERT YIWEN | Réservation des noms, dépôt de marque envisagé |
+| 📜 **Licences** | Vitrine : CC BY-NC-ND 4.0 · Technologie : propriétaire et fermée | Autorisation écrite préalable obligatoire |
+| ⏱️ **Preuves d'antériorité** | Existence des documents à une date donnée | Zenodo (DOI), horodatage Bitcoin, dépôts GitHub, fichiers d'origine |
+
+---
+
+## 3. Feu tricolore des usages
+
+- 🟢 **VERT** : lecture et citation libres, avec attribution
+- 🟠 **ORANGE** : autorisation écrite préalable requise (collaboration, licence, usage dans un autre projet)
+- 🔴 **ROUGE** : interdit sans licence écrite (copie de la technologie, modification du principe original, ingénierie inverse, exploitation commerciale)
+
+---
+
+## 4. Limites assumées
+
+Par rigueur académique, l'auteur précise :
+
+- Un dépôt daté prouve **l'existence** d'un contenu à une date donnée, non l'unicité de l'idée.
+- Le droit d'auteur protège **l'expression** de l'œuvre, non l'idée ou le concept en lui-même.
+- Les briques technologiques existantes (V-JEPA 2, Franka, LoRa, etc.) appartiennent à leurs propriétaires respectifs.
+- Le projet revendique l'**assemblage**, la **philosophie** (éthique par construction) et la **gouvernance par consentement communautaire**.
+
+---
+
+## 5. Contact officiel
+
+Licences et collaborations : **dhikraemmortel@proton.me**
+
+*Cette section décrit les choix du projet ; elle ne constitue pas un avis juridique.*
