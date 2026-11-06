@@ -640,5 +640,5 @@ Statut de protection : Protégé par le droit d'auteur (Dépôt Zenodo horodaté
 | **Vocabulaire** | L'usage non autorisé de vos termes réservés (comme Respect-Check, MICAE, DHIKRA SOURCE, SAHA SCAN, etc.). |
 
 ### 3. Recommandations pour votre sécurité juridique future
-Conservez ce rapport dans vos brouillons ou e-mails comme résumé de votre propriété intellectuelle et référence de veille technologique.
-# la loi pour tout le monde entier sans exception 
+
+# la loi pour tous et pour le monde entier sans exception 
