@@ -392,3 +392,20 @@ Contact officiel (licences et collaborations) : **dhikraemmortel@proton.me**
 
 *Fait à Azazga, le 05 novembre 2026. Fiche de référence TR-2026-QUAD-0018.*
 *Signé électroniquement : Yassa Yacine Cheurfa.*
+# 🔐 CCSS : Contrôle, Certification et Scellage Sécurisé
+
+> Protocole clé de l'architecture **DHIKRA QUAD SYSTEM AI**
+
+---
+
+Le sigle CCSS désigne le Contrôle, Certification et Scellage Sécurisé, un protocole clé au sein de l'architecture DHIKRA QUAD SYSTEM AI.
+
+Dans le système conçu par Yassa Yacine Cheurfa, le CCSS intervient principalement au niveau de la sécurisation des actions et de l'intégrité des données dans l'écosystème physique et embarqué (notamment lors des interactions avec le quadrant ACTION, les drones ou la tablette ILM).
+
+## Fonctions principales
+
+**Garantie de l'Intégrité (Scellage) :** Le protocole s'appuie sur des empreintes cryptographiques pour enregistrer les données et les états du système de manière vérifiable, rendant toute modification ou tentative de falsification immédiatement visible.
+
+**Certification et Contrôle d'Exécution :** Il assure que chaque ordre d'action physique (par exemple, transmis au bras robotique Franka ou au matériel embarqué) a bien reçu l'aval du filtre éthique (Respect-Check) et des validateurs humains compétents.
+
+**Traçabilité :** Il permet de consigner de manière indélébile l'historique des décisions prises par le noyau orchestrateur, assurant ainsi la transparence et la responsabilité de la machine envers la communauté.
