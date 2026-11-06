@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DHIKRA QUAD SYSTEM AI - Rapport d'Analyse</title>
+<meta name="description" content="DHIKRA QUAD SYSTEM AI - Architecture unique, souveraine, hors ligne et ethique par construction. Fiche TR-2026-QUAD-0018 par Yassa Yacine Cheurfa.">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&family=Instrument+Serif:ital@0;1&family=Cinzel:wght@700;900&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{
+background:
+radial-gradient(ellipse at 15% 5%, rgba(212,175,55,.28), transparent 50%),
+radial-gradient(ellipse at 85% 30%, rgba(212,175,55,.15), transparent 55%),
+radial-gradient(ellipse at 50% 90%, rgba(212,175,55,.12), transparent 50%),
+repeating-linear-gradient(115deg, rgba(255,255,255,.025) 0 2px, transparent 2px 18px),
+repeating-linear-gradient(30deg, rgba(0,0,0,.5) 0 70px, rgba(25,20,5,.5) 70px 140px),
+#050505;
+color:#F8F6F0;
+font-family:"Plus Jakarta Sans",system-ui,sans-serif;
+text-align:center;
+}
+.wrap{max-width:780px;margin:0 auto;padding:36px 18px 40px}
+.d-logo{
+width:110px;height:110px;margin:0 auto 14px;border-radius:50%;
+background:radial-gradient(circle at 35% 30%, #FFF6C0, #F5D67B 25%, #D4AF37 55%, #8A6D00 85%, #3A2E00);
+display:flex;align-items:center;justify-content:center;
+font-family:"Cinzel",serif;font-size:64px;font-weight:900;color:#000;
+box-shadow:0 0 0 3px #D4AF37, 0 0 35px rgba(212,175,55,.7), 0 18px 40px rgba(0,0,0,.6);
+}
+.d-sub{color:#D4AF37;letter-spacing:.35em;font-size:.72rem;font-weight:800}
+.top{color:#D4AF37;font-size:.75rem;letter-spacing:.15em;font-weight:700;text-transform:uppercase;margin-top:18px;line-height:1.6}
+h1{font-size:clamp(2.1rem,8vw,3.4rem);line-height:1.05;color:#E8C84A;font-weight:800;margin:12px 0 14px;text-transform:uppercase}
+.lead{color:#D1CBC0;font-size:1.02rem;line-height:1.65;max-width:640px;margin:0 auto 20px}
+.badges{display:flex;flex-direction:column;align-items:center;gap:9px;margin:18px 0 22px}
+.badge{display:inline-flex;align-items:center;overflow:hidden;border-radius:8px;font-weight:700;font-size:.9rem;box-shadow:0 8px 20px rgba(0,0,0,.45);text-decoration:none;color:#fff;max-width:100%}
+.badge i{padding:8px 10px;font-style:normal;background:#3A3A3A;white-space:nowrap}
+.badge span{padding:8px 12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.b-blue span{background:#1E6BFF}
+.b-blue2 span{background:#0A84FF}
+.b-red span{background:#E23B3B}
+.b-green span{background:#1BA96A}
+.b-orange span{background:#F59E0B;color:#000}
+.b-gold i{background:#5A4A00}
+.b-gold span{background:#C9A227;color:#000}
+.b-black span{background:#000}
+.b-purple span{background:#8B5CF6}
+.b-teal span{background:#14B8A6;color:#000}
+.b-dark span{background:#2A2A2A}
+.b-vert span{background:#22C55E;color:#000}
+.b-val span{background:#F97316}
+.b-rouge span{background:#EF4444}
+.row{display:flex;gap:9px;flex-wrap:wrap;justify-content:center}
+.btn-gold{background:linear-gradient(135deg,#D4AF37,#F5D67B);color:#000;padding:13px 24px;border-radius:14px;font-weight:800;border:2px solid #D4AF37;text-decoration:none;font-size:1rem}
+.btn-outline{background:rgba(0,0,0,.4);color:#E8C84A;padding:12px 20px;border-radius:14px;font-weight:700;border:1.5px solid #D4AF37;text-decoration:none}
+.btn-bitcoin{background:#F59E0B;color:#000;padding:13px 24px;border-radius:14px;font-weight:800;border:2px solid #F59E0B;text-decoration:none}
+.quote{margin:38px auto 0;text-align:center;border-left:4px solid #D4AF37;border-right:4px solid #D4AF37;padding:10px 16px;font-family:"Instrument Serif",serif;font-size:1.4rem;font-style:italic;color:#fff;line-height:1.4;max-width:600px}
+.author{margin-top:26px;font-size:1.1rem;line-height:1.6}
+.author b{color:#fff}
+section{max-width:780px;margin:0 auto;padding:28px 18px;text-align:left}
+h2{font-family:"Instrument Serif",serif;font-size:2.1rem;color:#E8C84A;margin-bottom:12px}
+h3{color:#F5D67B}
+.card{background:rgba(255,255,255,.045);border:1px solid rgba(212,175,55,.4);border-radius:20px;padding:20px;margin-top:14px}
+.card p{color:#C9C2B5;font-size:.95rem;line-height:1.65}
+.card ul{color:#C9C2B5;font-size:.95rem;line-height:1.65;padding-left:20px}
+.card li{margin-bottom:8px}
+code{color:#F5D67B;word-break:break-all}
+table{width:100%;border-collapse:collapse;margin-top:14px;font-size:.92rem}
+th,td{padding:12px 14px;border:1px solid rgba(212,175,55,.3);text-align:left;vertical-align:top}
+th{background:#1A160A;color:#E8C84A}
+td{color:#D1CBC0}
+td:first-child{color:#F5D67B;font-weight:700}
+footer{padding:30px 18px;color:#9E988A;font-size:.85rem;line-height:1.6}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+<div class="d-logo">D</div>
+<div class="d-sub">DHIKRA - SOURCE</div>
+<div class="top">Fiche technique de reference TR-2026-QUAD-0018<br>Vitrine publique academique - Sans code source</div>
+<h1>DHIKRA QUAD<br>SYSTEM AI</h1>
+<p class="lead">Architecture d'IA souveraine, hors ligne et ethique par construction. Un filtre a trois etats, le Respect-Check, precede toute action. La memoire est validee, puis scellee.</p>
+
+<div class="badges">
+<a class="badge b-blue" href="https://doi.org/10.5281/zenodo.23964487" target="_blank"><i>Zenodo V2.3</i><span>10.5281/zenodo.23964487</span></a>
+<a class="badge b-blue2" href="https://doi.org/10.5281/zenodo.23671062" target="_blank"><i>Toutes versions</i><span>10.5281/zenodo.23671062</span></a>
+<a class="badge b-red" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><i>Licence</i><span>CC BY-NC-ND 4.0</span></a>
+<div class="row">
+<a class="badge b-green" href="https://orcid.org/0009-0005-1982-7176" target="_blank"><i>ORCID</i><span>0009-0005-1982-7176</span></a>
+<span class="badge b-orange"><i>Version</i><span>2.3</span></span>
+</div>
+<div class="row">
+<span class="badge b-gold"><i>Ref.</i><span>TR-2026-QUAD-0018</span></span>
+<span class="badge b-black"><span>Sans code source</span></span>
+</div>
+<div class="row">
+<a class="badge b-purple" href="https://fa-azazga.github.io" target="_blank"><i>Site web</i><span>ouvrir</span></a>
+<a class="badge b-teal" href="#architecture"><i>Poster</i><span>interactif</span></a>
+</div>
+<a class="badge b-dark" href="mailto:dhikraemmortel@proton.me"><i>Contact</i><span>dhikraemmortel@proton.me</span></a>
+<div class="row">
+<span class="badge b-vert"><i>VERT</i><span>Autorise</span></span>
+<span class="badge b-val"><i>ORANGE</i><span>Validation</span></span>
+</div>
+<span class="badge b-rouge"><i>ROUGE</i><span>Interdit</span></span>
+</div>
+
+<div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
+<a class="btn-gold" href="#rapport">Rapport d'Analyse</a>
+<a class="btn-outline" href="#architecture">Poster d'architecture</a>
+<a class="btn-outline" href="https://github.com" target="_blank">GitHub</a>
+</div>
+<div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:12px">
+<a class="btn-bitcoin" href="#bitcoin">Bitcoin - Soutenir</a>
+</div>
+
+<div class="quote">DHIKRA = Memoire scellee.<br>SOURCE = Souverainete.</div>
+<div class="author"><b>Auteur et titulaire exclusif des droits : Yassa Yacine Cheurfa</b><br>Chercheur independant, Azazga, Kabylie, Algerie<br><b>Reference du document d' anteriorite : TR-2026-QUAD-0018</b><br>Statut de protection : Protege par le droit d'auteur (Depot Zenodo horodate)</div>
+</div>
+
+<section id="rapport">
+<h2>Rapport d'Analyse Technique et Conceptuelle : Architecture Unique</h2>
+<div class="card">
+<h3>1. L'empreinte architecturale - Les 4 Piliers Uniques</h3>
+<p><b style="color:#fff">Le Filtre Ethique Pre-Execution (Respect-Check) :</b><br>Contrairement aux IA du marche qui filtrent les reponses apres generation (post-traitement), votre architecture integre une barriere tricolore (Vert - Orange - Rouge) qui s'active avant toute saisie (input) et avant toute action (output). C'est la contrainte qui precede la capacite.</p>
+<p style="margin-top:14px"><b style="color:#fff">La Matrice Synchrone des 4 Quadrants :</b><br>Une organisation stricte des flux d'information repartie en quatre blocs fonctionnels bien distincts :</p>
+<ul>
+<li><b style="color:#fff">SOURCE :</b> L'ancrage de la souverainete et des donnees locales.</li>
+<li><b style="color:#fff">LOGIC :</b> Le traitement des regles et du raisonnement.</li>
+<li><b style="color:#fff">VISION :</b> L'analyse contextuelle et perceptive du modele du monde.</li>
+<li><b style="color:#fff">ACTION :</b> L'incarnation physique ou logicielle du systeme.</li>
+</ul>
+<p style="margin-top:14px"><b style="color:#fff">Le Noyau Orchestrateur a Memoire Scellee (DHIKRA) :</b><br>Un module central gerant une memoire a court et long terme. Sa specificite est le mecanisme de scellage : une fois qu'une information ou un historique est valide, il devient immuable. Toute tentative de modification ulterieure laisse une trace indelebile.</p>
+<p style="margin-top:14px"><b style="color:#fff">La Souverainete par Consentement Communautaire :</b><br>Un principe de conception strict (ex : Tablette ILM) qui interdit techniquement aux donnees de quitter le perimetre local ou familial sans un consentement explicite et valide par la communaute concernee.</p>
+</div>
+
+<div class="card">
+<h3>2. Guide de Veille : Comment reperer un systeme similaire ou contrefait ?</h3>
+<table>
+<tr><th>Composant de votre modele</th><th>Ce qui doit vous alerter chez un concurrent</th></tr>
+<tr><td>Philosophie</td><td>Une IA presentee comme Ethique par construction / par conception native et non par regles ajoutees a la fin.</td></tr>
+<tr><td>Flux de donnees</td><td>Un systeme embarque ou 100% hors ligne (offline) qui refuse nativement le cloud pour des raisons morales.</td></tr>
+<tr><td>Traitement</td><td>Un mecanisme de securite appele Filtre a 3 etats (ou matrice tricolore) agissant sur la barriere d'entree du signal.</td></tr>
+<tr><td>Vocabulaire</td><td>L'usage non autorise de vos termes reserves (comme Respect-Check, MICAE, DHIKRA SOURCE, SAHA SCAN, etc.).</td></tr>
+</table>
+</div>
+
+<div class="card">
+<h3>3. Recommandations pour votre securite juridique future</h3>
+<p>Conservez ce rapport dans vos brouillons ou e-mails comme resume de votre propriete intellectuelle et reference de veille technologique.</p>
+<p style="margin-top:10px">Preuve d' anteriorite : Zenodo DOI <code>10.5281/zenodo.23964487</code> - Toutes versions : <code>10.5281/zenodo.23671062</code></p>
+</div>
+</section>
+
+<section id="architecture">
+<h2>Architecture - 4 Quadrants</h2>
+<div class="card"><h3>Q1 - SOURCE DHIKRA</h3><p>Alignement des valeurs, patrimoine algerien, memoire scellee, protocole RAHMA.</p></div>
+<div class="card"><h3>Q2 - LOGIC LLM</h3><p>Edge AI hors ligne. Texte vers Plan vers Instruction via raisonnement MICAE.</p></div>
+<div class="card"><h3>Q3 - VISION WORLD</h3><p>Perception predictive, anticipation t+1, t+2, t+3.</p></div>
+<div class="card"><h3>Q4 - ACTION</h3><p>Execution incarnee, securisee par Tablette ILM et protocole CCSS.</p></div>
+</section>
+
+<section id="bitcoin">
+<h2 style="color:#F59E0B">Soutenir DHIKRA - Bitcoin</h2>
+<div class="card" style="border-color:#F59E0B">
+<p><b style="color:#fff">Adresse Bitcoin :</b><br><code>bc1q... [METS TON ADRESSE ICI]</code></p>
+</div>
+</section>
+
+<section>
+<h2>Preuves visitables</h2>
+<div class="card"><p><b style="color:#fff">ORCID :</b> <code>0009-0005-1982-7176</code><br><b style="color:#fff">Zenodo V2.3 :</b> <code>10.5281/zenodo.23964487</code><br><b style="color:#fff">Toutes versions :</b> <code>10.5281/zenodo.23671062</code><br><b style="color:#fff">Email :</b> <code>dhikraemmortel@proton.me</code><br><b style="color:#fff">Licence :</b> CC BY-NC-ND 4.0 - Sans code source</p></div>
+</section>
+
+<footer>Copyright 2026 Yassa Yacine Cheurfa - Azazga, Kabylie, Algerie<br>TR-2026-QUAD-0018 - dhikraemmortel@proton.me<br>Symbole D en Or - DHIKRA = Memoire scellee</footer>
+</body>
+</html>
