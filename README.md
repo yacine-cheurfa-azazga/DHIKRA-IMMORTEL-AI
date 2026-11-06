@@ -409,3 +409,30 @@ Dans le système conçu par Yassa Yacine Cheurfa, le CCSS intervient principalem
 **Certification et Contrôle d'Exécution :** Il assure que chaque ordre d'action physique (par exemple, transmis au bras robotique Franka ou au matériel embarqué) a bien reçu l'aval du filtre éthique (Respect-Check) et des validateurs humains compétents.
 
 **Traçabilité :** Il permet de consigner de manière indélébile l'historique des décisions prises par le noyau orchestrateur, assurant ainsi la transparence et la responsabilité de la machine envers la communauté.
+
+# 🏛️ Gouvernance par Consentement et Tablette ILM
+
+> Souveraineté locale au cœur de l'architecture **DHIKRA QUAD SYSTEM AI**
+
+---
+
+## 1. Le Principe de la Gouvernance par Consentement
+
+Dans les approches conventionnelles, les règles d'éthique sont codées ou ajustées de manière centralisée par les concepteurs du modèle. Dans DHIKRA QUAD SYSTEM AI, le principe fondamental est que la communauté décide :
+
+- **Décision collective locale :** Aucun usage critique, sensible ou structurant de l'IA ne peut être effectué de manière autonome sans l'aval d'un conseil local.
+- **Alignement culturel et social :** La machine n'impose pas ses critères exogènes ; elle applique les barrières et les valeurs ancrées dans le contexte local (portées notamment par le quadrant SOURCE et son protocole RAHMA).
+- **Droit d'opposition :** Un mécanisme de protection des données individuelles et de respect de la vie privée est prévu à travers un droit d'opposition avant tout scellage mémoriel.
+
+---
+
+## 2. Le Rôle de la Tablette ILM (ILM Liberation Tablet)
+
+La Tablette ILM est l'outil physique et l'interface de supervision locale qui matérialise cette souveraineté :
+
+- **Unité de contrôle hors ligne (Air-gapped) :** La tablette est conçue pour fonctionner de manière totalement déconnectée des réseaux mondiaux ou des serveurs distants. Cela garantit un principe strict de conception : aucune donnée sensible ne quitte le cercle local (familial ou communautaire).
+- **Passerelle de validation du Conseil :** C'est par l'intermédiaire de la tablette ILM que le conseil local exprime sa décision face aux sollicitations du système, en s'appuyant sur la matrice tricolore :
+  - 🟢 **Vert :** L'action ou l'usage est validé et autorisé.
+  - 🟠 **Orange :** Une validation contextuelle ou une révision est exigée de la part du conseil avant de poursuivre.
+  - 🔴 **Rouge :** L'usage est formellement interdit et bloqué.
+- **Support du savoir libre :** En tant que « tablette locale de savoir et de supervision », l'ILM héberge également des modules de connaissances (faisant partie de l'écosystème PENTA) pour éduquer, superviser et maintenir l'autonomie informationnelle de la communauté sans dépendre d'infrastructures extérieures.
