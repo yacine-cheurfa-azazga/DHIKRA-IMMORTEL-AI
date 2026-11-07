@@ -1,3 +1,76 @@
+# DHIKRA-IMMORTEL-AI | TR-2026-QUAD-0018 & TR-2026-TRIPLE-0017
+
+**Vitrine publique académique. SANS CODE SOURCE.**
+
+[
+
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23964487.svg)
+
+](https://doi.org/10.5281/zenodo.23964487)
+[
+
+![Licence: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
+](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+**Auteur et titulaire des droits :** Yassa Yacine Cheurfa, Azazga, Algérie
+© 2026 Yassa Yacine Cheurfa. Tous droits réservés sur la technologie.
+
+---
+
+### Éthique par conception (Ethics by Design)
+
+## L'éthique par conception consiste à intégrer des valeurs morales, des règles de sécurité et des principes éthiques directement dans l'architecture d'un système informatique ou d'une intelligence artificielle, dès sa toute première phase de développement.
+
+Dans **DHIKRA QUAD SYSTEM AI**, cela signifie :
+- Le système ne tue pas, il observe.
+- Le système ne ment pas : si la confiance est inférieure à 0,85, il répond « Je ne sais pas ».
+- Le système ne vole pas : il reste hors ligne, local et souverain.
+
+---
+
+## Écosystème Triple Licence (Réf. TR-2026-TRIPLE-0017)
+
+1. **DHIKRA SOURCE** (VID-20261009-WA0051) : protocole éthique, mémoire scellée
+2. **SAHA SCAN AI** (SAHA-20261015-WA0052) : scan alimentaire hors ligne
+3. **ILM LIBÉRATION TABLET** (ILM-20261017-WA0053) : tablette mono-application souveraine
+
+Ce triptyque est la base de l'architecture **DHIKRA QUAD SYSTEM AI** (fiche TR-2026-QUAD-0018).
+
+---
+
+## Principes
+
+- **P1, vitrine sans source :** seule la description académique est publique. Aucun code source, aucune architecture interne et aucun détail de fabrication ne sont divulgués.
+- **P2, technologie propriétaire fermée :** aucun droit d'exploitation commerciale n'est concédé sans accord écrit de l'auteur.
+
+---
+
+## Licence
+
+Cette vitrine (textes et visuels) est publiée sous **CC BY-NC-ND 4.0** : partage non commercial, avec mention de l'auteur, sans modification. La technologie sous-jacente reste propriétaire et fermée.
+
+Noms réservés : DHIKRA SOURCE, SAHA SCAN AI, ILM LIBÉRATION TABLET, QUAD SYSTEM AI.
+
+Toute réutilisation ou citation doit mentionner l'auteur et inclure un lien vers ce dépôt d'origine.
+
+---
+
+## Preuves d'antériorité
+
+- **DOI (Zenodo) :** 10.5281/zenodo.23964487
+- **SHA-256 de `index.html` :** 2cdf852837b6c55063f5999df16d6665bacf34c7efd317a384ca5ad150cbaec2
+- **Horodatage Bitcoin :** `index.html.ots` (vérifiable sur opentimestamps.org)
+- **Fichier `DhikraNotary.sol` :** horodaté sur Bitcoin (`DhikraNotary.sol.ots`), non déployé sur une blockchain. SHA-256 : `[EMPREINTE COMPLÈTE, 64 caractères]`
+
+---
+
+## Contact pour les demandes de licence
+
+dhikraemmortel@proton.me
+
+**AVERTISSEMENT :** ce dépôt ne contient aucun code source. Toute demande de code, d'architecture interne ou de détail de fabrication sera refusée.
+
 <div align="center">
 
 # DHIKRA QUAD SYSTEM AI
