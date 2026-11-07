@@ -1,3 +1,94 @@
+# Livre blanc — DHIKRA QUAD SYSTEM AI
+
+*Une architecture d'intelligence artificielle éthique par conception, hors ligne et sous contrôle humain*
+
+**Auteur :** Yassa Yacine Cheurfa, auteur indépendant, Azazga (Algérie)  
+**Références :** TR-2026-QUAD-0018 · TR-2026-TRIPLE-0017 · DOI 10.5281/zenodo.23964487  
+**Version :** 1.0, novembre 2026. Version publique, sans code source.  
+**Licence du texte :** CC BY-NC-ND 4.0. La technologie sous-jacente reste propriétaire.  
+**Contact :** dhikraemmortel@proton.me
+
+---
+
+## Résumé
+
+Nous présentons DHIKRA QUAD SYSTEM AI, une famille d'IA fonctionnant hors ligne, qui partage une même exigence : l'éthique est une propriété de l'architecture, pas un ajout. Il comprend un socle éthique et quatre modules applicatifs.
+
+Le nom QUAD désigne quatre quadrants transverses — SOURCE, LOGIC, VISION, ACTION — qui s'appliquent au socle comme à chaque module. Il ne désigne pas le nombre de modules.
+
+Deux mécanismes transverses la mettent en œuvre. Le premier est l'abstention : sous un seuil de confiance fixé à 0,85, le système répond « Je ne sais pas ». Le second est une matrice tricolore (vert, orange, rouge) qui subordonne toute action sensible à une validation humaine.
+
+Ce document précise les exigences de conception, l'architecture conceptuelle, les modules, un protocole d'évaluation et les limites connues. Il ne rapporte aucun résultat expérimental : il formule des hypothèses testables.
+
+**Mots-clés :** éthique par conception ; IA hors ligne ; abstention sélective ; contrôle humain ; souveraineté des données ; IA embarquée.
+
+## Abstract
+
+We present DHIKRA QUAD SYSTEM AI, a family of offline AI elements built on one requirement: ethics is a property of the architecture, not an add-on. It comprises one ethical core and four application modules.
+
+The name QUAD refers to four cross-cutting quadrants — SOURCE, LOGIC, VISION, ACTION — that apply to the core as well as to each module. It does not refer to the number of modules.
+
+Two cross-cutting mechanisms implement it. The first is abstention: below a confidence threshold of 0.85, the system answers "I don't know". The second is a three-colour matrix (green, orange, red) that makes any sensitive action depend on human validation.
+
+This paper states the design requirements, the conceptual architecture, the modules, a proposed evaluation protocol and the known limitations. It reports no experimental results; it states testable hypotheses.
+
+**Keywords:** ethics by design; offline AI; selective abstention; human oversight; data sovereignty; embedded AI.
+
+---
+
+## 1. Introduction
+
+Les systèmes d'IA grand public dépendent en général d'un service distant, répondent même quand leur confiance est faible, et traitent l'éthique comme une couche ajoutée après la conception.
+
+Trois conséquences en découlent : les données quittent l'appareil, les erreurs sont présentées avec assurance, et les garde-fous se contournent plus facilement que s'ils étaient structurels.
+
+Ces limites pèsent davantage là où la connexion est faible, le matériel modeste et les décisions rapides, par exemple en milieu rural ou scolaire.
+
+Ce travail propose une réponse architecturale. Ses contributions sont au nombre de quatre :
+1. cinq exigences de conception qui traduisent l'éthique en propriétés vérifiables (section 3) ;
+2. deux mécanismes transverses, l'abstention sous seuil et la matrice tricolore (section 5) ;
+3. une architecture modulaire composée d'un socle et de quatre modules héritant de ses règles (sections 3 et 4) ;
+4. un protocole d'évaluation falsifiable (section 6).
+
+La contribution est une intégration et une mise en forme de principes, non un nouvel algorithme. Les performances des modules ne sont pas rapportées ici.
+
+---
+
+## 2. État de l'art
+
+**Éthique par conception.** La *Value Sensitive Design* intègre des valeurs humaines dans le processus de conception technique [1]. Le *Privacy by Design* en a donné une déclinaison pour la vie privée [2]. Les lignes directrices européennes pour une IA digne de confiance [3] et la recommandation de l'UNESCO sur l'éthique de l'IA [4] posent des principes proches. Jobin, Ienca et Vayena observent, sur plus de quatre-vingts documents, une convergence sur les principes mais peu de consensus sur leur mise en œuvre [5]. DHIKRA se place sur ce second terrain : traduire les principes en mécanismes d'architecture.
+
+**Abstention sélective.** Le principe d'un classifieur qui refuse de répondre quand il est incertain remonte à l'option de rejet de Chow [6] et a été repris pour les réseaux profonds sous le nom de classification sélective [7]. Un seuil de confiance n'a toutefois de sens que si la confiance est calibrée, or les réseaux modernes le sont souvent mal [8]. Le seuil de 0,85 de DHIKRA est donc une hypothèse à valider module par module, non une garantie.
+
+**IA embarquée.** L'exécution de modèles sur des appareils à ressources limitées est documentée par la littérature TinyML [9] et par des environnements d'exécution dédiés [10]. Elle rend le fonctionnement hors ligne réaliste, au prix de modèles plus contraints que les grands modèles distants.
+
+---
+
+## 3. Exigences de conception et architecture
+
+L'éthique par conception est ici décomposée en cinq exigences. Chacune est formulée de manière à pouvoir être vérifiée.
+
+| Exigence | Propriété visée | Vérification proposée |
+| --- | --- | --- |
+| R1 Non-nuisance | Aucun module ne possède de fonction offensive ; l'observation est le comportement par défaut | Revue des spécifications : aucune fonction d'action contre une personne |
+| R2 Véracité | Sous le seuil de confiance (0,85), le système s'abstient | Taux d'abstention et risque sélectif mesurés sur un jeu de test |
+| R3 Souveraineté | Inférence et stockage restent locaux ; la fonction principale ne demande pas de réseau | Test réseau coupé : fonction maintenue, aucun trafic sortant |
+| R4 Contrôle humain | Toute action sensible passe par une validation humaine (matrice tricolore) | Aucun chemin d'exécution ne contourne la validation |
+| R5 Intégrité de la mémoire | L'historique est scellé | Toute altération de l'historique est détectable |
+
+L'architecture est modulaire. Le module DHIKRA SOURCE constitue le socle : il porte le protocole éthique et la mémoire scellée. Quatre modules applicatifs en héritent et couvrent chacun un domaine. Un module peut changer de domaine sans changer de règles.
+
+| Module | Domaine | Référence |
+| --- | --- | --- |
+| DHIKRA SOURCE | Éthique, mémoire, vérité | VID-20261009-WA0051 |
+| SAHA SCAN AI | Santé, alimentation | SAHA-20261015-WA0052 |
+| ILM LIBÉRATION TABLET | Savoir, éducation | ILM-20261017-WA0053 |
+| TAFSUT | Terre, observation | TAFSUT-20261018 |
+| TUDERT YIWEN (anciennement THUDERT 1) | Animal, élevage | — |
+
+**Figure 1.** Le socle DHIKRA SOURCE porte les
+
+
 # DHIKRA-IMMORTEL-AI | TR-2026-QUAD-0018 & TR-2026-TRIPLE-0017
 
 **Vitrine publique académique. SANS CODE SOURCE.**
