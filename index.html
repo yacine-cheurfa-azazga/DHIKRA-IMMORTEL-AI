@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DHIKRA QUAD SYSTEM AI — Architecture d’IA souveraine, hors ligne et éthique par construction</title>
+<meta name="description" content="DHIKRA QUAD SYSTEM AI : architecture d’IA hors ligne soumise à un filtre éthique à trois états (Respect-Check). Vitrine CC BY-NC-ND 4.0, technologie propriétaire.">
+<meta name="author" content="Yassa Yacine Cheurfa">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0A0A0A;--panel:rgba(16,15,12,.88);--line:#2e2a1e;--gold:#D4AF37;--gold2:#a98a25;--text:#e9e4d6;--mute:#a59f8c;--g:#3ea35a;--o:#e8903a;--r:#d2493f;--b:#4a8fd0;--p:#9a6fd0}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:16px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--bg);color:var(--text);font:17px/1.65 "Source Sans 3",system-ui,sans-serif;padding:0 20px env(safe-area-inset-bottom,0)}
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(ellipse at 50% 0,rgba(212,175,55,.10),transparent 65%),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='900' height='900'%3E%3Cfilter id='m' x='0' y='0' width='100%25' height='100%25'%3E%3CfeTurbulence type='turbulence' baseFrequency='.0035 .008' numOctaves='5' seed='7'/%3E%3CfeColorMatrix values='0 0 0 0 .83 0 0 0 0 .68 0 0 0 0 .21 -9 0 0 0 1.7'/%3E%3C/filter%3E%3Cfilter id='n' x='0' y='0' width='100%25' height='100%25'%3E%3CfeTurbulence type='turbulence' baseFrequency='.007 .016' numOctaves='4' seed='21'/%3E%3CfeColorMatrix values='0 0 0 0 .83 0 0 0 0 .68 0 0 0 0 .21 -11 0 0 0 1.5'/%3E%3C/filter%3E%3Crect width='900' height='900' filter='url(%23m)' opacity='.55'/%3E%3Crect width='900' height='900' filter='url(%23n)' opacity='.3'/%3E%3C/svg%3E") center/cover fixed,#0A0A0A}
+.logo{display:block;width:150px;height:auto;margin:0 auto 10px;filter:drop-shadow(0 0 14px rgba(212,175,55,.35))}
+.wrap{max-width:900px;margin:0 auto}
+h1,h2,h3{font-family:"Cormorant Garamond",Georgia,serif;color:var(--gold);line-height:1.2;font-weight:700}
+header{text-align:center;padding:56px 0 28px;border-bottom:1px solid var(--line)}
+h1{font-size:clamp(2.2rem,7vw,3.8rem);margin:0 0 10px;letter-spacing:.02em}
+.sub{font-family:"Cormorant Garamond",Georgia,serif;font-size:1.4rem;color:var(--text);margin:0 0 18px}
+.tags{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:14px 0}
+.tags span{border:1px solid var(--gold2);color:var(--gold);padding:2px 12px;border-radius:99px;font-size:.88rem}
+.tri{height:4px;border-radius:2px;margin:34px 0;background:linear-gradient(90deg,var(--g) 33.3%,var(--o) 33.3% 66.6%,var(--r) 66.6%)}
+h2{font-size:1.9rem;margin:0 0 14px}
+h3{font-size:1.35rem;margin:26px 0 8px;color:#e6c85a}
+p{margin:0 0 14px}
+a{color:var(--gold)}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+.note{border-left:4px solid var(--b);background:var(--panel);padding:12px 16px;margin:18px 0;border-radius:0 6px 6px 0}
+.note.imp{border-color:var(--p)}.note.tip{border-color:var(--g)}.note.warn{border-color:var(--o)}.note.caut{border-color:var(--r)}
+.note b.t{display:block;color:var(--gold);font-family:"Cormorant Garamond",Georgia,serif;font-size:1.1rem}
+.note p:last-child{margin:0}
+.tw{overflow-x:auto;margin:16px 0;border:1px solid var(--line);border-radius:6px}
+table{border-collapse:collapse;width:100%;min-width:560px;font-size:.96rem}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:#1a170f;color:var(--gold);font-weight:600}
+tr:last-child td{border-bottom:0}
+ul{padding-left:22px;margin:0 0 14px}li{margin-bottom:6px}
+details{border:1px solid var(--line);border-radius:6px;background:var(--panel);margin:22px 0}
+summary{cursor:pointer;padding:12px 16px;color:var(--gold);font-weight:600}
+details ol{margin:0;padding:4px 16px 14px 40px;columns:2;column-gap:28px}
+@media(max-width:620px){details ol{columns:1}}
+details a{text-decoration:none;color:var(--text)}details a:hover{color:var(--gold)}
+pre{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:14px;overflow-x:auto;font-size:.88rem;line-height:1.5;color:var(--text)}
+code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.88em;word-break:break-all}
+.quote{font-family:"Cormorant Garamond",Georgia,serif;font-size:1.35rem;text-align:center;color:var(--gold);margin:22px 0 6px}
+.auth{text-align:center;color:var(--mute);margin:0}
+.diag{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:16px 0}
+.diag div{border:1px solid var(--line);background:var(--panel);border-radius:6px;padding:10px 12px;font-size:.95rem}
+.diag .core{grid-column:1/-1;border-color:var(--gold2);text-align:center}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:26px 0 40px;text-align:center;color:var(--mute);font-size:.92rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+<svg class="logo" viewBox="0 0 130 130" role="img" aria-label="Logo DHIKRA : lettre D baroque en or et lettre I aux états vert, orange, rouge">
+<defs><linearGradient id="au" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6e08a"/><stop offset=".45" stop-color="#D4AF37"/><stop offset="1" stop-color="#8f7219"/></linearGradient></defs>
+<text x="2" y="108" font-family="'Cormorant Garamond',Georgia,serif" font-weight="700" font-size="128" fill="url(#au)" stroke="#8f7219" stroke-width="1">D</text>
+<path d="M6 118h80M14 123h64" stroke="url(#au)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+<rect x="95" y="17" width="26" height="92" rx="4" fill="#0A0A0A" stroke="url(#au)" stroke-width="2.5"/>
+<rect x="100" y="22" width="16" height="25" rx="2" fill="#3ea35a"/>
+<rect x="100" y="51" width="16" height="25" rx="2" fill="#e8903a"/>
+<rect x="100" y="80" width="16" height="24" rx="2" fill="#d2493f"/>
+</svg>
+<h1>DHIKRA QUAD SYSTEM AI</h1>
+<p class="sub">Architecture d’IA souveraine, hors ligne et éthique par construction</p>
+<div class="tags"><span>DHIKRA</span><span>SAHA</span><span>ILM</span><span>QUAD</span></div>
+<div class="tags"><span>Fiche Triple licence</span><span>Vitrine sans code source</span><span>V2.3</span><span>CC BY-NC-ND 4.0</span><span>Horodatage Bitcoin</span></div>
+<p class="quote">« DHIKRA = Mémoire scellée. SOURCE = Souveraineté. »</p>
+<p class="auth">Auteur et titulaire des droits : <strong>Yassa Yacine Cheurfa</strong> — chercheur indépendant, Azazga, Kabylie, Algérie</p>
+</header>
+
+<main>
+<div class="tri"></div>
+<section>
+<h2>Résumé</h2>
+<p>Ce document présente <strong>DHIKRA QUAD SYSTEM AI</strong>, une architecture d’intelligence artificielle conçue pour fonctionner hors ligne et soumise à un filtre éthique à trois états (<em>Respect-Check</em>) qui précède toute action ou toute saisie. Le système articule quatre quadrants fonctionnels (SOURCE, LOGIC, VISION, ACTION) autour d’un noyau orchestrateur doté d’une mémoire à court et long terme et d’une passerelle de sécurité (<em>Safe Control &amp; Ethics Gate</em>).</p>
+<p>Sa contribution revendiquée n’est pas l’invention des briques technologiques, mais leur assemblage autour d’une contrainte morale inscrite dans l’architecture et d’une gouvernance par consentement communautaire. Le document précise le périmètre des revendications, le régime de propriété intellectuelle, les preuves d’antériorité et les limites identifiées par l’auteur lui-même.</p>
+<p><strong>Mots-clés :</strong> IA éthique par conception ; IA hors ligne ; consentement communautaire ; mémoire scellée ; traçabilité ; souveraineté des données ; modèle du monde ; IA incarnée.</p>
+<details>
+<summary>Table des matières</summary>
+<ol>
+<li><a href="#s1">Introduction et problématique</a></li>
+<li><a href="#s2">Principes de la fiche TR-2026-QUAD-0018</a></li>
+<li><a href="#s3">Déclaration des revendications</a></li>
+<li><a href="#s4">Architecture générale</a></li>
+<li><a href="#s5">Flux de données et rétroaction</a></li>
+<li><a href="#s6">Respect-Check et matrice tricolore</a></li>
+<li><a href="#s7">Gouvernance et consentement</a></li>
+<li><a href="#s8">Écosystème de projets</a></li>
+<li><a href="#s9">Positionnement et état de l’art</a></li>
+<li><a href="#s10">Propriété intellectuelle et licences</a></li>
+<li><a href="#s11">Preuves d’antériorité et versions</a></li>
+<li><a href="#s12">Analyse critique</a></li>
+<li><a href="#s13">Perspectives et recommandations</a></li>
+<li><a href="#s14">Glossaire</a></li>
+<li><a href="#s15">Références</a></li>
+<li><a href="#s16">Comment citer</a></li>
+<li><a href="#s17">Mentions</a></li>
+</ol>
+</details>
+</section>
+
+<div class="tri"></div>
+<section id="s1">
+<h2>1. Introduction et problématique</h2>
+<p>Les approches dominantes de l’« alignement » ajoutent des garde-fous a posteriori à des modèles déjà puissants. DHIKRA QUAD SYSTEM AI part du principe inverse : <strong>la contrainte précède la capacité</strong>. Une IA ne doit pas faire de mal « par construction », et non en vertu d’une règle surajoutée.</p>
+<div class="note imp"><b class="t">Problématique</b><p>Comment concevoir un système d’IA dont la limite morale est inscrite dans l’architecture, dont les décisions sont traçables, et dont l’usage est subordonné au consentement de la communauté concernée ?</p></div>
+<h3>Fondements</h3>
+<ul>
+<li>🟡 <strong>Éthique par construction :</strong> le filtre agit avant la génération et avant l’action.</li>
+<li>🟡 <strong>La mémoire comme responsabilité :</strong> DHIKRA (remémoration). Une mémoire n’est reconnue comme valide qu’après validation puis scellage ; toute modification devient visible.</li>
+<li>🟢 <strong>Non-punition :</strong> l’outil éclaire, la personne décide.</li>
+<li>🔵 <strong>Respect élargi (MICAE) :</strong> Humain, Animal, Environnement.</li>
+<li>🟣 <strong>Souveraineté et communauté :</strong> les données et les décisions restent dans la communauté concernée (principe de conception : aucune donnée ne quitte le cercle familial via la Tablette ILM).</li>
+</ul>
+</section>
+
+<div class="tri"></div>
+<section id="s2">
+<h2>2. Principes de la fiche TR-2026-QUAD-0018</h2>
+<p>La fiche de référence TR-2026-QUAD-0018 fixe le cadre dans lequel DHIKRA QUAD SYSTEM AI est décrit, publié et protégé. Elle repose sur sept principes.</p>
+<div class="tw"><table>
+<tr><th>N°</th><th>Principe</th><th>Énoncé</th></tr>
+<tr><td>🟡 P1</td><td>Vitrine sans source</td><td>Seule la description académique est publique. Aucun code source ni détail de fabrication n’est divulgué ; seule l’architecture fonctionnelle de haut niveau est décrite.</td></tr>
+<tr><td>🟡 P2</td><td>Technologie propriétaire et fermée</td><td>Aucun droit d’exploitation commerciale n’est concédé sans accord écrit de l’auteur.</td></tr>
+<tr><td>🔵 P3</td><td>Séparation des régimes</td><td>La vitrine (CC BY-NC-ND 4.0) est distincte de la technologie, qu’elle ne couvre pas.</td></tr>
+<tr><td>🔵 P4</td><td>Noms réservés</td><td>QUAD SYSTEM AI, DHIKRA SOURCE, IMMORTEL AI, SAHA SCAN AI, ILM LIBERATION TABLET, TAFSUT AI, TUDERT YIWEN.</td></tr>
+<tr><td>🟠 P5</td><td>Antériorité datée, non unicité</td><td>Un dépôt daté prouve l’existence d’un contenu à une date donnée, non l’unicité de l’idée.</td></tr>
+<tr><td>🟠 P6</td><td>Revendications bornées</td><td>Le projet distingue ce qu’il revendique de ce qu’il ne revendique pas (§3).</td></tr>
+<tr><td>🔴 P7</td><td>Aucune garantie de performance</td><td>Les valeurs chiffrées sont des cibles de conception, non des mesures.</td></tr>
+</table></div>
+</section>
+
+<div class="tri"></div>
+<section id="s3">
+<h2>3. Déclaration des revendications</h2>
+<h3>3.1 Ce qui est revendiqué</h3>
+<div class="note tip"><ul>
+<li><strong>Le système conçu :</strong> une architecture d’IA hors ligne dont un filtre éthique à trois états (Respect-Check) précède toute action ou saisie.</li>
+<li><strong>La philosophie :</strong> l’éthique par construction plutôt que par règle ajoutée.</li>
+<li><strong>La charte d’accord :</strong> la communauté concernée décide ; tout usage raisonnable suppose son consentement.</li>
+<li><strong>L’implémentation :</strong> l’intégration de la matrice tricolore dans l’application elle-même, associée à une gouvernance communautaire et à un fonctionnement hors ligne.</li>
+<li><strong>La paternité</strong> de cet ensemble par Yassa Yacine Cheurfa, avec les preuves datées associées.</li>
+</ul></div>
+<h3>3.2 Ce qui n’est pas revendiqué</h3>
+<div class="note warn"><ul>
+<li>Le fait d’être le premier à employer trois couleurs pour encadrer l’usage de l’IA : des dispositifs analogues existent, notamment dans l’enseignement supérieur.</li>
+<li>L’invention du drone de détection d’incendie, du réseau LoRa ou de l’IA embarquée.</li>
+<li>L’unicité d’une idée du seul fait d’un dépôt daté.</li>
+<li>Toute performance garantie à ce stade.</li>
+</ul></div>
+</section>
+
+<div class="tri"></div>
+<section id="s4">
+<h2>4. Architecture générale</h2>
+<h3>4.1 Vue d’ensemble</h3>
+<p>L’architecture se compose d’un noyau central et de quatre quadrants.</p>
+<div class="diag" role="img" aria-label="Noyau DHIKRA Orchestrator Core entouré de quatre quadrants : SOURCE, LOGIC, VISION, ACTION">
+<div>🟡 <strong>Q1 · SOURCE</strong><br>Valeurs et ancrage</div>
+<div>🔵 <strong>Q2 · LOGIC</strong><br>Cognition et planification</div>
+<div class="core">⚫ <strong>DHIKRA Orchestrator Core</strong><br>Hub · Mémoire CT/LT · 🔴 Safe Control &amp; Ethics Gate</div>
+<div>🟢 <strong>Q3 · VISION</strong><br>Perception, modèle du monde</div>
+<div>🟠 <strong>Q4 · ACTION</strong><br>Exécution incarnée</div>
+</div>
+<h3>4.2 Noyau central : DHIKRA Orchestrator Core</h3>
+<div class="tw"><table>
+<tr><th>Composant</th><th>Fonction</th></tr>
+<tr><td>⚫ Hub de coordination</td><td>Gestion des flux de décision globaux entre modules</td></tr>
+<tr><td>🟡 Mémoire CT / LT</td><td>Tampon à court terme et mémoire longue ; synchronisation des plongements latents ; historique des écarts prédiction/réel</td></tr>
+<tr><td>🔴 Passerelle de sécurité et d’éthique</td><td>Verrou de validation systématique entre les modules : vérifier l’intention, les barrières anti-collision et les contraintes culturelles ; bloquer ou replanifier en cas de risque</td></tr>
+</table></div>
+<h3>4.3 Les quatre quadrants</h3>
+<div class="tw"><table>
+<tr><th>Quadrant</th><th>Rôle</th><th>Composants et capacités</th></tr>
+<tr><td>🟡 Q1 · SOURCE DHIKRA</td><td>Alignement des valeurs et ancrage contextuel</td><td>Moteur de valeurs humaines (éthique universelle et locale) ; couche d’intention, de finalité et de responsabilité sociétale ; base de connaissances sur le patrimoine algérien. Porte la mémoire scellée et le protocole RAHMA.</td></tr>
+<tr><td>🔵 Q2 · LOGIQUE</td><td>Cognition et planification</td><td>Grand modèle de langage optimisé pour le raisonnement : dialogue, logique formelle, synthèse, questions-réponses contextuelles. Traduit le texte brut en plans structurés (Texte ➔ Plan ➔ Instruction). Moteur de raisonnement MICAE, visé hors ligne (Edge AI).</td></tr>
+<tr><td>🟢 Q3 · VISION</td><td>Perception et modèle du monde</td><td>V-JEPA 2 (Meta), apprentissage visuel prédictif sans étiquetage humain ; modélisation du monde, plongements latents, anticipation des états futurs (t+1, t+2, t+3).</td></tr>
+<tr><td>🟠 Q4 · ACTION</td><td>Exécution incarnée</td><td>Bras robotique Franka (Franka Robotics) ; planification cinématique, manipulation de précision, interaction physique ; exécution sécurisée via la Tablette ILM et le protocole CCSS.</td></tr>
+</table></div>
+<h3>4.4 Modules complémentaires</h3>
+<ul>
+<li>🟣 Cinq modules PENTA : mémoire, santé, savoir, environnement, alimentation.</li>
+<li>🟣 Trois modules exécutifs : drone TAFSUT AI, protocole MICAE, DHIKRA SCELLÉE.</li>
+</ul>
+</section>
+
+<div class="tri"></div>
+<section id="s5">
+<h2>5. Flux de données et boucle de rétroaction</h2>
+<div class="tw"><table>
+<tr><th>Étape</th><th>Transition</th><th>Description</th></tr>
+<tr><td>1</td><td>SOURCE → Noyau</td><td>Alignement initial : filtres éthiques, culturels et d’intention appliqués à la tâche.</td></tr>
+<tr><td>2</td><td>Noyau → Passerelle → LOGIC</td><td>Validation sécuritaire : passage obligatoire par la Safe Control &amp; Ethics Gate.</td></tr>
+<tr><td>3</td><td>LOGIC → VISION</td><td>Planification : décomposition en plan d’instructions structurées.</td></tr>
+<tr><td>4</td><td>VISION → ACTION</td><td>Simulation et anticipation : résultat simulé, collisions anticipées. Si un risque est détecté, replanification via l’Ethics Gate.</td></tr>
+<tr><td>5</td><td>ACTION → Monde réel</td><td>Exécution physique de l’action validée.</td></tr>
+<tr><td>6</td><td>Monde réel → VISION</td><td>Capture des flux visuels réels.</td></tr>
+<tr><td>7</td><td>VISION → Noyau</td><td>Rétroaction : calcul de l’écart prédiction/réalité, renvoyé au noyau pour auto-correction et apprentissage.</td></tr>
+</table></div>
+<div class="note caut"><b class="t">Propriété de sûreté visée (fail-closed)</b><p>En cas d’absence de validation ou d’incertitude, le système se bloque par défaut. Cette propriété est un objectif de conception à démontrer (voir §13).</p></div>
+</section>
+
+<div class="tri"></div>
+<section id="s6">
+<h2>6. Respect-Check et matrice tricolore</h2>
+<p>Principe énoncé : aucune génération n’a lieu sans Respect-Check validé. Le filtre est intégré à l’identité visuelle (dans la lettre « I » du typogramme DHIKRA).</p>
+<div class="tw"><table>
+<tr><th>État</th><th>Effet sur le clavier / la saisie</th><th>Effet sur le drone / l’action</th></tr>
+<tr><td>🟢 VERT</td><td>Autorisation</td><td>Transmission autorisée</td></tr>
+<tr><td>🟠 ORANGE</td><td>Réécriture exigée (formule rituelle répétée trois fois)</td><td>Réduction de vitesse ou validation contextuelle</td></tr>
+<tr><td>🔴 ROUGE</td><td>Blocage</td><td>Interruption immédiate</td></tr>
+</table></div>
+<p><strong>Choix de retenue : la photo vivante (IMMORTEL AI).</strong> L’animation est limitée à un alignement naturel des yeux et à un mouvement de bouche doux (/A/ et /M/, au moins 24 images par seconde), sans voix, sans son, sans musique, avec préservation de l’expression d’origine. Ce choix réduit les risques de falsification d’identité et d’usurpation.</p>
+</section>
+
+<div class="tri"></div>
+<section id="s7">
+<h2>7. Gouvernance et consentement communautaire</h2>
+<p>La communauté concernée décide. Un usage raisonnable suppose son consentement, exprimé par un conseil local via la Tablette ILM :</p>
+<ul><li>🟢 <strong>Vert :</strong> autorisé.</li><li>🟠 <strong>Orange :</strong> validation par le conseil.</li><li>🔴 <strong>Rouge :</strong> interdit.</li></ul>
+<p>Un droit d’opposition avant scellage est prévu pour les traces individuelles. Cette gouvernance constitue la contribution la plus distinctive du projet : elle déplace la question éthique de la machine vers l’institution qui l’encadre.</p>
+<h3>7.1 Le principe de la gouvernance par consentement</h3>
+<p>Dans les approches conventionnelles, les règles d’éthique sont codées ou intégrées de manière centralisée par les concepteurs du modèle. Dans DHIKRA QUAD SYSTEM AI, le principe fondamental est que la communauté décide :</p>
+<ul>
+<li><strong>Décision collective locale :</strong> aucun usage critique ou structurant de l’IA ne peut être effectué de manière autonome sans l’aval d’un conseil local.</li>
+<li><strong>Alignement culturel et social :</strong> la machine n’impose pas ses critères exogènes ; elle applique les barrières et les valeurs ancrées dans le contexte local (portées notamment par le quadrant SOURCE et son protocole RAHMA).</li>
+<li><strong>Droit d’opposition :</strong> un mécanisme de protection des données individuelles et de respect de la vie privée est prévu à travers un droit d’opposition avant tout scellage mémoriel.</li>
+</ul>
+<h3>7.2 Le rôle de la Tablette ILM (ILM Liberation Tablet)</h3>
+<p>La Tablette ILM est le support local de savoir et de supervision de l’écosystème. Elle fonctionne hors ligne et permet au conseil local d’exprimer son consentement (vert, orange, rouge). Par principe de conception, aucune donnée ne quitte le cercle familial via la Tablette ILM.</p>
+<h3>7.3 CCSS : Contrôle, Certification et Scellage Sécurisé</h3>
+<p>Le CCSS est un protocole clé de l’architecture. Il intervient au niveau de la sécurisation des actions et de l’intégrité des données dans l’écosystème physique et embarqué (notamment lors des interactions avec le quadrant ACTION, les drones ou la Tablette ILM).</p>
+<ul>
+<li>🟡 <strong>Garantie de l’intégrité (scellage) :</strong> le protocole s’appuie sur des empreintes cryptographiques pour enregistrer les données et les états du système de manière vérifiable, rendant toute modification ou tentative de falsification visible.</li>
+<li>🔵 <strong>Certification et contrôle d’exécution :</strong> il vise à garantir que chaque ordre d’action physique (par exemple, transmis au bras robotique Franka ou au matériel embarqué) a reçu l’aval du filtre éthique (Respect-Check) et des validateurs humains compétents.</li>
+<li>🟢 <strong>Traçabilité :</strong> il permet de consigner, à intégrité vérifiable, l’historique des décisions prises par le noyau orchestrateur, assurant la transparence et la responsabilité de la machine envers la communauté.</li>
+</ul>
+</section>
+
+<div class="tri"></div>
+<section id="s8">
+<h2>8. Écosystème de projets</h2>
+<p>Les trois projets de l’Écosystème Triple Licence (réf. TR-2026-TRIPLE-0017) forment la base de l’architecture DHIKRA QUAD SYSTEM AI (fiche TR-2026-QUAD-0018) :</p>
+<div class="tw"><table>
+<tr><th>Projet</th><th>Référence</th><th>Fonction</th></tr>
+<tr><td>🟡 DHIKRA SOURCE</td><td>VID-20261009-WA0051</td><td>Protocole éthique, mémoire scellée, cœur du système</td></tr>
+<tr><td>🟢 SAHA SCAN AI</td><td>SAHA-20261015-WA0052</td><td>Santé et analyse alimentaire, hors ligne</td></tr>
+<tr><td>🔵 ILM LIBERATION TABLET</td><td>ILM-20261017-WA0053</td><td>Savoir libre, tablette mono-application souveraine, hors ligne</td></tr>
+</table></div>
+<p>Autres projets de l’écosystème :</p>
+<div class="tw"><table>
+<tr><th>Projet</th><th>Fonction</th></tr>
+<tr><td>🟣 IMMORTEL AI</td><td>Photo vivante, mémoire commémorative</td></tr>
+<tr><td>🟠 TAFSUT AI</td><td>Détection précoce d’incendie par drone</td></tr>
+<tr><td>🟤 TUDERT YIWEN</td><td>Protection de la vie (élevage)</td></tr>
+</table></div>
+</section>
+
+<div class="tri"></div>
+<section id="s9">
+<h2>9. Positionnement et état de l’art</h2>
+<p><strong>Contribution propre :</strong> l’ingénierie de la contrainte éthique et souveraine par construction.</p>
+<ul>
+<li><strong>L’éthique dans l’interface :</strong> filtre tricolore imbriqué dans le typogramme ; blocage ou guidage au niveau de la saisie.</li>
+<li><strong>Le consensus local :</strong> validation par un conseil via la Tablette ILM, pour une IA déconnectée (air-gapped).</li>
+<li><strong>Le triptyque MICAE :</strong> Humain, Animal, Environnement, avec scellage par empreinte cryptographique à intégrité vérifiable.</li>
+<li><strong>La dignité mémorielle :</strong> sobriété d’IMMORTEL AI (mouvements subtils, pas de clonage vocal).</li>
+</ul>
+<p><strong>Briques existantes intégrées sans prétention d’invention :</strong> infrastructures matérielles (drones, réseaux LoRa), modèles de langage légers exécutables localement, registres d’audit standard, codes colorimétriques de vigilance, modèles du monde de type JEPA.</p>
+<p><strong>Formulation de la contribution :</strong> une implémentation originale qui intègre le feu tricolore dans l’application elle-même, associée à une gouvernance communautaire et à un fonctionnement hors ligne.</p>
+</section>
+
+<div class="tri"></div>
+<section id="s10">
+<h2>10. Propriété intellectuelle et licences</h2>
+<div class="tw"><table>
+<tr><th>Élément</th><th>Régime</th></tr>
+<tr><td>🔴 Technologie</td><td>Propriétaire et fermée ; aucun droit d’exploitation commerciale concédé sans accord écrit</td></tr>
+<tr><td>🟢 Vitrine et documentation</td><td>CC BY-NC-ND 4.0 (ne couvre pas la technologie)</td></tr>
+<tr><td>🟠 Logos officiels et glossaire</td><td>Réservés ; conditions d’usage à préciser par l’auteur</td></tr>
+<tr><td>🟡 Noms réservés</td><td>Voir principe P4</td></tr>
+</table></div>
+<p>La vitrine (textes et visuels) est publiée sous <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr">CC BY-NC-ND 4.0</a> : partage non commercial, avec mention de l’auteur, sans modification. La technologie sous-jacente reste propriétaire et fermée.</p>
+<p>Autorisation écrite préalable requise pour toute collaboration, licence d’exploitation ou utilisation dans un autre projet. Interdits sans licence écrite : modification du principe original, contrefaçon, exploitation commerciale, ingénierie inverse.</p>
+<h3>Feu tricolore des usages pour les chercheurs</h3>
+<div class="tw"><table>
+<tr><th>État</th><th>Usage</th></tr>
+<tr><td>🟢 VERT</td><td>Lecture et citation libres, avec attribution</td></tr>
+<tr><td>🟠 ORANGE</td><td>Autorisation écrite préalable requise</td></tr>
+<tr><td>🔴 ROUGE</td><td>Interdit : copie, ingénierie inverse, exploitation commerciale</td></tr>
+</table></div>
+<p><em>Cette section décrit les choix du projet ; elle ne constitue pas un avis juridique.</em></p>
+<p><strong>Identité visuelle.</strong> Pack visuel DHIKRA SOURCE AI : or baroque et marbre noir veiné d’or (fond #0A0A0A, ou métallique #D4AF37). Marque figurative revendiquée : lettre D baroque + lettre I contenant verticalement les états vert, orange, rouge. Slogans : « DHIKRA = Mémoire scellée » · « SOURCE = Souveraineté ».</p>
+</section>
+
+<div class="tri"></div>
+<section id="s11">
+<h2>11. Preuves d’antériorité et versions</h2>
+<p>Un dépôt Zenodo établit qu’un document existait à une date donnée ; il ne prouve ni l’unicité de l’idée ni, à lui seul, la paternité. La paternité est revendiquée, avec les preuves datées associées (dépôts Zenodo, horodatages OpenTimestamps et RFC 3161, dépôts GitHub, fichiers d’origine).</p>
+<div class="tw"><table>
+<tr><th>Version</th><th>DOI</th><th>Description</th></tr>
+<tr><td>🟢 2.3 (actuelle)</td><td><a href="https://doi.org/10.5281/zenodo.23964487">10.5281/zenodo.23964487</a></td><td>Vitrine réorganisée</td></tr>
+<tr><td>🟡 2.2</td><td><a href="https://doi.org/10.5281/zenodo.23944074">10.5281/zenodo.23944074</a></td><td>Section 0, glossaire, logo du pack baroque</td></tr>
+<tr><td>🟡 2.1</td><td><a href="https://doi.org/10.5281/zenodo.23847692">10.5281/zenodo.23847692</a></td><td>Antériorité de la vitrine</td></tr>
+<tr><td>🔵 Toutes versions</td><td><a href="https://doi.org/10.5281/zenodo.23671062">10.5281/zenodo.23671062</a></td><td>DOI de concept</td></tr>
+</table></div>
+<h3>Empreinte et horodatage de la vitrine</h3>
+<ul>
+<li>SHA-256 de index.html : <code>2cdf852837b6c55063f5999df16d6665bacf34c7efd317a384ca5ad150cbaec2</code></li>
+<li>Horodatage Bitcoin : <code>index.html.ots</code> (vérifiable sur <a href="https://opentimestamps.org">opentimestamps.org</a>)</li>
+</ul>
+</section>
+
+<div class="tri"></div>
+<section id="s12">
+<h2>12. Analyse critique : tensions et limites</h2>
+<p>Par rigueur académique, l’auteur expose lui-même les questions ouvertes du projet.</p>
+<ul>
+<li><strong>Qui définit le mal ?</strong> Une taxonomie explicite du vert, de l’orange et du rouge, avec justification, est nécessaire.</li>
+<li><strong>Protection et autonomie.</strong> L’énoncé « le Respect-Check contrôle le clavier » doit être concilié avec « l’IA ne décide pas seule ».</li>
+<li><strong>Mémoire non supprimable.</strong> Elle s’oppose au droit à l’effacement de nombreux régimes de protection des données ; la procédure de retrait d’une mémoire scellée reste à préciser.</li>
+<li><strong>Personnes disparues.</strong> Un protocole de consentement des ayants droit renforcerait la retenue du dispositif.</li>
+<li><strong>Universalité des formules.</strong> L’état orange exige une formule rituelle ; une variante neutre peut être envisagée.</li>
+<li><strong>Exactitude des affirmations techniques.</strong>
+<ul>
+<li>« 100 % hors ligne » exige une architecture matérielle précise (isolement réseau, absence de mises à jour distantes).</li>
+<li>Un journal à intégrité vérifiable par empreintes est plus exact qu’un « registre infalsifiable ».</li>
+<li>Le floutage automatique ne peut être garanti à 100 %.</li>
+<li>Les spécifications du drone doivent être cohérentes sur le plan physique, et son vol est soumis à autorisation.</li>
+<li>Les valeurs telles que latence &lt; 40 ms ou contexte de 128 k sont des cibles, non des mesures.</li>
+</ul></li>
+<li><strong>Cohérence terminologique.</strong> « Feu tricolore pénal » et « non-punition » gagneraient à être réconciliés.</li>
+<li><strong>Cohérence d’architecture.</strong> L’intégration d’un modèle de vision et d’un bras robotique à un système « 100 % hors ligne » suppose un déploiement local de tous les modèles, dont les conditions restent à préciser.</li>
+</ul>
+</section>
+
+<div class="tri"></div>
+<section id="s13">
+<h2>13. Perspectives et recommandations</h2>
+<ul>
+<li>Démonstration vidéo datée des trois états du Respect-Check.</li>
+<li>Taxonomie publique du vert, de l’orange et du rouge.</li>
+<li>Protocole de consentement (communauté, ayants droit).</li>
+<li>Spécification technique minimale, sans divulgation des secrets de fabrication.</li>
+<li>Protocole d’évaluation du comportement fail-closed (scénarios de test, critères de réussite).</li>
+<li>Relecture externe par un chercheur en éthique de l’IA ou en droit du numérique.</li>
+</ul>
+<div class="note"><b class="t">Conclusion</b><p>La valeur principale du projet n’est pas d’avoir inventé les briques, mais de les assembler autour d’une gouvernance locale et d’une philosophie du refus, ancrées dans un contexte culturel précis.</p></div>
+</section>
+
+<div class="tri"></div>
+<section id="s14">
+<h2>14. Glossaire</h2>
+<div class="tw"><table>
+<tr><th>Terme</th><th>Définition</th></tr>
+<tr><td>DHIKRA</td><td>Principe de mémoire validée puis scellée (remémoration)</td></tr>
+<tr><td>SOURCE</td><td>Module d’alignement culturel et éthique ; souveraineté</td></tr>
+<tr><td>Respect-Check</td><td>Filtre éthique à trois états contrôlant ce qui peut passer</td></tr>
+<tr><td>Feu tricolore</td><td>Matrice vert, orange, rouge du Respect-Check</td></tr>
+<tr><td>MICAE</td><td>Protocole de validation Humain-Animal-Environnement</td></tr>
+<tr><td>PENTA</td><td>Cinq modules : mémoire, santé, savoir, environnement, alimentation</td></tr>
+<tr><td>Scellage</td><td>Consignation rendant toute modification visible</td></tr>
+<tr><td>CCSS</td><td>Contrôle, Certification et Scellage Sécurisé</td></tr>
+<tr><td>ILM</td><td>Tablette locale de savoir et de supervision</td></tr>
+<tr><td>RAHMA</td><td>Protocole associé à la mémoire scellée du quadrant SOURCE</td></tr>
+<tr><td>V-JEPA 2</td><td>Modèle vidéo prédictif de Meta (représentations latentes)</td></tr>
+<tr><td>Fail-closed</td><td>Fermeture par défaut : blocage en l’absence de validation</td></tr>
+</table></div>
+</section>
+
+<section id="s15">
+<h2>15. Références</h2>
+<p><em>Références indicatives, à vérifier avant citation formelle.</em></p>
+<ul>
+<li>Assran, M., Bardes, A., Fan, D., Garrido, Q., Howes, R. et al. (2025). <em>V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning.</em> arXiv:2506.09985.</li>
+<li>UNESCO (2021). <em>Recommandation sur l’éthique de l’intelligence artificielle.</em></li>
+<li>Parlement européen et Conseil (2024). Règlement (UE) 2024/1689 sur l’intelligence artificielle.</li>
+<li>Parlement européen et Conseil (2016). Règlement (UE) 2016/679 (RGPD), art. 17 (droit à l’effacement).</li>
+<li>ISO/CEI 42001:2023. <em>Systèmes de gestion de l’intelligence artificielle.</em></li>
+<li>University College Dublin, Faculté des arts et des sciences humaines (2024). <em>Système de feux tricolores pour l’utilisation de l’IA générative dans les travaux pratiques</em> (rouge / orange / vert). <a href="https://www.ucd.ie/artshumanities/study/aifutures/trafficlightsystem">ucd.ie</a></li>
+</ul>
+</section>
+
+<section id="s16">
+<h2>16. Comment citer</h2>
+<h3>APA</h3>
+<p>Cheurfa, Y. Y. (2026). <em>DHIKRA-IMMORTEL-AI : QUAD SYSTEM AI</em> (version 2.3) [Vitrine logicielle]. Zenodo. <a href="https://doi.org/10.5281/zenodo.23964487">https://doi.org/10.5281/zenodo.23964487</a></p>
+<h3>BibTeX</h3>
+<pre><code>@software{cheurfa_quad_system_ai_2026,
+  author  = {Cheurfa, Yassa Yacine},
+  title   = {DHIKRA-IMMORTEL-AI: QUAD SYSTEM AI},
+  version = {2.3},
+  year    = {2026},
+  doi     = {10.5281/zenodo.23964487},
+  url     = {https://doi.org/10.5281/zenodo.23964487}
+}</code></pre>
+</section>
+
+<div class="tri"></div>
+<section id="s17">
+<h2>17. Mentions</h2>
+<p>© 2026 Yassa Yacine Cheurfa. Tous droits réservés sur la technologie. Vitrine et documentation sous licence CC BY-NC-ND 4.0. Les noms et logos listés au principe P4 sont réservés.</p>
+</section>
+</main>
+
+<footer>DHIKRA QUAD SYSTEM AI · version 2.3 · Azazga, Kabylie, Algérie</footer>
+</div>
+</body>
+</html>
