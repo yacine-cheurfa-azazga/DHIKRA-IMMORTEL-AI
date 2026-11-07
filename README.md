@@ -1,3 +1,4 @@
+<img width="1280" height="1920" alt="4559" src="https://github.com/user-attachments/assets/87f9a06a-e510-473f-bce1-a840d89203e2" />
 # Livre blanc — DHIKRA QUAD SYSTEM AI
 
 *Une architecture d'intelligence artificielle éthique par conception, hors ligne et sous contrôle humain*
