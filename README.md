@@ -1,3 +1,4 @@
+<img width="1280" height="1920" alt="4559" src="https://github.com/user-attachments/assets/3736c7ba-e5b3-4cf0-998d-6be60b3b6d61" />
 <p align="center">
   <img src="assets/dhikra-feu-tricolore.png" alt="Feu tricolore éthique de DHIKRA : le vert est allumé" width="140">
 </p>
