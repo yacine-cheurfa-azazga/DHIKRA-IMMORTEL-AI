@@ -918,3 +918,58 @@ La paternité intellectuelle de cet ensemble est ancrée de manière vérifiable
 La paternité intellectuelle de cette combinaison d'architecture fermée et propriétaire est d'ores et déjà ancrée de manière vérifiable par la science cryptographique :
 • Preuve d’Existence Temporelle : L’horodatage décentralisé via le protocole OpenTimestamps associe de façon définitive l’empreinte SHA-256 des spécifications à un bloc immuable de la blockchain Bitcoin.
 • Référencement Académique Public : L'attribution du DOI Zenodo (10.5281/zenodo.23964487) confère au livret blanc un statut de publication de référence, opposable à toute tentative de réplication ou de dépôt ultérieur par des tiers.
+
+# DHIKRA QUAD SYSTEM AI
+*Architecture d'Intelligence Artificielle Souveraine, Hors-Ligne & Normative (Ethics by Design)*
+
+## 💡 L'Essentiel
+**DHIKRA QUAD SYSTEM AI** est une architecture d'intelligence artificielle locale, totalement déconnectée (offline) et souveraine, conçue à Azazga (Algérie). Sa spécificité repose sur le principe d'**Éthique par la Conception (Ethics by Design)** : les contraintes de sécurité et les règles morales ne sont pas des filtres rajoutés post-entraînement, mais sont inscrites au cœur même de la structure logicielle.
+
+Le projet est présenté sous forme de vitrine académique textuelle (sans code source ouvert) sous licence restrictive **CC BY-NC-ND 4.0**.
+
+---
+
+## 🛠️ Architecture & Principes Fondamentaux
+
+Le système s'articule autour de deux mécanismes transversaux stricts pour garantir un comportement éthique et fiable :
+
+1. **L'Abstention Sélective Déterministe ($\tau = 0.85$)**  
+   Si l'indice de confiance calculé par le système est inférieur à 0.85 (85 %), l'IA refuse toute génération spéculative ou incertaine et bascule immédiatement vers un état de non-réponse explicite : *"Je ne sais pas"*.
+
+2. **La Matrice Tricolore à Portes Synchrones (Vert / Orange / Rouge)**  
+   Cadre d'évaluation de la dangerosité et de la sensibilité des opérations. Toute action classée sensible (Orange) ou critique (Rouge) exige une validation humaine explicite et synchrone avant exécution.
+
+> **Note sur la nomenclature :** Le terme **QUAD** ne désigne pas le nombre de modules applicatifs, mais les quatre quadrants transversaux (**SOURCE**, **LOGIC**, **VISION**, **ACTION**) qui régissent le cœur et l'ensemble de ses extensions.
+
+---
+
+## 📦 Écosystème à Triple Licence (Réf. TR-2026-TRIPLE-0017)
+
+L'architecture se déploie à travers un triptyque matériel et logiciel étanche :
+
+* **DHIKRA SOURCE :** Protocole éthique central et système de mémoire scellée non altérable.
+* **SAHA SCAN AI :** Module d'analyse et d'inspection nutritionnelle/alimentaire s'exécutant à 100 % hors-ligne.
+* **ILM LIBERATION TABLET :** Terminal matériel dédié et figé (monotâche/souverain), affranchi de toute dépendance aux infrastructures cloud externes.
+
+---
+
+## 🔬 Comparatif vis-à-vis de l'État de l'Art (2026)
+
+| Dimension Architecturale | Approches Industrielles Standard | Architecture DHIKRA QUAD SYSTEM AI |
+| :--- | :--- | :--- |
+| **Intégration de l'Éthique** | Correctifs superficiels post-hoc (RLHF, garde-fous cloud externes). | **Ethics by Design** : Règles éthiques gravées dans la structure logicielle. |
+| **Incertitude & Hallucinations** | Génération probabiliste continue avec risques d'hallucinations. | **Abstention déterministe** : Seuil absolu à $0.85$ déclenchant l'état *"Je ne sais pas"*. |
+| **Contrôle d'Exécution** | Validation humaine a posteriori (asynchrone ou absente). | **Portes de blocage synchrones** : Matrice tricolore suspendant l'action en amont. |
+| **Souveraineté des Données** | Dépendance aux serveurs distants et puces distantes (Cloud/Hybride). | **Étanchéité matérielle (Edge-native)** : Terminal dédié déconnecté (ILM Tablet). |
+
+---
+
+## 🔒 Consolidation et Protection des Droits d’Antériorité
+
+La cohérence formelle et la reproductibilité éthique sur l'ensemble des modules du système (**LOGIC, VISION, ACTION**) garantissent l'intégrité de cette architecture fermée et propriétaire.
+
+La paternité intellectuelle de cet ensemble est ancrée de manière vérifiable par la science cryptographique et opposable à toute tentative de réplication ultérieure par des tiers :
+
+* **Preuve d’existence temporelle :** L’horodatage décentralisé via le protocole **OpenTimestamps** associe de façon immuable l’empreinte SHA-256 des spécifications (`index.html.ots` et `DhikraNotary.sol.ots`) à un bloc de la blockchain Bitcoin.
+* **Référencement académique public :** L'attribution du DOI Zenodo ([10.5281/zenodo.23964487](https://doi.org/10.5281/zenodo.23964487)) confère au livre blanc un statut officiel de publication de référence.
+* 
