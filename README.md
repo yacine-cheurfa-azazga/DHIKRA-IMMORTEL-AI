@@ -1,3 +1,326 @@
+# DHIKRA-IMMORTEL-AI | TR-2026-QUAD-0018 & TR-2026-TRIPLE-0017
+
+**Public academic showcase. NO SOURCE CODE.**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23964487.svg)](https://doi.org/10.5281/zenodo.23964487)
+[![DOI V2.3](https://img.shields.io/badge/DOI-V2.3-blue)](https://doi.org/10.5281/zenodo.23964487)
+[![All versions](https://img.shields.io/badge/DOI-all%20versions-blue)](https://doi.org/10.5281/zenodo.23671062)
+[![Licence: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1982--7176-a6ce39)](https://orcid.org/0009-0005-1982-7176)
+[![Bitcoin OpenTimestamps](https://img.shields.io/badge/Bitcoin-OpenTimestamps-orange)](index.html.ots)
+
+**Author and rights holder:** Yassa Yacine Cheurfa, Azazga, Algeria  
+© 2026 Yassa Yacine Cheurfa. All rights reserved on the technology.
+
+## Contents
+
+- [Part I. Overview](#part-i-overview)
+- [Part II. White paper](#part-ii-white-paper)
+- [Part III. Reference sheet](#part-iii-reference-sheet)
+
+---
+
+## Part I. Overview
+
+### Ethics by Design
+
+Ethics by design consists of building moral values, safety rules and ethical principles directly into the architecture of a computer system or an artificial intelligence, from its very first development phase.
+
+In **DHIKRA QUAD SYSTEM AI**, this means:
+
+- The system does not kill; it observes.
+- The system does not lie: if confidence is below 0.85, it answers "I don't know".
+- The system does not steal: it stays offline, local and sovereign.
+
+### Triple Licence Ecosystem (Ref. TR-2026-TRIPLE-0017)
+
+- **DHIKRA SOURCE** (VID-20261009-WA0051): ethical protocol, sealed memory
+- **SAHA SCAN AI** (SAHA-20261015-WA0052): offline food scanning
+- **ILM LIBERATION TABLET** (ILM-20261017-WA0053): sovereign single-application tablet
+
+This triptych is the basis of the **DHIKRA QUAD SYSTEM AI** architecture (sheet TR-2026-QUAD-0018).
+
+### Principles
+
+- **P1, showcase without source:** only the academic description is public. No source code, no internal architecture and no manufacturing detail is disclosed.
+- **P2, closed proprietary technology:** no commercial exploitation right is granted without the author's written agreement.
+
+### Licence
+
+This showcase (texts and visuals) is published under **CC BY-NC-ND 4.0**: non-commercial sharing, with attribution of the author, without modification. The underlying technology remains proprietary and closed.
+
+Reserved names: DHIKRA SOURCE, SAHA SCAN AI, ILM LIBERATION TABLET, QUAD SYSTEM AI.
+
+Any reuse or citation must name the author and include a link to this original repository.
+
+### Proofs of anteriority
+
+- **DOI (Zenodo):** 10.5281/zenodo.23964487
+- **SHA-256 of `index.html`:** 2cdf852837b6c55063f5999df16d6665bacf34c7efd317a384ca5ad150cbaec2
+- **Bitcoin timestamp:** `index.html.ots` (verifiable on opentimestamps.org)
+- **File `DhikraNotary.sol`:** timestamped on Bitcoin (`DhikraNotary.sol.ots`), not deployed on a blockchain. SHA-256: [FULL HASH, 64 characters]
+
+### Contact for licence requests
+
+dhikraemmortel@proton.me
+
+> **WARNING:** this repository contains no source code. Any request for code, internal architecture or manufacturing detail will be refused.
+
+---
+
+## Part II. White paper
+
+### White paper: DHIKRA QUAD SYSTEM AI
+
+*An ethics-by-design, offline AI architecture under human oversight*
+
+**Author:** Yassa Yacine Cheurfa, independent author, Azazga (Algeria)  
+**References:** TR-2026-QUAD-0018 · TR-2026-TRIPLE-0017 · DOI 10.5281/zenodo.23964487  
+**Version:** 1.0, November 2026. Public version, no source code. Published with showcase version 2.3 (DOI 10.5281/zenodo.23964487).  
+**Text licence:** CC BY-NC-ND 4.0. The underlying technology remains proprietary.  
+**Contact:** dhikraemmortel@proton.me
+
+#### Abstract
+
+We present DHIKRA QUAD SYSTEM AI, a family of offline AI elements built on one requirement: ethics is a property of the architecture, not an add-on. It comprises one ethical core and four application modules.
+
+The name QUAD refers to four cross-cutting quadrants — SOURCE, LOGIC, VISION, ACTION — that apply to the core as well as to each module. It does not refer to the number of modules. The quadrants are described in detail in Part III, section 4.3.
+
+Two cross-cutting mechanisms implement this requirement. The first is abstention: below a confidence threshold of 0.85, the system answers "I don't know". The second is a three-colour matrix (green, orange, red) that makes any sensitive action depend on human validation.
+
+This paper states the design requirements, the conceptual architecture, the modules, a proposed evaluation protocol and the known limitations. It reports no experimental results; it states testable hypotheses.
+
+**Keywords:** ethics by design; offline AI; selective abstention; human oversight; data sovereignty; embedded AI.
+
+---
+
+#### 1. Introduction
+
+Consumer AI systems generally depend on a remote service, answer even when their confidence is low, and treat ethics as a layer added after design.
+
+Three consequences follow: data leaves the device, errors are delivered with assurance, and safeguards are easier to bypass than if they were structural.
+
+These limits weigh most where connectivity is weak, hardware is modest and decisions are urgent, for example in rural or school settings.
+
+This work proposes an architectural answer. It makes four contributions:
+
+1. five design requirements that turn ethics into verifiable properties (Section 3);
+2. two cross-cutting mechanisms, abstention below a threshold and a three-colour matrix (Section 5);
+3. a modular architecture made of one core and four modules inheriting its rules (Sections 3 and 4);
+4. a falsifiable evaluation protocol (Section 6).
+
+The contribution is an integration and a formalisation of principles, not a new algorithm. The performance of the modules is not reported here.
+
+---
+
+#### 2. Related work
+
+**Ethics by design.** Value Sensitive Design builds human values into the technical design process [1]. Privacy by Design offers a version for privacy [2]. The European guidelines for trustworthy AI [3] and the UNESCO recommendation on the ethics of AI [4] set out similar principles. Jobin, Ienca and Vayena find, across more than eighty documents, convergence on principles but little consensus on how to implement them [5]. DHIKRA works on the second problem: turning principles into architectural mechanisms.
+
+**Selective abstention.** The idea of a classifier that refuses to answer when uncertain goes back to Chow's reject option [6] and was taken up for deep networks as selective classification [7]. A confidence threshold only makes sense if confidence is calibrated, yet modern networks are often poorly calibrated [8]. DHIKRA's 0.85 threshold is therefore a hypothesis to validate module by module, not a guarantee.
+
+**Embedded AI.** Running models on resource-constrained devices is documented by the TinyML literature [9] and by dedicated runtimes [10]. It makes offline operation realistic, at the price of more constrained models than large remote ones.
+
+---
+
+#### 3. Design requirements and architecture
+
+Ethics by design is broken down here into five requirements, each worded so that it can be verified.
+
+| Requirement | Target property | Proposed verification |
+| --- | --- | --- |
+| R1 Non-harm | No module has an offensive function; observation is the default behaviour | Specification review: no function acts against a person |
+| R2 Truthfulness | Below the confidence threshold (0.85), the system abstains | Abstention rate and selective risk measured on a test set |
+| R3 Sovereignty | Inference and storage stay local; the main function needs no network | Network-off test: function maintained, no outgoing traffic |
+| R4 Human control | Any sensitive action goes through human validation (three-colour matrix) | No execution path bypasses validation |
+| R5 Memory integrity | The history is sealed | Any alteration of the history is detectable |
+
+The architecture is modular. The DHIKRA SOURCE module is the core: it carries the ethical protocol and the sealed memory. Four application modules inherit from it, each covering one domain. A module can change domain without changing rules.
+
+| Module | Domain | Reference |
+| --- | --- | --- |
+| DHIKRA SOURCE | Ethics, memory, truth | VID-20261009-WA0051 |
+| SAHA SCAN AI | Health, food | SAHA-20261015-WA0052 |
+| ILM LIBERATION TABLET | Knowledge, education | ILM-20261017-WA0053 |
+| TAFSUT | Land, observation | TAFSUT-20261018 |
+| TUDERT YIWEN (formerly THUDERT 1) | Animals, livestock | — |
+
+This white paper counts only the core and the four application modules above. The complementary PENTA and executive modules listed in Part III (section 4.4) belong to the wider ecosystem and are not counted here.
+
+**Figure 1.** The DHIKRA SOURCE core carries the three common mechanisms (abstention below a threshold, three-colour matrix, sealed memory); each application module inherits them. All run offline and locally (R3), with no offensive function (R1).
+
+---
+
+#### 4. The modules
+
+Each module is described at a conceptual level: the problem it addresses, the principle of the response and the documented state of progress. No internal detail is published.
+
+##### 4.1 DHIKRA SOURCE, the ethical core
+
+**Problem.** A system's ethical behaviour is rarely verifiable, because it relies on instructions hidden inside a model.  
+**Principle.** DHIKRA SOURCE carries the common protocol: abstention threshold (R2), a three-level respect check (R4) and sealed memory (R5). It gives the other modules predictable behaviour.  
+**State.** Concept and application documented; proof of anteriority dated 13 October 2026.
+
+##### 4.2 SAHA SCAN AI, reading food labels
+
+**Problem.** Labels are dense and technical, and existing tools need a network and send images to servers.  
+**Principle.** Analysis is local (R3). The result is shown on three colour levels, following a principle of unconstrained information: give the truth so that people can choose, without punishing. If the reading is uncertain, the application abstains (R2).  
+**State.** Design sheet dated 16 October 2026.
+
+##### 4.3 ILM LIBERATION TABLET, knowledge on a dedicated device
+
+**Problem.** General-purpose devices scatter attention and expose pupils' data.  
+**Principle.** A single-application tablet, with offline AI and a controlled institutional network. A local council validates content using the three-colour matrix: green allowed, orange subject to contextual validation, red forbidden (R4).  
+**State.** Technical sheet No. 03 dated 17 October 2026.
+
+##### 4.4 TAFSUT, observation without violence
+
+**Problem.** Early fire detection is difficult in remote, wooded areas where the network is lacking.  
+**Principle.** A drone observation module designed with no offensive capability (R1), with on-board processing (R3). Observation respects privacy: consented surveillance, guaranteed anonymity. Any decision arising from an observation returns to a human (R4).  
+**State.** Documented design (technical diagram, software simulation of the behaviour).
+
+##### 4.5 TUDERT YIWEN (formerly THUDERT 1), veterinary diagnostic support
+
+**Problem.** In livestock farming, the vet is sometimes far away and disease is detected late.  
+**Principle.** A portable device combining several sensors and on-board AI gives a first opinion on three colour levels, in Kabyle, Arabic and French. It is decision support, not a diagnosis: below the confidence threshold, it recommends a consultation (R2).  
+**State.** Design presented.
+
+##### 4.6 Associated project: DHIKRA-IMMORTEL-AI
+
+DHIKRA-IMMORTEL-AI applies the respect check to the preservation of memories. It animates a photograph in a plain frame, with a deliberate constraint: movement is limited to the opening and closing of the eyes and a mouth movement, all of it gentle. This limit illustrates R1: what the system cannot do is part of its design.
+
+---
+
+#### 5. Cross-cutting mechanisms
+
+##### 5.1 Abstention below a threshold
+
+Let x be an input, ŷ(x) the model's answer and c(x) its confidence. The decision d(x) follows the rule below, with τ = 0.85:
+
+```math
+d(x) = \begin{cases} \hat{y}(x) & \text{if } c(x) \ge \tau \\ \text{"I don't know"} & \text{otherwise} \end{cases}
+```
+
+This rule trades coverage for reliability. Two quantities characterise it: coverage, the share of inputs for which the system answers, and selective risk, the error rate on the inputs actually processed [7]. The value 0.85 only makes sense if c(x) is calibrated [8]; it must therefore be established for each module.
+
+##### 5.2 Three-colour matrix
+
+The three-colour matrix is an original implementation by the author; similar traffic-light schemes exist, the contribution being its combination with community governance and offline operation (see Part III, sections 3 and 9). It assigns each action or use one of three levels.
+
+| Level | Meaning | Effect in the system |
+| --- | --- | --- |
+| Green | Allowed | The action runs or the content is displayed |
+| Orange | Validation required | A human must validate before execution |
+| Red | Forbidden | The action is blocked |
+
+The same grid applies to uses of this document: free reading and citation (green), prior written authorisation (orange), prohibited use (red).
+
+##### 5.3 Combination
+
+The two mechanisms compose. Below the threshold, the system abstains, whatever the colour of the action. Above the threshold, colour decides: an orange action waits for a person's validation, and a red action has no execution path. A human therefore remains the last link in any sensitive decision.
+
+---
+
+#### 6. Proposed evaluation protocol
+
+This section describes how requirements R1 to R5 will be tested. It defines hypotheses that can be refuted.
+
+**Hypotheses.**
+
+- H1: with τ = 0.85, each module's selective risk is lower than its error rate without abstention.
+- H2: each module's main function is maintained with the network off, with no outgoing traffic.
+- H3: no red action is executable, and no orange action runs without human validation.
+- H4: any alteration of the history is detected in the cases tested.
+
+**Metrics.**
+
+| Metric | Hypothesis | Method |
+| --- | --- | --- |
+| Coverage and selective risk | H1 | Risk-coverage curve on a test set specific to each module [7] |
+| Calibration error | H1 | Gap between confidence and accuracy [8] |
+| Outgoing traffic | H2 | Network capture during use, network on then off |
+| Latency and power consumption | H2 | Measurements on the target hardware |
+| Bypass attempts | H3 | Adversarial tests of the execution paths |
+| Alteration detection | H4 | Deliberate modification of the history, then verification |
+
+**Validity conditions.** Acceptance thresholds are fixed before measurement. The protocol is timestamped before the experiment, then published with the results, favourable or not. Test sets are described, and the sensitive modules (veterinary diagnosis, drone observation) are evaluated with specialists of the field.
+
+---
+
+#### 7. Intellectual property and provenance
+
+**Distribution model.** This text and its visuals are published under CC BY-NC-ND 4.0: non-commercial sharing, with attribution, without modification. The underlying technology is proprietary and closed. No commercial exploitation right is granted without the author's written agreement. Reserved names: DHIKRA SOURCE, SAHA SCAN AI, ILM LIBERATION TABLET, QUAD SYSTEM AI.
+
+**Provenance.** The existence of the documents at a given date is established by a Zenodo DOI (10.5281/zenodo.23964487), by SHA-256 hashes, by timestamps anchored in the Bitcoin blockchain through OpenTimestamps [12][13] and by RFC 3161 timestamps [11]. These elements show that a file existed at a given moment. They do not by themselves prove authorship or ownership of rights: they form a body of evidence that complements the copyright attached by law to the work.
+
+---
+
+#### 8. Limitations and threats to validity
+
+- **No results.** The modules are at the documented-design stage. No performance is reported, and none should be inferred from this text.
+- **Single threshold.** The 0.85 threshold is a starting hypothesis. It may be too strict for one module and too lax for another.
+- **External verifiability.** Keeping the code closed protects the author but limits independent verification. Public test protocols and audits under a confidentiality agreement can partly compensate.
+- **Local models.** An embedded model is less capable than a large remote one. Choosing reliability and abstention costs coverage.
+- **Low-resource languages.** The quality of a Kabyle interface depends on linguistic resources scarcer than those for French or Arabic, which can create performance gaps between languages.
+- **Regulated domains.** Drones and diagnostic devices fall under their own rules, to be integrated before any real use.
+
+---
+
+#### 9. Future work and conclusion
+
+The next steps follow the protocol in Section 6:
+
+1. fix and timestamp the acceptance thresholds of each module;
+2. calibrate confidence and determine the threshold suited to each module;
+3. build prototypes and publish the measurements, favourable or not;
+4. have the sensitive modules assessed by specialists of the field.
+
+DHIKRA QUAD SYSTEM AI defends the idea that a trustworthy AI knows how to say it does not know, keeps data with the person and leaves the human to decide. This paper turns that idea into verifiable requirements, architectural mechanisms and refutable hypotheses. Its value will be judged by the measurements that follow, and the protocol is designed so that they are published whatever the outcome.
+
+#### White paper references
+
+1. B. Friedman, P. H. Kahn Jr., A. Borning, "Value Sensitive Design and Information Systems", in K. E. Himma and H. T. Tavani (eds.), *The Handbook of Information and Computer Ethics*, Wiley, 2008.
+2. A. Cavoukian, *Privacy by Design: The 7 Foundational Principles*, Information and Privacy Commissioner of Ontario, 2009.
+3. High-Level Expert Group on AI, *Ethics Guidelines for Trustworthy AI*, European Commission, 2019.
+4. UNESCO, *Recommendation on the Ethics of Artificial Intelligence*, 2021.
+5. A. Jobin, M. Ienca, E. Vayena, "The global landscape of AI ethics guidelines", *Nature Machine Intelligence*, 1, 2019, pp. 389-399.
+6. C. K. Chow, "On optimum recognition error and reject tradeoff", *IEEE Transactions on Information Theory*, 16(1), 1970, pp. 41-46.
+7. Y. Geifman, R. El-Yaniv, "Selective Classification for Deep Neural Networks", *Advances in Neural Information Processing Systems 30*, 2017.
+8. C. Guo, G. Pleiss, Y. Sun, K. Q. Weinberger, "On Calibration of Modern Neural Networks", *ICML*, 2017.
+9. P. Warden, D. Situnayake, *TinyML*, O'Reilly Media, 2019.
+10. R. David et al., "TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems", *MLSys*, 2021.
+11. C. Adams, P. Cain, D. Pinkas, R. Zuccherato, *RFC 3161: Internet X.509 Public Key Infrastructure Time-Stamp Protocol (TSP)*, IETF, 2001.
+12. S. Nakamoto, *Bitcoin: A Peer-to-Peer Electronic Cash System*, 2008.
+13. OpenTimestamps, https://opentimestamps.org.
+
+© 2026 Yassa Yacine Cheurfa. Text under CC BY-NC-ND 4.0. The underlying technology remains proprietary. This document contains no source code or manufacturing detail.
+
+---
+
+## Part III. Reference sheet
+
+**DHIKRA QUAD SYSTEM AI**  
+*Sovereign, offline AI architecture, ethical by construction*
+
+DHIKRA · SAHA · ILM · QUAD
+
+Triple Licence sheet · No source code · Showcase
+
+🟢 GREEN · 🟠 ORANGE · 🔴 RED
+
+> [!NOTE]
+> "DHIKRA = Sealed memory. SOURCE = Sovereignty."
+
+**Author and rights holder:** Yassa Yacine Cheurfa · Independent researcher, Azazga, Kabylia, Algeria
+
+🟢 🟠 🔴
+
+### Summary
+
+This document presents DHIKRA QUAD SYSTEM AI, an artificial intelligence architecture designed to run offline and subject to a three-state ethical filter (Respect-Check) that precedes any action or any input. The system articulates four functio
+
+
+
 <img width="1280" height="1920" alt="4559" src="https://github.com/user-attachments/assets/87f9a06a-e510-473f-bce1-a840d89203e2" />
 # Livre blanc — DHIKRA QUAD SYSTEM AI
 
