@@ -1,3 +1,100 @@
+<p align="center">
+  <img src="assets/dhikra-feu-tricolore.png" alt="Feu tricolore éthique de DHIKRA : le vert est allumé" width="140">
+</p>
+
+<p align="center"><sub><b>Figure 1.</b> Le feu tricolore, aiguille de la balance éthique du QUAD SYSTEM AI.</sub></p>
+
+# QUAD SYSTEM AI — DHIKRA IMMORTEL AI
+
+**Version 2.3**
+
+> **IA classique** : IA locale, hors ligne, sans cloud, sans apprentissage en ligne. Chaque décision est vérifiable.
+
+## ⚖️ Philosophie
+
+Une IA juste n'est pas une IA qui décide à la place de l'humain. C'est une IA qui pèse. Sur un plateau, la puissance de la machine. Sur l'autre, le droit, la dignité et la liberté de la personne. Rien n'avance tant que la balance n'est pas équilibrée.
+
+Le feu tricolore est l'aiguille de cette balance : vert, la décision est juste, on avance. Orange, le doute, un humain doit trancher. Rouge, la balance penche contre la personne, l'action est interdite.
+
+---
+
+## N°1 — DHIKRA SOURCE
+
+Application mère. Protocole éthique, mémoire scellée.
+Règle d'abstention : si la confiance est inférieure à 0,85, l'IA s'abstient et le dit.
+
+DHIKRA-IMMORTEL-AI est l'application de DHIKRA SOURCE pour conserver le souvenir, avec respect.
+
+**⚖️ Justice : la mémoire est pesée avant d'être scellée.** Le souvenir est protégé, et l'IA s'abstient quand elle doute.
+
+**Points forts**
+- **Respect-Check** : un feu tricolore (vert, orange, rouge) qui valide chaque usage avant qu'il ait lieu.
+- **Mémoire scellée** : empreintes cryptographiques et validation humaine (CCSS).
+- **Photo vivante, toute en douceur** : seulement l'ouverture et la fermeture des yeux, et un léger mouvement de bouche.
+- **Clavier sans voix et sans son**, par respect.
+
+## N°2 — SAHA SCAN AI
+
+Scan alimentaire. Lecture des étiquettes sur le téléphone, sans envoi à un serveur.
+Si elle n'est pas sûre, elle répond « Je ne sais pas ».
+
+**⚖️ Justice : la vérité à égalité pour tous.** Chacun voit la même composition et choisit librement.
+
+**Points forts**
+- **Composition du produit lue en temps réel**, niveaux vert, orange, rouge.
+- **Pas de punition, juste la vérité pour choisir** : l'utilisateur garde le choix libre.
+- **Aucune donnée envoyée** : tout reste sur le téléphone.
+
+## N°3 — ILM LIBÉRATION TABLET
+
+Tablette éducative mono-application. WiFi contrôlé des institutions uniquement.
+Une seule fonction : apprendre. Pas de puce téléphone, pas de haut-parleur, pas de son, pas d'autre application.
+
+**⚖️ Justice : le savoir est un droit, pas un privilège.** Le même accès à l'apprentissage, pour chacun.
+
+**Points forts**
+- **Le droit de savoir pour tout le monde** : écoles et institutions, y compris pour les personnes détenues.
+- **Unité de contrôle hors ligne** (air-gapped).
+- **Validation par le conseil local** : passerelle à matrice tricolore (vert autorisé, orange validation selon le contexte, rouge interdit).
+- **Pas un téléphone** : aucune distraction possible.
+
+## N°4 — TAFSUT AI
+
+Drone civil humanitaire de nouvelle génération. Observation, aide et secours. Aucune fonction offensive.
+L'analyse se fait dans le drone. Aucune image n'est envoyée sur Internet. Seules de courtes alertes sont transmises, en local.
+
+**⚖️ Justice : voir pour protéger, jamais pour punir.** L'observation est consentie et la vie privée reste intacte.
+
+**Points forts**
+- **Détection des incendies** par imagerie thermique, pour l'agriculture et l'humanitaire.
+- **Observation éthique** : surveillance consentie, anonymat garanti.
+- **Autonome** : énergie solaire, fonctionne sans Internet.
+
+## N°5 — TUDERT YIWEN (anciennement THUDERT 1)
+
+Aide au diagnostic vétérinaire pour les animaux et les éleveurs.
+Réseau WiFi local, sans Internet. En kabyle, arabe et français.
+Aide l'éleveur, ne remplace pas le vétérinaire.
+
+**⚖️ Justice : l'équilibre entre l'outil et le métier.** La machine éclaire, l'éleveur et le vétérinaire décident.
+
+**Points forts**
+- **Quatre capteurs** : optique (SpO2, rythme cardiaque, respiration) et imagerie thermique.
+- **Résultat simple** : alerte verte, orange ou rouge, compréhensible tout de suite.
+- **Robuste et léger** : environ 280 g, étanche IP67, fait pour la ferme.
+- **Parle la langue de l'éleveur** : kabyle, arabe, français.
+
+---
+
+## Auteur
+
+**Yassa Yacine Cheurfa**
+Concepteur indépendant d'architectures d'IA éthique
+Auteur-concepteur de DHIKRA QUAD SYSTEM AI
+
+
+
+
 <div align="center">
 
 # DHIKRA-IMMORTEL-AI
