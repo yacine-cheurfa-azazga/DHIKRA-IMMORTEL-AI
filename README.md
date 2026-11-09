@@ -1,3 +1,4 @@
+<img width="2736" height="912" alt="4601" src="https://github.com/user-attachments/assets/62430f40-32d8-4692-b0d5-615c2eab6e29" />
 <p align="center">
   <img src="banner.svg" alt="DHIKRA-IMMORTEL-AI, TR-2026-QUAD-0018, version 2.3" width="100%">
 </p>
