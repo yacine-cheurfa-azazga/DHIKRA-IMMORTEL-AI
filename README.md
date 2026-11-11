@@ -1,3 +1,5 @@
+
+
 # DHIKRA QUAD SYSTEM AI
 
 **An ethical control layer between a human and an AI, with an offline deterministic core and explicit abstention**
